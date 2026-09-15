@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Devon Zuegel is Building a New Town (Colossus)</title>
+  <description>An audio reading of Devon Zuegel is Building a New Town from Colossus.</description>
+  <link>https://colossus.com/article/devon-zuegel-new-town/</link>
+  <pubDate>Tue, 15 Sep 2026 15:24:47 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:7edd7ec92c7fa8a1e8e75f93f844dfd7a4b27fd70508a8dcdbf0d4c09886b53a</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edd7ec92c7fa8a1e8e75f93/article.mp3" length="8887577" type="audio/mpeg" />
+  <itunes:author>Gabi</itunes:author>
+  <itunes:duration>00:09:15</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

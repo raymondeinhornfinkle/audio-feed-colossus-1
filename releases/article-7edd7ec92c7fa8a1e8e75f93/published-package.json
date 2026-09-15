@@ -1,0 +1,60 @@
+{
+  "article_id": "7edd7ec92c7fa8a1e8e75f93f844dfd7a4b27fd70508a8dcdbf0d4c09886b53a",
+  "guid": "urn:article-reader:7edd7ec92c7fa8a1e8e75f93f844dfd7a4b27fd70508a8dcdbf0d4c09886b53a",
+  "release_name": "article-7edd7ec92c7fa8a1e8e75f93",
+  "article_title": "Devon Zuegel is Building a New Town",
+  "publication": "Colossus",
+  "title": "Devon Zuegel is Building a New Town (Colossus)",
+  "author": "Gabi",
+  "source_url": "https://colossus.com/article/devon-zuegel-new-town/",
+  "duration_seconds": 555.375,
+  "file_size": 8887577,
+  "media_sha256": "0b78079f7936e0356da7cadac4e240cb8243866c9b9d6d68f3c8bc01c3a0cba4",
+  "transcript_sha256": "751b5d68c760a8467d0d30fd52f83707c330c7f731e14eeed03238fd7657bac3",
+  "extraction_report_sha256": "4099c39d048918a0debc5f2b2ddc2fd17581ea4f8b40a68ceb54399f8249e823",
+  "audio_manifest_sha256": "1f31b150fe73a2cb0749b1e026db35a44e19b52b70eaff51358b0133c3d85116",
+  "audio_run_sha256": "cc75907e0639ef5f71f6eaa7fa2387c53cb9a50c00065f0d14d10f59eac8ad38",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 3,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "8fc17b52854c809177ed1c3d7c9fa109537d5b6bc5ddf608c707d1dfadb28630",
+      "audio_sha256": "6422e644fcc77c4bb31133703955655f000bbcd017f00a4b3452f920978f345b",
+      "pcm_frames": 6250200
+    },
+    {
+      "index": 2,
+      "text_sha256": "bdea3476c1e4fe4ec9870d3f40b5881c00f3a99a1f0fc18cc10374efec7488f5",
+      "audio_sha256": "f73bdda632c8020e194e8524baadd605738acaa95a54dad4a8bef67252484346",
+      "pcm_frames": 5394720
+    },
+    {
+      "index": 3,
+      "text_sha256": "22ec0b26c10f97d4f48b0995e40c7fd138dd3f23196d04dc2dedd4621ebdb62a",
+      "audio_sha256": "52c92a032d932ce658a132f9088d9d01749e5e5b23638ee41d9c10ab3227f1c0",
+      "pcm_frames": 1684080
+    }
+  ],
+  "pcm_sha256": "f240045e64e8963e129f8fdd32921e221775351d8f3b49681f287580864783c5",
+  "pcm_frames": 13329000,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edd7ec92c7fa8a1e8e75f93/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edd7ec92c7fa8a1e8e75f93/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edd7ec92c7fa8a1e8e75f93/rss-item.xml",
+  "released_at": "2026-09-15T15:24:47.907868+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}
