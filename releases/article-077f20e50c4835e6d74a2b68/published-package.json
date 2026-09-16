@@ -1,0 +1,114 @@
+{
+  "article_id": "077f20e50c4835e6d74a2b68922d14bb542641969ead42f83dee65555bbc40c0",
+  "guid": "urn:article-reader:077f20e50c4835e6d74a2b68922d14bb542641969ead42f83dee65555bbc40c0",
+  "release_name": "article-077f20e50c4835e6d74a2b68",
+  "article_title": "The Man With the Hot Hand",
+  "publication": "Colossus",
+  "title": "The Man With the Hot Hand (Colossus)",
+  "author": "Dom Cooke",
+  "source_url": "https://colossus.com/article/ramtin-naimi-man-hot-hand/",
+  "duration_seconds": 2847.89,
+  "file_size": 45568021,
+  "media_sha256": "21f441fc29daea38aaadbc898e3f09744e45f1b92c9b71ec6bb283141485b459",
+  "transcript_sha256": "b38e1a432480cc932d5edc0824957f4a4e9e22c7f27a64989e8f2ad3a1289331",
+  "extraction_report_sha256": "f8c63b5f4bdabd4fc814a2a0113910631120688f67dbb212473fefeac4405894",
+  "audio_manifest_sha256": "a73aba47ba4dec17f26c3291221de97134ceb18d1e101003d35cae039c17bb08",
+  "audio_run_sha256": "a5e1bf7cede14e1e2c1bc93cab99f32487b126a4f16d338d6a6754674a6a4163",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 12,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "067badc9b4cb4316374bd6a314ea85c63fc6cb71c029f6c755e3f1b051a0212f",
+      "audio_sha256": "b9d3fe1cde086c7fa226ab7630370cc0fa3339f900ab2cf4c7ffb33cdd8b1467",
+      "pcm_frames": 5929080
+    },
+    {
+      "index": 2,
+      "text_sha256": "3b020550b3ab5646ff01285d2009775159742c675c8bd8cdba4b7747e7604b6b",
+      "audio_sha256": "c49aa6c1914d1c4473d1eff2dc4bbb5b8d07040b0021e1289aef2d8252eb5edf",
+      "pcm_frames": 5736600
+    },
+    {
+      "index": 3,
+      "text_sha256": "ef4cbd4f5b1ddad95146ec2704e88e40c0f2df049344e9c76c6bb9025736f7eb",
+      "audio_sha256": "51ea158b8ddc6e1c97834356c999b963fa312c6b61ca0cb04230ef29d1d71d64",
+      "pcm_frames": 5808600
+    },
+    {
+      "index": 4,
+      "text_sha256": "c8b49b4cf0c6af4180e4c407aa3b04c227217670e3285aa99f459821752a3200",
+      "audio_sha256": "94648b3f6310ba23cd11757a67e6e43e97212bf13c5430808cdd916ce7fb16b5",
+      "pcm_frames": 6004680
+    },
+    {
+      "index": 5,
+      "text_sha256": "cf9be5c3d7c4710dd6d49d760ce6b651aef6798a5ab449b0b66d33f033d77c34",
+      "audio_sha256": "00e26c6442f40d8d371bda135434b3f42237ff78dfcc421a88a1c383087084f5",
+      "pcm_frames": 5982360
+    },
+    {
+      "index": 6,
+      "text_sha256": "302572a4a93e664c31ff4177b3b2093d5a746c137c3e208bc779b1050d4fbec4",
+      "audio_sha256": "07cafcb67a902fd1762dcf88b8d735151d7a8dfd664946173de32564ccce7721",
+      "pcm_frames": 5861640
+    },
+    {
+      "index": 7,
+      "text_sha256": "3fbb7827c96a28bedca5d0d1389fd0bb43fd1143e32f6951ff0313f65801be39",
+      "audio_sha256": "1cc19d6d41cee6bc307d609ffd528a53faaa639b490589f466b44ee7b9fbadb2",
+      "pcm_frames": 5927160
+    },
+    {
+      "index": 8,
+      "text_sha256": "d3668a2477097c22248aeb470c8c86bfddb5fe7dc191ea86cf6bacce8a11ca42",
+      "audio_sha256": "7a3414ea9cd1b91311b952b76d99d67bb9b16a0191a2ca736faefa7f27561849",
+      "pcm_frames": 6439680
+    },
+    {
+      "index": 9,
+      "text_sha256": "4a26d36c88c3f650221a7d462421a289ef99b3c7036af30d1296986314e062b0",
+      "audio_sha256": "365bab62738decac492742d28758c276fb1dcff425ff2084da77f2d0743ff90f",
+      "pcm_frames": 5724480
+    },
+    {
+      "index": 10,
+      "text_sha256": "d0b3cd456e925f545eb2de8f6d320db5f6dbb5d61d82eb0c6a264343b035a0b0",
+      "audio_sha256": "27b87172e9e768b95c2d6f46a51b3f436e4bd01555f37dac9e439b5a1167428b",
+      "pcm_frames": 5762520
+    },
+    {
+      "index": 11,
+      "text_sha256": "121e92c5bcbf1a9146c362fc7760fcf547c8c3b6abdc5fdfd706b1446576bd66",
+      "audio_sha256": "a25cf02d152589e3ac25d3a6f21b899da09f2b74df32d71b479186dc0495312a",
+      "pcm_frames": 5711760
+    },
+    {
+      "index": 12,
+      "text_sha256": "d5334a149cb1f9de6f67ef961b8e1cc9998749f65aedce3d42dc186fb769bfd6",
+      "audio_sha256": "3fadd011a406f2eebfc57401ee309a4b81628599e7578a7f549e0e2fc4ee31e4",
+      "pcm_frames": 3460800
+    }
+  ],
+  "pcm_sha256": "363bf8cfca15b94be8a0d75bed2f3bad49f2001f778a91909b5d3b1bb7a31a56",
+  "pcm_frames": 68349360,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-077f20e50c4835e6d74a2b68/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-077f20e50c4835e6d74a2b68/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-077f20e50c4835e6d74a2b68/rss-item.xml",
+  "released_at": "2026-09-16T16:09:46.095797+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

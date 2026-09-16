@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Taste in Math (Colossus)</title>
+  <description>An audio reading of Taste in Math from Colossus.</description>
+  <link>https://colossus.com/article/taste-in-math/</link>
+  <pubDate>Wed, 16 Sep 2026 16:15:09 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:7edf63334204464d8befa4aa0cf7ae3dc7fa2adc53986920ddd49ef004459218</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edf63334204464d8befa4aa/article.mp3" length="17025674" type="audio/mpeg" />
+  <itunes:author>Terran Mott</itunes:author>
+  <itunes:duration>00:17:44</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

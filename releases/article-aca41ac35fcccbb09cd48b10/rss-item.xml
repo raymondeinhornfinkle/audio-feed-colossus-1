@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>We Have Learned Nothing (Colossus)</title>
+  <description>An audio reading of We Have Learned Nothing from Colossus.</description>
+  <link>https://colossus.com/article/we-have-learned-nothing-startup-pundits/</link>
+  <pubDate>Wed, 16 Sep 2026 16:12:11 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:aca41ac35fcccbb09cd48b10babeb069ae934f33994a4ca602638c0a7e76a9b0</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-aca41ac35fcccbb09cd48b10/article.mp3" length="25915670" type="audio/mpeg" />
+  <itunes:author>Jerry Neumann</itunes:author>
+  <itunes:duration>00:27:00</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

@@ -1,0 +1,102 @@
+{
+  "article_id": "a5db6fd9647a500cdb072e95bb7c8cc847e04819994ce4444368c3fb9fd1a2d4",
+  "guid": "urn:article-reader:a5db6fd9647a500cdb072e95bb7c8cc847e04819994ce4444368c3fb9fd1a2d4",
+  "release_name": "article-a5db6fd9647a500cdb072e95",
+  "article_title": "Inside Cursor",
+  "publication": "Colossus",
+  "title": "Inside Cursor (Colossus)",
+  "author": "Brie Wolfson",
+  "source_url": "https://colossus.com/article/inside-cursor/",
+  "duration_seconds": 2241.665,
+  "file_size": 35868172,
+  "media_sha256": "a76a7fa0d3a518d495ee917306392dccfb5c64bf223d38810d126e34df5525bf",
+  "transcript_sha256": "512391f905cd08aa0a53df9e8556c775423c05df434c6b72929b87a86f85decd",
+  "extraction_report_sha256": "c30980c31d0035ce935e1e41e61c7e70762e62f9b9ab40213cbaad3a62613db7",
+  "audio_manifest_sha256": "1b5bbfa281d59c47d04d10e1aa9f15d865cc0e6fc4833856aa23259266b5c6df",
+  "audio_run_sha256": "64124744bc022e2a271ecb47478e356ff46d2e2c5b5040c63b5db163c567c1b4",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 10,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "1e891652f4e53bb43b7388ec22c3d8f35a3ca75380163c3a131fc223a3a8c725",
+      "audio_sha256": "6df5aa15b49f9281fb5a76dbba8ac5ef5bca96c9a7b20ed99d527db7abd3d3d4",
+      "pcm_frames": 5436840
+    },
+    {
+      "index": 2,
+      "text_sha256": "0102647751952e167d0e6daaafabdf6ec2d6252dc7c8fa3519c445cf1d0ba84e",
+      "audio_sha256": "260c8a6a90a050a2ed30cc37f77781b9657abbce29da5907026500be60100802",
+      "pcm_frames": 5310000
+    },
+    {
+      "index": 3,
+      "text_sha256": "dbb0f043dceeef0b3e68a07a41adf05063b9e65a127d96d2527d15ab397a2cea",
+      "audio_sha256": "97c2f5a9f0bb7b28a0d77e9e25e4d89a601045a0e7955ea10a925153b8c3925c",
+      "pcm_frames": 4643640
+    },
+    {
+      "index": 4,
+      "text_sha256": "5bc872636443c67c332a0e5b17615caf46c5d7fd102e20b783583bc3a0400cc5",
+      "audio_sha256": "914780c530a31cf56c08e726a07896d2d610b9e8df68200cd6607ab6bda0dd65",
+      "pcm_frames": 5673360
+    },
+    {
+      "index": 5,
+      "text_sha256": "eb0724b2bbd3f17eead9ab6722492f2f9f68c612b6b5d6d473c5257cd36821ea",
+      "audio_sha256": "5b6cb675fc31113e6d4e2287586b3bf7ca9ce03f1b41dbc6111dd72361872eb0",
+      "pcm_frames": 5984040
+    },
+    {
+      "index": 6,
+      "text_sha256": "a3b621e1bd2b22bf041285153b7af6de5556ab27ecf176e032830c6637095092",
+      "audio_sha256": "4ac4c70b557f8a704cb7aeb9b3313d87b8c90ac233e8b79c01e74ce5dbf59bb4",
+      "pcm_frames": 5675160
+    },
+    {
+      "index": 7,
+      "text_sha256": "8d7ff73474e56d2d5dfff92fad61d9f26e1bde53b8960db7ad54d7ec9ad9c58f",
+      "audio_sha256": "f5d7958de4c466398d483fd35853011d55b8af7b746b926cb04b7cacf72f8301",
+      "pcm_frames": 5668440
+    },
+    {
+      "index": 8,
+      "text_sha256": "362bc1edcdbba1c85f7b6777586f495ac44eace36d36cb3cf71ce5ff971260c1",
+      "audio_sha256": "0401140d8de6513417260d843436c422e32485835a47fd2d62680b9a844c7101",
+      "pcm_frames": 4886400
+    },
+    {
+      "index": 9,
+      "text_sha256": "56839b20c48b7607ce26a0bc44305df91962980d9a8c16a7eeb5c8fa38de7bd5",
+      "audio_sha256": "44c5ba165ea57191a3550c0edd4dce84f368b4809ad4f4701ee20f28b223e5d2",
+      "pcm_frames": 5179920
+    },
+    {
+      "index": 10,
+      "text_sha256": "9f5ebfa27ebc46b4a6875ceef9ff7d09554e51fa63516f603b5ee1fb81d18a6d",
+      "audio_sha256": "cba87129006befa34f38c815a43cd5ce5bb1de576afef626fec16f84a375af3d",
+      "pcm_frames": 5342160
+    }
+  ],
+  "pcm_sha256": "835bae090f544d628230e1200d890ca6f289251b9f399ad1e728b3e750478865",
+  "pcm_frames": 53799960,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-a5db6fd9647a500cdb072e95/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-a5db6fd9647a500cdb072e95/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-a5db6fd9647a500cdb072e95/rss-item.xml",
+  "released_at": "2026-09-16T16:13:30.217226+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

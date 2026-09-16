@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Life’s Work Leaders (Colossus)</title>
+  <description>An audio reading of Life’s Work Leaders from Colossus.</description>
+  <link>https://colossus.com/article/lifes-work-leaders/</link>
+  <pubDate>Wed, 16 Sep 2026 16:16:56 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:341d288cd8175d0c6aaa84a8545a7a23737e844789383a1ff5b8d70d96135048</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-341d288cd8175d0c6aaa84a8/article.mp3" length="30479115" type="audio/mpeg" />
+  <itunes:author>Gabi</itunes:author>
+  <itunes:duration>00:31:45</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

@@ -1,0 +1,132 @@
+{
+  "article_id": "67926431d4a473b881f5f2a26256e0226826da07b7c2df380aa1dffb65275826",
+  "guid": "urn:article-reader:67926431d4a473b881f5f2a26256e0226826da07b7c2df380aa1dffb65275826",
+  "release_name": "article-67926431d4a473b881f5f2a2",
+  "article_title": "Is Space Investable?",
+  "publication": "Colossus",
+  "title": "Is Space Investable? (Colossus)",
+  "author": "Donald Lee-Brown",
+  "source_url": "https://colossus.com/article/is-space-investable/",
+  "duration_seconds": 3653.215,
+  "file_size": 58453143,
+  "media_sha256": "79bc9035aa6fdd11aad2adcc762359e67d56e4709ff3a26d63af7be3af268da1",
+  "transcript_sha256": "663c0de29a9f77375cecb46c7dacb36f2a3a554ef3c340bbb1f33226276cf2c4",
+  "extraction_report_sha256": "8960c4c70b6a9f7e527d487b4bbe53c1c1bf0cac29ae5d57bd3710a7552c418a",
+  "audio_manifest_sha256": "88748c19ad6de643d46c0b9142f262befa274207a90711fc3eb08df2a1505e4d",
+  "audio_run_sha256": "13f85ee06111b437f7130625eaff52b5f8c3f614b7a5da46b591478d3bc06cf8",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 15,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "77dfe3fc325d448d9bfbf62d0e919dd10107ca82b23d16cabf40d58a489afdcc",
+      "audio_sha256": "6a1f22b5e2131a3317073af99a88339e7bc76dcf7c832a6e76c2f6362136e74f",
+      "pcm_frames": 5808720
+    },
+    {
+      "index": 2,
+      "text_sha256": "6f77596f3d50adfc2075aec0fc7eff5378f1b59d479630eb171a7368526cb431",
+      "audio_sha256": "f27b7b839eb2b2a798c69324d841a50782194a5967de530446bb9bbfb5aeaab7",
+      "pcm_frames": 6272280
+    },
+    {
+      "index": 3,
+      "text_sha256": "a3b25af6e5afafd5b5efaff0d6e5374b9024db39569f1fa065c642d61e4ae2d7",
+      "audio_sha256": "7d252f3cce708422e2f8a33968a87e7854a52d21c431b6c30dde753127c91699",
+      "pcm_frames": 6838440
+    },
+    {
+      "index": 4,
+      "text_sha256": "35e73cecfb7191064635b541270560b7532e62b1ba0b600d3630083ec983b801",
+      "audio_sha256": "d9f380c7e65ae5dd9e19cbed7a52b17d2cb55c32854d64070073d9be03f086fc",
+      "pcm_frames": 6223560
+    },
+    {
+      "index": 5,
+      "text_sha256": "0ea6e0694c249c3673f3c943faa195b413ad8b3b700afec43b9071ee3c4bafdc",
+      "audio_sha256": "3f5bcae84c470050d949a57f9a7873ddd62fa3f5324a70a658250ab38d9969cc",
+      "pcm_frames": 6068160
+    },
+    {
+      "index": 6,
+      "text_sha256": "8554ab989c92694ede2bd5790aad2ba556967bae53c78be795e8dc0ddee7e306",
+      "audio_sha256": "1dc8b4b9f1941a845993b9e8b191a0a2192eb6068e554f20df7c12c2b4f42a8a",
+      "pcm_frames": 6193680
+    },
+    {
+      "index": 7,
+      "text_sha256": "b933478e9001846a7a59729543e505445ed8825290816141906feded163407f1",
+      "audio_sha256": "df81d86ca82c831fb7650bb43feb7b1f49b82a29146a7cb933dbbe806153df9a",
+      "pcm_frames": 5833680
+    },
+    {
+      "index": 8,
+      "text_sha256": "416ecc65754c078692d4c59c1b622880160d61201e7c1b99485f59f707fb1747",
+      "audio_sha256": "36d23fdc3d2e642c83820e3ea5763cfdd22f9ab800b723e7bb19c7b3698dc4bf",
+      "pcm_frames": 6318480
+    },
+    {
+      "index": 9,
+      "text_sha256": "0c4ad0f0990479b5f38c25b923c199cab1f216998b09f1b9e9bba2b4aed1394e",
+      "audio_sha256": "05b2df9dd25b069536433b87d23e0429d46898327d8a21ab35d315dbd799eb1a",
+      "pcm_frames": 5898840
+    },
+    {
+      "index": 10,
+      "text_sha256": "4ed30cdd06ca32dea471211c03abc9d858f50ce5d69d509ee87f60f13c360ff2",
+      "audio_sha256": "c0a13918a1088bb484f6e999d5795af656c597d661a0c59966e0e5b4cf60fa2b",
+      "pcm_frames": 5788560
+    },
+    {
+      "index": 11,
+      "text_sha256": "9076b7e871d4193bb1ddd6857d067c29622286322cfb3e6f45591ccc4b005171",
+      "audio_sha256": "95f3b3a27593866309c6ac337cb8aaca4a45de3b7213b5efad8361b8e6e76988",
+      "pcm_frames": 6668520
+    },
+    {
+      "index": 12,
+      "text_sha256": "529eb4d28938ba4530e03eaa6aa508c4a50d483dd90f422955ba0e0510c9d623",
+      "audio_sha256": "8a1b396c2b52c10fcb114fa1721b7073fac0d299a3ca1a0ac4362e0e7dbdf7ba",
+      "pcm_frames": 6385080
+    },
+    {
+      "index": 13,
+      "text_sha256": "b10c3956f320d4d769aeb171544b559c2069bfa4912968b322f1bb4b5c9f339d",
+      "audio_sha256": "0d8421a832aff6f95769d78c260bbfc8d0f911adf0d3ad98b03cb1dd1d0c81d8",
+      "pcm_frames": 5916480
+    },
+    {
+      "index": 14,
+      "text_sha256": "725fdd76dc652a683815f3e9b3b859deddda885d899e97f72857225d6256fa6e",
+      "audio_sha256": "52a5818a4a9ca74dd75af19ec2fef55c0c69ef4eaacdcd2b8b1d23e589d02d5e",
+      "pcm_frames": 5742480
+    },
+    {
+      "index": 15,
+      "text_sha256": "0a32e7ba52637e8e1152288ec9e094980e47c93aebcbc92f7bb0f163555af564",
+      "audio_sha256": "60156e8bf818e6eb64d028fa14a1c767f4fd7909491b678a2a4f9130950b6196",
+      "pcm_frames": 1720200
+    }
+  ],
+  "pcm_sha256": "da7c262c729e57d5d4652fb5e6f8a09dc32d8f3464f49496bcbdc68d7189cf77",
+  "pcm_frames": 87677160,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-67926431d4a473b881f5f2a2/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-67926431d4a473b881f5f2a2/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-67926431d4a473b881f5f2a2/rss-item.xml",
+  "released_at": "2026-09-16T16:12:02.079769+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

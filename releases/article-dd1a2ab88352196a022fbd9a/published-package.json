@@ -1,0 +1,66 @@
+{
+  "article_id": "dd1a2ab88352196a022fbd9acd1a483fb5873e2d6302bbf2775e7f848a7f30b2",
+  "guid": "urn:article-reader:dd1a2ab88352196a022fbd9acd1a483fb5873e2d6302bbf2775e7f848a7f30b2",
+  "release_name": "article-dd1a2ab88352196a022fbd9a",
+  "article_title": "A Suicide",
+  "publication": "Colossus",
+  "title": "A Suicide (Colossus)",
+  "author": "Jeremy Stern",
+  "source_url": "https://colossus.com/article/memorial-day-suicide/",
+  "duration_seconds": 809.05,
+  "file_size": 12946439,
+  "media_sha256": "8cd56e29e53c585d2b43a06e3f6cc804caa292c2b76b413a38afa034c094d928",
+  "transcript_sha256": "563a648b0ba9d438cc190fb1987b0c1b5875753c97edb95ea04e6669e3c6d7e7",
+  "extraction_report_sha256": "b24c4fb6a72096e59421c1f77696b2934ac41e5f45a3943235663974f882c130",
+  "audio_manifest_sha256": "479cc9ab43cfa41ccc6bd2df633880780bf5b9e0381a361d7ccc62521c285946",
+  "audio_run_sha256": "6f2ae883b594aba25c83c8ede7ee12e99d3cd8d038c806d981057d20997f54f7",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 4,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "2feaf82a5fe00d8717c6970e353b2ac85d0aff7bdb4436d1ac7fddeaba7c24fe",
+      "audio_sha256": "51e2c441639b8d3a5e60c92ceb136b18880068de4ca39e20e4f092b1f23c17fb",
+      "pcm_frames": 4914840
+    },
+    {
+      "index": 2,
+      "text_sha256": "5d10794c4966cb582a966621880c57314b627b6f8f0e4911c4f081930eeb19e9",
+      "audio_sha256": "766aa9b572d07eac5fd13042e5db62e8723dae259c97ffb82e293abf541dd134",
+      "pcm_frames": 5037720
+    },
+    {
+      "index": 3,
+      "text_sha256": "f08252ff9cef1254eac2595979f7eb8844f23af8b0b6dcb320fe0bb36f4287b1",
+      "audio_sha256": "831714b49f4c3a74d15f92bb418377a20dc2a65ea921d15e7ca7d618a1c10cec",
+      "pcm_frames": 5146800
+    },
+    {
+      "index": 4,
+      "text_sha256": "43db51481b90f1ea2e45ea90c70f74ef316c834a7d9c9fc19c7edc92e19a6849",
+      "audio_sha256": "d710384b795227839dff9a273b272b42b8d24b3ba0b6673d9050d5249e67ee87",
+      "pcm_frames": 4317840
+    }
+  ],
+  "pcm_sha256": "c239dc035cf515bf9d38675aff1ccce08d9c14203522e9ace58360fcd10de5ee",
+  "pcm_frames": 19417200,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dd1a2ab88352196a022fbd9a/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dd1a2ab88352196a022fbd9a/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dd1a2ab88352196a022fbd9a/rss-item.xml",
+  "released_at": "2026-09-16T16:19:59.077520+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

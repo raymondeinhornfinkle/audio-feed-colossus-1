@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>A Foundation Model in Your Pocket (Colossus)</title>
+  <description>An audio reading of A Foundation Model in Your Pocket from Colossus.</description>
+  <link>https://colossus.com/article/raspberry-pi-eben-upton/</link>
+  <pubDate>Wed, 16 Sep 2026 16:16:15 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:ff27e9cdd91f5ed36d6ce22b401229560503ef3ff64cc72934f6cb4586e2623a</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-ff27e9cdd91f5ed36d6ce22b/article.mp3" length="28471966" type="audio/mpeg" />
+  <itunes:author>Terran Mott</itunes:author>
+  <itunes:duration>00:29:39</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

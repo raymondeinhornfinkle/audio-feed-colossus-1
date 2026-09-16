@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Built to Own (Colossus)</title>
+  <description>An audio reading of Built to Own from Colossus.</description>
+  <link>https://colossus.com/article/3g-capital-built-to-own/</link>
+  <pubDate>Wed, 16 Sep 2026 16:17:26 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:e92db5af8968adbbf8a6e98d9fa34bd8e9ea32f9f53c1f9daebf1d55d314782d</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-e92db5af8968adbbf8a6e98d/article.mp3" length="74435593" type="audio/mpeg" />
+  <itunes:author>Dom Cooke</itunes:author>
+  <itunes:duration>01:17:32</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

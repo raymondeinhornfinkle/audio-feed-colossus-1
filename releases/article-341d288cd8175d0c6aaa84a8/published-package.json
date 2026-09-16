@@ -1,0 +1,84 @@
+{
+  "article_id": "341d288cd8175d0c6aaa84a8545a7a23737e844789383a1ff5b8d70d96135048",
+  "guid": "urn:article-reader:341d288cd8175d0c6aaa84a8545a7a23737e844789383a1ff5b8d70d96135048",
+  "release_name": "article-341d288cd8175d0c6aaa84a8",
+  "article_title": "Life’s Work Leaders",
+  "publication": "Colossus",
+  "title": "Life’s Work Leaders (Colossus)",
+  "author": "Gabi",
+  "source_url": "https://colossus.com/article/lifes-work-leaders/",
+  "duration_seconds": 1904.85,
+  "file_size": 30479115,
+  "media_sha256": "19fe488325c8d3c90a67635dcd4f4f3470a58503444e1c2db4f747defeb8c5b3",
+  "transcript_sha256": "712170e76c0770d4ebbdff29ee9c77cabf43e826647641cae479d6d56198dcee",
+  "extraction_report_sha256": "abcc4e42cfe67b949eab351746e936a92513b5cadccfd0222c47ec4d8ededdb8",
+  "audio_manifest_sha256": "770fe99b9eefecc3b970973b92749fd0e8bf023888034a4ca79c7762c4f67df6",
+  "audio_run_sha256": "d94f16d5a001c3c19158f5ee13509538cad5043e782fc77d4ac481bdf096d6ff",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 7,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "231d9c978e98f02d1b99741e0fe937a8a5f4cf281bc4314a5a55487ac1c1e738",
+      "audio_sha256": "1814acb5b0adabe5e28482ef44373eb2c67a16461ddbed2c1fe965cd75f3169f",
+      "pcm_frames": 7092120
+    },
+    {
+      "index": 2,
+      "text_sha256": "696899931c223a4f03b83f7554893845a501c755c21bea779ced73bbd82a2e1b",
+      "audio_sha256": "fb26421c0cc4b4423092d6c74eda8f58804f4d1ce1fb1971b4841a51ec863ed6",
+      "pcm_frames": 6604080
+    },
+    {
+      "index": 3,
+      "text_sha256": "53a37cd4c943ef26757f55e424e5dac100c88f088cedc61b7e4c07da22d5d0fa",
+      "audio_sha256": "df931c5cd7947d932acea5e9175f94cd2e31a0994617f1dcbb8d9c46dfa18f22",
+      "pcm_frames": 7052160
+    },
+    {
+      "index": 4,
+      "text_sha256": "0b7fea692034d5bae4d1dfd100ecc470aefeba0dbc4f0735fa33375b2495e03c",
+      "audio_sha256": "db310bbb5362f5cfd85a76b61e443c2b247eabec544ebe2909af7699b107fab6",
+      "pcm_frames": 6567360
+    },
+    {
+      "index": 5,
+      "text_sha256": "b11d6b1e7428449036821d325172e88111596f39926b97a9aa2a91821a4028e2",
+      "audio_sha256": "9a84f756cd255c047eda8dd6ea5189104885218182b373f8c63a46b354c3916d",
+      "pcm_frames": 6556680
+    },
+    {
+      "index": 6,
+      "text_sha256": "88df7e14dcdd4dff6c0a3e6c44083a2d8ae0d5131e0e2b612851565d93a4021f",
+      "audio_sha256": "af13a74acc99480ed89386c08ddf6a478628f4cd08174b6966aac2b489c90838",
+      "pcm_frames": 5796360
+    },
+    {
+      "index": 7,
+      "text_sha256": "ed4bb625a80d98725000b16b52b75e7a82cca71116826ac3b99bb108f8f66bb1",
+      "audio_sha256": "3a520be1be4ecbb55d48ac1b923f1f8c460d21e53383991676608d63a63f312b",
+      "pcm_frames": 6047640
+    }
+  ],
+  "pcm_sha256": "84134a44ca63a1c23a92a69235a39adc3edf750331a8b62b039fa6912762835b",
+  "pcm_frames": 45716400,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-341d288cd8175d0c6aaa84a8/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-341d288cd8175d0c6aaa84a8/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-341d288cd8175d0c6aaa84a8/rss-item.xml",
+  "released_at": "2026-09-16T16:16:56.540783+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

@@ -1,0 +1,97 @@
+Taste in Math
+
+How a boy's dying wish launched a 150-year quest to map all the patterns in the universe
+
+By Terran Mott.
+
+The best story about math is:
+
+In post-Napoleonic France, there lived a boy called Évariste Galois, who saw something beautiful and fundamental no one else had yet articulated. But as he came of age, his life unraveled. In 1829, when Galois was 18, his father committed suicide. The following year, he was expelled from the École normale supérieure for political insubordination. Later in 1830, on Bastille Day, during the July Revolution, he was arrested and sent to prison, where he continued to work on math through depression and desperation. Galois was released in the spring of 1831; one month later, he was killed in a duel. He was 20.
+
+The night before the duel, Galois wrote 60 feverish pages of mathematical notes to his friend Auguste Chevalier. His parting words pleaded that the trusted mathematicians of his day would “give their opinion, not as to the truth, but as to the importance of these theorems. Later there will be, I hope, some people who will find it to their advantage to decipher all this mess.”
+
+Galois’ letter worked, initiating a grand project to untangle the ideas of a boy who died young and unheard. The project took nearly two centuries. In the end, it required posterity to chase what seemed like coincidences until they resolved into patterns that resolved into answers. In 1985, a group of five mathematicians completed the project. They archived the work of the previous 150 years in a torso-sized, fire engine-red book, and decided to call it the Atlas of Finite Groups.
+
+The Atlas
+
+The idea in Galois’ notes was that symmetry is a language—a tool to describe and study the world. The field of mathematics he originated and named is called group theory. The project that produced the Atlas is called the classification of finite symmetry groups.
+
+Group theory asks: “When is doing something complicated the same as doing nothing?” Examples include: turning a hexagonal tile six times until it aligns again, making four left turns on a city grid, collapsing military time into two cycles of an analog clock, braiding someone’s hair to create a memory of a permutation, or learning the roll, pitch, and yaw to control a camera gimbal. Group theory is the branch of math that explores these patterns and others that feel this way. Today, we use Galois’ language to study everything from the symmetry of molecular structures to the performance of quantum computers.
+
+The goal of the Atlas project was to find all these patterns. It may seem fanciful that “describe all possible symmetry in the world” is a reasonable mathematical mission. But it is possible because there are “atomic” patterns—indivisible systems that serve as building blocks for the rest.
+
+This is spiritually similar to the periodic table, in that all compounds come from basic elements, but a little different in practice. There are in fact an infinite number of elemental groups, but they belong to certain families, like how the rotations of a triangle, a square, a pentagon, or a hexagon go on endlessly, but share a common schema. The Atlas is a field guide to these families.
+
+The classification project shaped the life’s work of countless people. In May 1977, mathematician Daniel Gorenstein told The New York Times that he had been working on the problem for five hours a day, seven days a week, 52 weeks a year, since 1959. The Atlas authors describe how they “culled material from many places, sometimes barely remembered, which might have been transformed beyond recognition by our own investigations or transliterations.”
+
+The hardest part was finding patterns that don’t belong to a family—misfit creatures that required special attention. The first five were found 30 years after Évariste Galois’ death by the French mathematician Émile Mathieu. Despite steady effort, a century slipped by before the next was found by Croatian mathematician Zvonimir Janko in 1965. Then, three more were found within three years by mathematician John Conway, who would lead the creation of the Atlas. All were found by 1985.
+
+Many of these misfit creatures were conjectured and constructed by different people, without overlapping careers, or even overlapping lifespans. One person proved a group must exist, someone else found out how it works. The Atlas dutifully includes a record of both roles.
+
+In 1975, as the Atlas neared completion, Jorge Luis Borges published the short story “There Are More Things” in memory of H.P. Lovecraft, the horror author. In the story, a young man returns to his family estate, which has been sold and remodeled in secret. He sneaks inside and discovers strange furniture built for a creature that clearly isn’t human. He flees, but curiosity overwhelms his fear, and he cannot help but glimpse the creature as he runs. Group theory is like that. From morbid curiosity about incomprehensible creatures came the Atlas.
+
+The Atlas proves why taste matters in math. Math is prose—all reading and writing. Chalkboard, paper, and pencil. There are rarely calculators or computers. As in all writing, mathematicians make choices under strict constraints. Where a poet is constrained by a sonnet’s 14 lines, rigid meter, and prescribed rhyme scheme, a mathematician must follow the rules of axioms, logical correctness, and proof-writing convention. But like poets, mathematicians can still express a consistent principle or emotion underlying a problem—though such moments to make tasteful choices in math are sparse. So, they matter greatly.
+
+The most important choice is which threads to pull on and when to stop. In a field where creating new abstractions is productive, there’s a surprising amount of creativity involved in deciding what’s worth your time. It is a matter of taste to care about the classification of groups at all. A group is a particular flavor of symmetry. Other constructs emerge from a stricter or a more relaxed approach (with similarly bland names like rings and fields). There’s no reason that groups are the most important, only that many people find them the most beautiful.
+
+It’s not too taboo to admit that math is made for pursuit of beauty and satisfaction. American mathematician Martin Gardner argued that the “great elegance” of symmetry groups was plain motivation to pursue them. In its opening pages, John Conway tells us that he “originally conceived this Atlas to convey every interesting fact about every interesting finite group.” He makes no overwrought effort to define “interesting.” Instead, he muses that they just kept going “until the groups became either too big or too boring.” And in doubtful cases, “our rule was to think how far the reasonable person would go, and then go a step further.”
+
+It was a matter of taste that the Atlas itself was the right capstone for the classification project. It was published in 1985 in English, filling 252 pages. The works that support it and prove its completion fill tens of thousands more, written over decades in English, German, Japanese, Polish, and French. The authors knew it was not enough to drip their final findings through conventional journals. Instead, they created something that demands attention.
+
+The Atlas is a huge book. It is bright red and spiral bound. You cannot get a smaller or duller copy. Almost every page is covered with miniscule, pale gray numbers arranged in careful grids. They form hazy patterns from far away—some like a checkerboard, others a soft ombre. Designing the pages was so complicated that the team invented new mathematical systems and new ways of typesetting them.
+
+Interior pages of the Atlas
+
+If all this sounds impractical, you’re right—the Atlas is not a practical work. I’ve never met someone who needed one for utilitarian reasons. It isn’t just a reference document; it’s a work of art.
+
+We know the authors cared about more than practicality because the Atlas was an ordeal to publish. They kept discovering new things, noticing errors, and changing their minds about the layout throughout the typesetting process, much to the frustration of the Oxford University Press Production Department, which published the book and found itself pasting in corrections until the very last moment.
+
+After seeing the first copies with flimsy paper covers, the team insisted on stronger paper stock. The Production Department obliged but neglected to upgrade the ring binding to support a heavier cover. Atlas author Robert Wilson admits that “the result has been a source of embarrassment to us all ever since.” They planned to publish a reprint with corrections in the late 1990s, but Robert Wilson also admitted that “the Production Department still has nightmares about this book, so it may take some time to persuade them.”
+
+In the summer of 1995, 100 of the living mathematicians whose work touched the Atlas gathered in Birmingham, England. They celebrated its 10th birthday with a bright red, Atlas-shaped cake, and 10 candles. Perhaps with lingering exasperation, the proceedings of this conference to commemorate the big, red book with a big, red book-cake were published in an utterly contrary dark-teal journal.
+
+The Atlas authors also had great taste in names. Names are an olive branch to the mathematical reader—an incentive. If you must write a methodical proof about something that ignites your imagination, the right name preserves that feeling.
+
+Group theory does this better than any other branch of math. Its nomenclature is a vernacular architecture. No ivory tower of Greek and Roman roots. Instead, there are braids and knots, tilings and twistings, socks and shoes, wreaths and lattices, bird-tracks, lamplighters, caterpillars, and kaleidoscopes.
+
+Consider: The real name for groups that don’t fit an orderly pattern is “sporadic.” Earlier, I called them misfit creatures. Daniel Gorenstein called them pathologies. Fellow mathematician Robert Griess called some of them pariahs. The name should give you the right feeling, no details required. And of all the sporadic groups (the misfit creatures, pathologies, and pariahs of the Atlas), the most eldritch is called the Monster.
+
+The Monster is the crown of the classification project, and as such, it comes last in the Atlas, perched atop 10,000 pages of proofs across two centuries of effort. The existence of the Monster was first predicted by Bernd Fischer and Robert Griess in 1973, but it took over a decade to fully understand it. In 1980, Martin Gardner wrote that people all over the world “have been struggling to capture the monster.” Gardner’s article was bisected by an ad for French brandy called “the brandy of Napoleon,” an unfortunate pairing given Galois’ anti-monarchist sentiments.
+
+What is the Monster? Conway’s student Richard Borcherds lamented how hard it is to explain simply. First, the Monster is enormous. To determine the size of a symmetry group, we count the possible actions, like rotations and reflections. The Monster has roughly 8.08E53 actions. That’s 800 thousand billion billion billion billion billion, more than the number of atoms in the sun.
+
+Second, the Monster is labyrinthine. This isn’t just because it’s large; there are “atomic” groups much larger than the Monster with structures so simple that calculations can be done easily by hand.
+
+By contrast, in the early 2000s, a single calculation to map the Monster using a computer took 45 minutes. It wasn’t until 2024 that mathematician Martin Seysen published a simple and fast version in Python. It is bittersweet that so many people who studied the Monster nearly lived to see the age in which computers became powerful enough to keep up with them.
+
+The Monster and its fellow pariahs and pathologies created a great tradition of nicknaming. John Conway later named the second-largest sporadic group the Baby Monster, which then became a nickname for his toddler son, who would play with his grad students. In 1982, Robert Griess tried to get people to start calling the Monster “The Friendly Giant” instead, but the original name had already stuck. Conway diplomatically included both in the Atlas.
+
+The Atlas authors–Conway, Curtis, Norton, Parker and Wilson–gather around an Atlas-shaped cake to celebrate the 10th anniversary of its completion.
+
+Without this love for idiosyncrasies, we would never have solved a great mystery of the Monster: In the final decade of the classification project (although no one knew it was so), mathematician John McKay noticed a coincidence. The coincidence was simply that two important numbers were one apart: 196,883 is important to the Monster and 196,884 is important to a seemingly unrelated problem McKay was working on.
+
+McKay told Conway what he noticed, and Conway called it “Moonshine.” He meant it in the sense that it was a crazy or foolish idea, drawing from Shakespeare’s play A Midsummer Night’s Dream, when Bottom proclaims, “A calendar, a calendar! Look in the almanack; find out moonshine, find out moonshine!” to see whether the moon will light their dreamlike play.
+
+“Moonshine” also works because coincidences are a bootleg way of doing math. After all, a few important numbers are going to be close by chance. McKay was told his observation was as useful as tea leaves. Scottish mathematician Eric Temple Bell called the whole endeavor “little advanced beyond mathematical illiteracy.”
+
+Despite this resistance, Conway formally published a paper on the mysterious connection in 1979. He called it “Monstrous Moonshine” and wrote about the “moonshine properties” and “immaterial moonshine” that he saw. His Moonshine nickname became the common way to describe the weird relationships between sporadic groups and other parts of math. More people grew curious, and in time, Moonshine became canonized as a legitimate field of study.
+
+In 1998, Conway’s student Borcherds solved the mystery behind the Moonshine coincidence and won the Fields Medal, the highest honor in math. In November of that year, venture capitalist Wayt Gibbs visited Borcherds in his Cambridge University office. He wrote that talking to Borcherds was “unnerving” and that “looking through his eyes, through his work, you can get a glimpse of a whole alternative universe, full of wondrous objects that are real but not physical.”
+
+Galois glimpsed something great but lost the opportunity to build upon it himself. His death launched a 150-year project in which his descendants spent whole decades on problems that might lead nowhere, following threads that might unravel, in the pursuit of beauty that might be an illusion.
+
+But mathematicians let a little magical realism in on purpose. Great taste in mathematical imagery matters because it is an act of meaning-making. What cannot be visualized can be visceralized by the right language. When we personify it, we share beauty or mystique or morbid curiosity across generations. That’s why I’ve been obsessed with tracking down lore about the making of the Atlas for years.
+
+Of course, the math in this story is a rational, rigorous pursuit of logical outcomes. But the shared devotion, canonized nicknames, and absurd physicality of the Atlas make good on the last wish of a boy who died young. There is greatness in moving carefully and building things. And there is kinship in it.
+
+I met my best friend because we sat together in the seminar where I first learned about the Atlas. My notes were color-coded drawings and doodles. Hers were margin-to-margin prose in black pen—not equations, but monochromatic transcriptions of the lecture. She doesn’t visualize at all.
+
+For a semester, we worked late into the night together, often for many days on a single problem. We learned how to translate our perspectives, how to convince each other, how to chase coincidences together until they resolved into patterns.
+
+Our styles match our mathematical taste. She wore only black, everything she owns is black. I wore colorful, thrifted outfits. We once swapped clothes and traded all our school supplies for class. She wore my overalls. We tried to predict each other’s questions. We didn’t get anything done because we were in tears laughing.
+
+Our friendship continues to make a real thing out of an abstraction, like how Baby Monster, here in our concrete world of physical beings, is Conway’s son playing with grad students in the Princeton math department.
+
+On a drunken evening walk after our final exam, my friend and I stood at an empty intersection under the endless Iowa sky, and she confided that math was the first thing in her life that felt big enough. Years later, I realized that I had never known her eyes were green, which I attribute to our time staring at chalkboards together, always looking in a shared direction, never at each other.
+
+Terran Mott is a research analyst at Positive Sum.

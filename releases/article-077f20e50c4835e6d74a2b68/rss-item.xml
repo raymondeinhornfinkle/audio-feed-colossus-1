@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>The Man With the Hot Hand (Colossus)</title>
+  <description>An audio reading of The Man With the Hot Hand from Colossus.</description>
+  <link>https://colossus.com/article/ramtin-naimi-man-hot-hand/</link>
+  <pubDate>Wed, 16 Sep 2026 16:09:46 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:077f20e50c4835e6d74a2b68922d14bb542641969ead42f83dee65555bbc40c0</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-077f20e50c4835e6d74a2b68/article.mp3" length="45568021" type="audio/mpeg" />
+  <itunes:author>Dom Cooke</itunes:author>
+  <itunes:duration>00:47:28</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

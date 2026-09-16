@@ -1,0 +1,120 @@
+{
+  "article_id": "dc75cfc2ecf7ddc781044bd6759f1658d7b77c1513d679c0cbe2f88c8c96a759",
+  "guid": "urn:article-reader:dc75cfc2ecf7ddc781044bd6759f1658d7b77c1513d679c0cbe2f88c8c96a759",
+  "release_name": "article-dc75cfc2ecf7ddc781044bd6",
+  "article_title": "The Education of the Broligarchy",
+  "publication": "Colossus",
+  "title": "The Education of the Broligarchy (Colossus)",
+  "author": "Blake Smith",
+  "source_url": "https://colossus.com/article/education-broligarchy-silicon-valley-canon/",
+  "duration_seconds": 2711.21,
+  "file_size": 43381150,
+  "media_sha256": "16c6ca2703def98d0c1846f23b73e01df9e3b5b4045cddb27daa1f48b03ed46c",
+  "transcript_sha256": "ba159ef606809f3299c93a485073b551a776878ddf24d53c641fd1b2c56300be",
+  "extraction_report_sha256": "5629b5650badc821a3e2c6526ea70d4f5e5935a9878672708b47e5cdff1d2531",
+  "audio_manifest_sha256": "57766296a98cb0f1f55c8ef152398b27e2995effeff844e8048d02d5b106fbf0",
+  "audio_run_sha256": "9283e6eefd62d52745ac45e70967c368b7bd6140ce4832668e182b17e6fbd738",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 13,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "7ce6bf03efb4853da981dfbe5008db13f195c1097994e6431247c980a6410b74",
+      "audio_sha256": "96104362da206c4409a614e33d598c3232be380c097bb2fb023ddd7157ead272",
+      "pcm_frames": 5102520
+    },
+    {
+      "index": 2,
+      "text_sha256": "4a2a556428209e8d11becb0cbd15a5ecffee61fd60fdf10713f54c671346ff9d",
+      "audio_sha256": "6c84b0631b08afac2f018a28e1d1ffaca70720c335881e14125d451169c4c9d3",
+      "pcm_frames": 5665800
+    },
+    {
+      "index": 3,
+      "text_sha256": "8f443205a843496c18a95d5db8aaabacd875b7eaa88febdb26665af311748aba",
+      "audio_sha256": "ab1b90e8d635607b3c95051cabe86582c07a270cc48965760ea13a2cf2d0f2b2",
+      "pcm_frames": 5277480
+    },
+    {
+      "index": 4,
+      "text_sha256": "450d5e2fb176d5f09b67a7d2ae2f5e910062f891d6a6e43b662a88336915cf6f",
+      "audio_sha256": "a9b5c2d6109db53ea1cbe915375404fa08a5858f059684158e4e9304d5c6c20e",
+      "pcm_frames": 4641000
+    },
+    {
+      "index": 5,
+      "text_sha256": "a28675794134b14adb75040496d8ce7716778248573883e6065a77560f7dc67c",
+      "audio_sha256": "4fce600d43efd47a9883d7b4f9b7cd52aee87d1c0808f2807f2dbe7f1dd4ccb5",
+      "pcm_frames": 5345160
+    },
+    {
+      "index": 6,
+      "text_sha256": "946dd9df4ceeaa91615e6f0381cb7bf5e601a55b2f9efbd2fdf2f020d0eff2c4",
+      "audio_sha256": "e890403aca8acd347cb27859d0b13fb44135f94c2c5055a88a2bcf7dc3c3067b",
+      "pcm_frames": 5019600
+    },
+    {
+      "index": 7,
+      "text_sha256": "18655dbef5d98fad75b0bf81a4a9a9bb1fd09b006a8405eb3a96172593709f0c",
+      "audio_sha256": "6f6ce1f67e3dd7c9fd5da2fb6ceb6b82524ded3d20080c79be365618966fad14",
+      "pcm_frames": 4877280
+    },
+    {
+      "index": 8,
+      "text_sha256": "25b69241ff4dc6305139153ccc6188a7cee084039eefbb407c594d6f4c742882",
+      "audio_sha256": "0a244b5bba6b46cb7f5611f3a6fc00d2e77984468f2633726ec1504495774aa1",
+      "pcm_frames": 4719960
+    },
+    {
+      "index": 9,
+      "text_sha256": "7f0c8eab1729e2cbe21cc945ce8d5095973f4cc235514e130a299f3ac29d8aa3",
+      "audio_sha256": "2bfa493ae6bef12c33584fed1cd007f2c7cc671048cd6f83351a2f1520d89e56",
+      "pcm_frames": 5407080
+    },
+    {
+      "index": 10,
+      "text_sha256": "a422278a8cfd76053e5587d4453e985c4a0266ac50c3ef0e5493594fca4ded8d",
+      "audio_sha256": "48b0f56d6cb48bdec1ab8156e73d255e3cbbfe619ab6fbb5df55c31590b89066",
+      "pcm_frames": 5632080
+    },
+    {
+      "index": 11,
+      "text_sha256": "45c9ae359bb4c089a04c6900c88eb3c7989159025f46ea5b6551602fe8de9420",
+      "audio_sha256": "2b182ab8b3b340633f45133e5e686dea759e084da8dfbf7ad4c1ebecb7ba9688",
+      "pcm_frames": 5168760
+    },
+    {
+      "index": 12,
+      "text_sha256": "4da974291ecf5325782568c83c9b30ace3b5552f2d80dc0a7cacf62c830d2fa2",
+      "audio_sha256": "274738fe96608076afeb765187ab6fdb5c52fc0bed7a28074799deedaffe8ae7",
+      "pcm_frames": 4465560
+    },
+    {
+      "index": 13,
+      "text_sha256": "54637a917924d3d29e371eda0764ba5a6fef8df539f8b4e9a5fb750eac52ee6a",
+      "audio_sha256": "475ebea3b2f1081d69edc7e317374a9ce225d5d67298d3f8d3ee28eb563ad49c",
+      "pcm_frames": 3746760
+    }
+  ],
+  "pcm_sha256": "fefaf8e458909417c8895419e8a12fa9731a776f86f52078869ba448b81d69b6",
+  "pcm_frames": 65069040,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dc75cfc2ecf7ddc781044bd6/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dc75cfc2ecf7ddc781044bd6/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dc75cfc2ecf7ddc781044bd6/rss-item.xml",
+  "released_at": "2026-09-16T16:14:14.183125+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

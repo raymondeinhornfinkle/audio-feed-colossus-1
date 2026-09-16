@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>The Patriot (Colossus)</title>
+  <description>An audio reading of The Patriot from Colossus.</description>
+  <link>https://colossus.com/article/the-patriot-shyam-sankar-palantir/</link>
+  <pubDate>Wed, 16 Sep 2026 16:12:50 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:77449ec48fbc602a6405deba3e063d471e77dcd7af74e959765714583c7d13fe</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-77449ec48fbc602a6405deba/article.mp3" length="81224715" type="audio/mpeg" />
+  <itunes:author>Jeremy Stern</itunes:author>
+  <itunes:duration>01:24:36</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

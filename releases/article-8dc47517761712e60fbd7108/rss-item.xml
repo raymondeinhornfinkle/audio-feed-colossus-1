@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>AI Will Not Make You Rich (Colossus)</title>
+  <description>An audio reading of AI Will Not Make You Rich from Colossus.</description>
+  <link>https://colossus.com/article/ai-will-not-make-you-rich/</link>
+  <pubDate>Wed, 16 Sep 2026 16:11:13 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:8dc47517761712e60fbd71082cee5c341420033ae932ed6e954e1ead4aedbfa0</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-8dc47517761712e60fbd7108/article.mp3" length="34338713" type="audio/mpeg" />
+  <itunes:author>Jerry Neumann</itunes:author>
+  <itunes:duration>00:35:46</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

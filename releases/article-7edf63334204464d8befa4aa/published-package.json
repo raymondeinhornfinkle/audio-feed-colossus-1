@@ -1,0 +1,72 @@
+{
+  "article_id": "7edf63334204464d8befa4aa0cf7ae3dc7fa2adc53986920ddd49ef004459218",
+  "guid": "urn:article-reader:7edf63334204464d8befa4aa0cf7ae3dc7fa2adc53986920ddd49ef004459218",
+  "release_name": "article-7edf63334204464d8befa4aa",
+  "article_title": "Taste in Math",
+  "publication": "Colossus",
+  "title": "Taste in Math (Colossus)",
+  "author": "Terran Mott",
+  "source_url": "https://colossus.com/article/taste-in-math/",
+  "duration_seconds": 1063.995,
+  "file_size": 17025674,
+  "media_sha256": "62e39d62cbe2b4eacb756b69967ae1adc054f0a0056a7b4e3673f480fa754a65",
+  "transcript_sha256": "18f37056f2fb0089865fda02150f02f0760a4d5ae33e6bcaafba487257e5cb3c",
+  "extraction_report_sha256": "f2b927569c2dfef897b4dc0c452021990ba1a6d90c2c0c1ff3330cf8482c762a",
+  "audio_manifest_sha256": "9a605f9f03894ed729dfe4a3e343ee318095cccd52fb78c2a34b31de5b1d1bc0",
+  "audio_run_sha256": "94e0e7b77963cfb2bf581d71d38bedffa839e6762217fc9d0db76c6e48f485c1",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "3433d62a9682c14218f294a5f171321302259dfa71a9b5ed600b2845791fe113",
+      "audio_sha256": "e551adb04c7b60c196dc3a4a6647b4a25e5d4dccefb5d17c19591d2e6ba13d51",
+      "pcm_frames": 5686560
+    },
+    {
+      "index": 2,
+      "text_sha256": "835d4520c8e66d7c600e8978fd12fef2b39551162ba3882fa3da712bf57d7f03",
+      "audio_sha256": "79acc2a787d34e2abaf6f3d75f3a8df09254b9d0c46043327acb2695b3eb60d0",
+      "pcm_frames": 5993160
+    },
+    {
+      "index": 3,
+      "text_sha256": "b6f50802df9c36daeb684f17f67d55095832d30a6081fa55b25f2c8b2f180db0",
+      "audio_sha256": "36755b081a906cefcd874d7c86fdbc8b6f0d081d48e64904c2762e06e600b168",
+      "pcm_frames": 5573520
+    },
+    {
+      "index": 4,
+      "text_sha256": "53ccfff50ba5fa02a75a43ebc23a8596eefee06b312b92affa2a607da59505dd",
+      "audio_sha256": "da1da12c0d8a21c060ab04564fc0721f5e08a2c4436ce8cf9cdc77bdcd499507",
+      "pcm_frames": 6036720
+    },
+    {
+      "index": 5,
+      "text_sha256": "16ef267ee66f848fc703b6de870f8eeddc1468f143171a1198ddd7dd0fea2f0e",
+      "audio_sha256": "32ea777d2a26e8eb69dd4164df848c793f053310c22e2792b6f188b9dbbeab2e",
+      "pcm_frames": 2245920
+    }
+  ],
+  "pcm_sha256": "27e8466b8639cce7fa1936f9225f1c29966ac3cc6e0ea4fda91298d25bcd2725",
+  "pcm_frames": 25535880,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edf63334204464d8befa4aa/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edf63334204464d8befa4aa/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edf63334204464d8befa4aa/rss-item.xml",
+  "released_at": "2026-09-16T16:15:09.167221+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

@@ -1,0 +1,90 @@
+{
+  "article_id": "ff27e9cdd91f5ed36d6ce22b401229560503ef3ff64cc72934f6cb4586e2623a",
+  "guid": "urn:article-reader:ff27e9cdd91f5ed36d6ce22b401229560503ef3ff64cc72934f6cb4586e2623a",
+  "release_name": "article-ff27e9cdd91f5ed36d6ce22b",
+  "article_title": "A Foundation Model in Your Pocket",
+  "publication": "Colossus",
+  "title": "A Foundation Model in Your Pocket (Colossus)",
+  "author": "Terran Mott",
+  "source_url": "https://colossus.com/article/raspberry-pi-eben-upton/",
+  "duration_seconds": 1779.39,
+  "file_size": 28471966,
+  "media_sha256": "c1678ed8c6da4c7e5e77f858189184de1bb96868c644176af395bb79ffc7f6ee",
+  "transcript_sha256": "b6ea18d9f8ba730d7ffa2425cfb02ba82af0fb420790164826bc8dd98e3c86c7",
+  "extraction_report_sha256": "b61cf29631ed290f1de216b6b54681e4f7be3e0e8d9254d8c2a74ab8cf7378cd",
+  "audio_manifest_sha256": "73cc075dc011dfc9fa2acd39d421f2d6baf516813651e7a6f27113bba867e4ae",
+  "audio_run_sha256": "a323e559e7af7298fe58cbebe1d0ad74cc0887cbdbeae2176e285c0544a72667",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 8,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "4b8ed0716cacc54f8e9d73467a257f72ebd4d2e2a9774cd6413c9b6d92cf9369",
+      "audio_sha256": "831b6ae29c85579fecf27de6ba51d2cd9e83e97fd5bd835a2cdc479c75e75be5",
+      "pcm_frames": 5627880
+    },
+    {
+      "index": 2,
+      "text_sha256": "1f31ea16e7a9327a0490d92fec9114ca7289a521c54a3b85e8f9439e039e62b2",
+      "audio_sha256": "58adb7ddfed4ba7a9e787c450b107df3b1b1706cb890f95405fc391227a0b253",
+      "pcm_frames": 5634480
+    },
+    {
+      "index": 3,
+      "text_sha256": "45e103f6a7cc79437443c4c662c34a9c508b803aa74286dc07e95ceada379694",
+      "audio_sha256": "284d20558ea65915cb5fecf7c4a35029c736c35633698d75e04bf847fbe1ff01",
+      "pcm_frames": 5653320
+    },
+    {
+      "index": 4,
+      "text_sha256": "a0a846181ff20c5377b9809399a8a8e7d393ec79cfa92f4db0c21164d7bf3dae",
+      "audio_sha256": "86305167d6f38e4ee0f2f9b703bb9868e88f6bc6f48f945a0424b88ba5817f1e",
+      "pcm_frames": 5525640
+    },
+    {
+      "index": 5,
+      "text_sha256": "28f233984ae30f66acab68318fb6c99584d7cd90360eece5c6b4004151523877",
+      "audio_sha256": "8de1a6f60c76e409352d5a762d166dab76816bb82d3139e669be5c27ed15a04d",
+      "pcm_frames": 6023040
+    },
+    {
+      "index": 6,
+      "text_sha256": "880f70846747a095aae1f3f9e73b775066a599042c74cc880a2961e36ff4e031",
+      "audio_sha256": "613aa6a53f7dfc45d4fcf0d7df58ac6a27c4f1751ca1635d05ad7911032e7cbf",
+      "pcm_frames": 5513040
+    },
+    {
+      "index": 7,
+      "text_sha256": "2ea0d534916ec587283adfd3fdfb1d4f1b9f609785b407c8c74629cccac6981a",
+      "audio_sha256": "ee89c9824d65ae09493b46e88e218ddc90ed9ae71667a70654dd8f3ec433f7c1",
+      "pcm_frames": 5548680
+    },
+    {
+      "index": 8,
+      "text_sha256": "3a48062bcd9b4ac4ed65e23aa79208e82fe97c1d1ecabcacb35452ad2163fc15",
+      "audio_sha256": "8074d882ceaacc089d5868b757f806718fcda5603cda041e070551f6c35a32e6",
+      "pcm_frames": 3179280
+    }
+  ],
+  "pcm_sha256": "940871b818c88d5bfcb94f7251b82ac469e22555643b98358cc7aab49e1b1a51",
+  "pcm_frames": 42705360,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-ff27e9cdd91f5ed36d6ce22b/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-ff27e9cdd91f5ed36d6ce22b/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-ff27e9cdd91f5ed36d6ce22b/rss-item.xml",
+  "released_at": "2026-09-16T16:16:15.316032+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

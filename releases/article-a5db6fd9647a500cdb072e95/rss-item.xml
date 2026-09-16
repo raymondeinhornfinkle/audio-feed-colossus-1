@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Inside Cursor (Colossus)</title>
+  <description>An audio reading of Inside Cursor from Colossus.</description>
+  <link>https://colossus.com/article/inside-cursor/</link>
+  <pubDate>Wed, 16 Sep 2026 16:13:30 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:a5db6fd9647a500cdb072e95bb7c8cc847e04819994ce4444368c3fb9fd1a2d4</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-a5db6fd9647a500cdb072e95/article.mp3" length="35868172" type="audio/mpeg" />
+  <itunes:author>Brie Wolfson</itunes:author>
+  <itunes:duration>00:37:22</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

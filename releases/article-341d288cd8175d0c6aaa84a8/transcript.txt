@@ -1,0 +1,399 @@
+Life’s Work Leaders
+
+The Directory
+
+By Gabi.
+
+We maintain a directory of leaders building singular companies across industries. We are drawn to people doing the thing they seem destined to do. Colossus Review spotlights leaders who we feel are setting an example for the rest of us.
+
+Bom Kim
+
+Founder, CEO and Chairman, Coupang
+
+Never settle. Challenge yourself to give the customer everything. If they have it all, they can’t live without you.
+
+$24 billion
+
+revenue in 2023
+
+21 million
+
+customers
+
+THE BIG PICTURE
+
+Coupang is the number one e-commerce business in South Korea. Last year, it made $24 billion in revenue, delivering to 21 million customers. Revenue has grown at 45% CAGR since 2018.
+
+Six out of ten Korean households (14 million) subscribe to Coupang’s membership program, WOW, which offers free, seven-hour delivery on two million items. This includes groceries—plus access to its streaming service, Coupang Play.
+
+Coupang is vertically integrated, and its 100 fulfillment centers are within seven miles of 70% of the population.
+
+THE KEY DETAILS
+
+Three-year-old Coupang (Korea’s Groupon) was the leading player in the market—cash-flow positive and $300+ million in revenue.
+
+Concerned with the durability of the business model, Bom pulled the company’s IPO with just weeks to go, passing up the chance to make millions of dollars in the process.
+
+The decision marked a seismic shift in the direction of the company—addressing fears that going public would make it harder to deliver bold change. And ushering in the start of a whole new business model, moving from an asset-light deals platform to an asset-heavy, vertically integrated e-commerce company.
+
+“It’s a waste of our passion, time and talent to create a 5% or 10% better customer experience. Our vision is to create a customer experience that’s 100x better.”
+
+2014 kicked off an intense period of capital investment. Raised $400 million from Mike Moritz at Sequoia and BlackRock and began building out a first-party logistics platform.
+
+Without existing rails to build on (e.g. how Amazon used UPS or FedEx), everything was created from scratch; reimagining the customer experience from the ground up.
+
+Today, Coupang offers dawn delivery on over two million items. Order any time before midnight and an eco-friendly bag will be on your doorstep before 7am.
+
+Great customer experiences come down to the details. There’s no lock box delivery—only doorstep. Drivers learn how to knock on doors (or not, if they’re delivering baby products). The result? An NPS of 97 in just two years.
+
+Stellar execution is a constant theme. The company launched against ~30 competitors—including Groupon itself. Within three years, Coupang led the market.
+
+Daniela Amodei
+
+Co-founder and President, Anthropic
+
+I’m an expert in identifying the right people to solve a specific problem and creating a structure for them to succeed.
+
+$8 billion
+
+raised in funding to date
+
+22 seconds
+
+Claude reads The Great Gatsby
+
+THE BIG PICTURE
+
+Anthropic is an AI research company and creator of frontier large language model, Claude.
+
+Tripled in size and raised $7 billion in 2023. By May 2024, its value was $18.4 billion.
+
+Founded by seven OpenAI employees (including Daniela’s brother), several of whom were key to developing GPT-3.
+
+Generates revenue through subscriptions to Claude and calls on its developer APIs. Estimated revenue in 2023 of $100 million.
+
+As a public benefit corporation, like Patagonia and TOMS shoes, it’s legally obliged to consider social impact, not just profits. Safety research is core to its operating model.
+
+THE KEY DETAILS
+
+Employee #40 at Stripe and #50 at OpenAI before co-founding Anthropic.
+
+Music scholar and liberal arts graduate, worked in public policy before tech. Has managed every business function, from sales and recruiting to engineering. VP of Safety and Policy at OpenAI. What would she title her book? “Scaling Memoirs of a Generalist.”
+
+Managing people is her superpower. Her brother, Dario, sets Anthropic’s vision. Daniela makes it happen—determining the organizational structure, product strategy, go-to-market motion, etc. Senior leadership team reports to her.
+
+Founding team left OpenAI after its billion-dollar deal with Microsoft in 2020. Their goal: to build safer AI systems, more aligned with human values. Pioneered Constitutional AI, where ‘constitutions’—sets of rules and values—guide AI learning and embed ethical principles during training. Shaping decision-making at the start leads to helpful, honest, harmless systems from the get-go, vs. traditional methods that impose safeguards after training is complete.
+
+Hired many OpenAI employees that aligned with this philosophy. Notably, OpenAI Co-founders John Schulman and Durk Kingma, plus Jan Leike, former Safety Lead. Instagram Co-founder Mike Krieger joined to lead product development.
+
+Finished training its chatbot, Claude, in the summer of 2022. Despite obvious potential, the team prioritized further safety training, delaying release. Months later, OpenAI’s ChatGPT launched, catalyzing an AI boom Claude could have initiated.
+
+Claude Opus 3, Anthropic’s most intelligent model, outperformed its peers (GPT-4 and Gemini 1.0 Ultra) at launch on most of the common evaluation benchmarks.
+
+David Vélez
+
+Founder and CEO, Nubank
+
+I asked myself, ‘What’s the hardest and most impactful thing I could imagine doing?’. There was nothing bigger than this.
+
+56%
+
+adults in Brazil using Nu
+
+$45 billion
+
+valuation at IPO
+
+THE BIG PICTURE
+
+Nubank is the largest digital bank in the world. It serves 105 million customers across Brazil, Mexico and Colombia.
+
+It has tripled its revenue and quadrupled gross profit over the past two years. In 2023, it made $8 billion in revenue with a gross profit margin of 47%. At 33%, its return on equity is over double that of larger US banks.
+
+It’s 20x more efficient than a traditional bank, serving 12,500 clients per employee vs. 900 for the top incumbents.
+
+Since inception, Nubank has acquired 85% of customers organically. Its NPS is 90, over double its competitors.
+
+THE KEY DETAILS
+
+“David has both vision and execution. He is the best CEO I’ve been in business with, alongside Frank Slootman.” Doug Leone, former Managing Partner at Sequoia.
+
+Everyone in Brazil said you can’t compete against the incumbents. Five banks controlled ~90% of the market. They were run by the wealthiest families in Latin America, and protected by regulation and government connections.
+
+But it had taken four months (and an encounter at gunpoint) to open his own bank account. Motivated by a desire to make an impact, and the knowledge he could harness the country’s high smartphone adoption rates to transform customer experience, he set out to build something better. Resolute in the face of genuine safety concerns for his family, thanks to his position as a relative ‘outsider’, born in Columbia.
+
+Worked at Sequoia, starting the day at 4am to juggle his MBA classes. Flying in and out of Brazil every Wednesday with Doug Leone, he learned that successful startups often hinge on the culture built in the first six months.
+
+Added two co-founders: an American private equity associate as CTO and a Brazilian banking insider who had led Itaú’s largest credit card division. Wrote a culture deck alongside his first fundraising deck. And rented a small and unappealing office to attract the right type of person.
+
+Nubank’s customer service line was originally David’s mobile. No annual fees, a fully app-based experience, onboarding in days (not months) and a purple credit card were contrarian decisions—that all proved highly effective. Even the name, meaning ‘naked’ in Portuguese, contributed to extraordinary organic growth. 85% of its ~100 million customers were referred by word of mouth.
+
+Established a reputation as an exceptional fundraiser. Prior to IPO, secured $1.5 billion from the likes of Sequoia (its first investment in Brazil), Tiger, Goldman, Berkshire Hathaway, TCV, Tencent and GIC.
+
+Gabriel Whaley
+
+Founder and CEO, MSCHF
+
+MSCHF is this Trojan horse that quickly infiltrates a space, turns it upside down and then leaves.
+
+$1.35 million
+
+winning bid for MSCHF’s virus-infected laptop
+
+$63,750
+
+for a microscopic Louis Vuitton bag
+
+THE BIG PICTURE
+
+Every two weeks, MSCHF drops a new creation. These range from Satan Shoes containing human blood to Eat the Rich popsicles molded after billionaires’ heads. Even a $76,000 pair of Birkenstock sandals made from Hermès Birkin bags.
+
+The New York Times called it ‘Banksy for the Internet’. Others dubbed it an art collective, luxury brand, or sneaker company. Gabe says it’s all of these things, and none: “I think we are monopolizing a feeling.” Subversion is the rare constant.
+
+THE KEY DETAILS
+
+Raised more than $11.5 million in funding. Revenues have doubled yearly since 2019, according to the Financial Times. Occasionally does marketing collaborations—like putting Fenty’s lip gloss in ketchup packets—but makes most of its money from selling limited-edition products and art through fortnightly drops.
+
+Products are sometimes sold at auction, like the 2020 sale of a cut-up $30,000 Damien Hirst ‘Spot’ print. Each of the 88 spots sold for $480 in a regular drop, while the signed, now hole-ridden print fetched $261,000 at auction.
+
+Sneakers are a significant category. The 2019 Jesus Shoes— 12 modified Nike Air Max 97s, filled with holy Jordan River water— sold for $1,425. In 2021, 666 pairs of Satan Shoes sold out in less than a minute—despite a $1,018 price tag and legal challenge from Nike. And the cartoon-inspired Big Red Boots ($350) bagged 100,000 orders in <60 minutes in 2023.
+
+Team of ~30 outsiders, coming from music, murals, fine art, furniture design, law and metalsmithing, work from a Brooklyn warehouse. Products are never repeated. Ideas must prove their worth in brainstorming sessions before entering the pool. Every new idea means an old one must die. The ideas that last six months are slated for production and release in 12 months’ time.
+
+Grew up in a rural, North Carolina trailer, disconnected from main-stream culture. Dropped out of West Point and sold bad advice online for $1. The site went viral, and a stint at Buzzfeed followed. A classically trained pianist, he played on the street in NYC and sublet his apartment on weekends, before founding MSCHF.
+
+Ilkka Paananen
+
+Co-founder and CEO, Supercell
+
+My goal is to become the least powerful CEO in the world.
+
+$10 billion
+
+Clash of Clans lifetime revenue
+
+200 million
+
+monthly active users
+
+THE BIG PICTURE
+
+Supercell is the first mobile studio to create five, billion-dollar games (Hay Day, Clash of Clans, Boom Beach, Clash Royale, and Brawl Stars). It released its sixth game (Squad Busters) this year.
+
+The games have racked up more than five billion downloads in total.
+
+The Clash IP (Clash of Clans + Clash Royale) has generated more than $14 billion in lifetime revenue since 2012.
+
+In 2023, the company made €1.7 billion in revenue and €580 million in EBITDA.
+
+Supercell was the first European tech startup to reach a $10 billion valuation.
+
+THE KEY DETAILS
+
+“I’ve organized Supercell like a professional hockey team. I’m the coach. The coach can’t score goals.”
+
+The business is structured around a collection of small, independent teams (cells), with total control over game development. The company doesn’t interfere—cells are free from any processes or bureaucracy that may hinder creativity, and they define their own operational rhythms. Cells are created when individuals come up with a game concept and prove its worth, earning more resources over time.
+
+Clash of Clans, first launched in 2012, was built by a team of ~10. A decade later, the team still numbered less than 40, despite earning over $10 billion in revenue.
+
+Candidates are put through 10+ rounds of interviews. Ilkka interviews everyone who joins the firm—which is now 625-people strong.
+
+Leadership and incentivization skills come from army experience. “I did my one-year military training in the coastal infantry in Finland. Training to become an officer is a good lesson in leadership. If you’re leading people who aren’t getting paid and you want them to follow you into battle, you learn a lot about motivation.”
+
+Games are rigorously tested before launching globally. They first launch in small markets (e.g. Australia), without IP or high-quality artwork, to chart performance. If successful, the process is repeated in other regions. By the time games launch in Canada or the UK, they are highly refined. The US is always last on the list— at least 10 games never made it beyond their Canada/UK launch, because the metrics didn’t endure.
+
+Overall, more than 30 games have been killed. Ilkka is the final gatekeeper for global release, which has only happened six times in 14 years. The first five games they released have all been billion-dollar hits. The sixth went live this year. When a game is dropped, they celebrate with champagne. Why? “The biggest risk for a creative company is not taking enough risks.”
+
+Lisa Su
+
+Chair and CEO, AMD
+
+Find the toughest problems in the world and volunteer to help solve them. That’s how you make your own luck.
+
+45x
+
+share price gain since becoming CEO
+
+$236 billion
+
+market capitalization created
+
+THE BIG PICTURE
+
+World-class researcher, with a PhD in Electrical Engineering from MIT. First female CEO of a major semiconductor company.
+
+AMD reported $5.5 billion in revenue in 2014, the year she became CEO. In 2023, it reported $22.7 billion in revenue. Its stock price increased from under $3 to more than $140 over the same period.
+
+Compounded at 50% a year from when she took over to the end of 2023, multiplying market capitalization from $2 billion to $238 billion.
+
+THE KEY DETAILS
+
+Revived AMD from its position as a manufacturer of low-performance, budget chips with <1% market share in datacenter sales. Bet the company—during an industry down cycle—on a five year, clean-sheet design that would challenge Intel in the high-performance datacenter market.
+
+In 2023, AMD had over 30% market share in server CPUs with its new architecture and surpassed Intel in market capitalization for the first time in its history. In Q1 2024, the datacenter division grew 80% (y/y), driven by sales of its AI GPUs.
+
+Expanded its addressable markets. Acquired Xilinx (in largest semiconductor deal ever) to enter the FPGA business, and bought Pensado to enter the networking business. Currently in the process of acquiring ZT Systems to strengthen its systems capabilities for AI servers. Championed the formation of AMD’s semi-custom business unit in 2012 to leverage its unique position as a designer of both high-performance GPUs and CPUs.
+
+Secured design wins for Sony’s PS4 and 5, Microsoft’s Xbox One, and Nintendo’s Wii U.
+
+Before AMD, played a major role in the IBM team that worked out how to use copper instead of aluminum interconnects in chips. Delivering lower production costs and increased performance, industry-wide adoption soon followed.
+
+Technical Assistant to IBM’s CEO, Lou Gerstner (credited with IBM’s turnaround) who commented: “She proved to be one of the most outstanding employees who worked in my office. Lisa doesn’t follow normal patterns—she’s been blowing them up her entire career.” It was her real-world MBA, specifically learning the art of building and maintaining customer relationships.
+
+Father was a mathematician, Mother a bookkeeper who built a multimillion-dollar import/export business when they moved to America. Lisa played piano competitively at seven years old and had a daily, four-hour round trip on public transport to The Bronx High School of Science—one of the most competitive in the country.
+
+Lulu Cheng Meservey
+
+Founder and CEO, Rostra
+
+Communication is a vector, not a scalar. It only matters if there is a direction attached to it.
+
+10
+
+active clients
+
+∞
+
+clients on the waitlist
+
+THE BIG PICTURE
+
+Communications specialist. Repeat founder. Popularized the Go Direct movement. Past and current clients include NFDG, SSI, Anduril, Ramp, Founders Fund, Cognition, and Scale AI.
+
+“Rostra is the Special Ops team of comms. They do things nobody else can.” Eric Glyman, Co-founder of Ramp.
+
+“Lulu was instrumental in putting Anduril on the map and I couldn’t imagine our trajectory without her help.” Palmer Luckey, Founder of Anduril.
+
+“Lulu is one of the few people who actually understands how communication works in the current world. This alone would be extremely valuable, but she also has a deeply strategic lens, courage, excellent instincts on when to do what, and a very clear style.” Sam Altman, Co-founder of OpenAI.
+
+THE KEY DETAILS
+
+Born in rural China, lived in Germany, Norway, and Canada during her school years. Worked on Wall Street after college at Yale, studied counterinsurgency at graduate school, moved to Washington D.C., and now helps founders tell their story through Rostra.
+
+Popularized the Go Direct movement that leads founders to reject conventional, outsourced PR strategies—and instead, take control of their company’s narrative.
+
+Heavily influenced by military strategy, with an approach inspired by the US Marine Corps’ warfighting doctrine. Her preferred book list is the Marine Commandant’s reading list. And the Go Direct playbook closely maps counterinsurgency tactics—finding centers of influence and creating novel distribution networks.
+
+Brought in to lead corporate affairs and communication for Activision Blizzard while it worked to recover from a reputational crisis, and complete a $69 billion acquisition by Microsoft. Reorganized the global communications team, launched a company Substack, and encouraged leadership to be more vocal and unfiltered. With the support of a global fanbase, the company completed its deal.
+
+Rostra currently has ~10 clients, with hundreds on the waitlist. Chooses clients based on three criteria: vibes, how much impact Rostra can have, and how hands-on the founder is. “Our model is more: teach a man to fish; less: sell a man a fish one month at a time.”
+
+Seeks people who “can carry a knife between their teeth”. To own your reputation, you have to fight for it.
+
+Writes down ideas and articles right before bed, filtering content the next morning.
+
+Ronnie Fieg
+
+Founder, CEO and Creative Director, Kith
+
+The most unique part about Kith is our ability to work with cereal companies on an $8 ice cream, and then sell 150 BMW M4s for $130,000 in 11 minutes.
+
+3,000
+
+shoes on his collection
+
+4.97 million
+
+Instagram followers
+
+THE BIG PICTURE
+
+Kith is a fashion and lifestyle brand that sells a unique curation of products, from exclusive Nike sneakers and Timberland boots to Versace robes, $17,000 Greg Yuna necklaces, Calvin Klein socks, TAG Heuer watches, and even custom Cap’n Crunch cereal.
+
+Known for its Monday product drops and storytelling prowess, Kith partners with icons like Jerry Seinfeld, Roger Federer, and Martin Scorsese to showcase new products.
+
+Also famous for collaborations with brands like Giorgio Armani, BMW, Coca-Cola, Nike, Moncler and the New York Knicks.
+
+The 13 standalone boutiques across the globe, designed by visual artist Daniel Arsham, are often compared to art installations.
+
+THE KEY DETAILS
+
+As a teenager, worked nights and weekends at footwear retailer, David Z.— located on 8th Street, between 5th and 6th Avenue, ‘the most culturally relevant block in the world at the time’. Served hip-hop artists like Nas, Wu-Tang Clan, Busta Rhymes, and Missy Elliott. Jay-Z bought two pairs of construction Timberland boots from him every Saturday.
+
+By 18, was the assistant buyer, working directly with brands. Grew the Asics account to millions, prompting the company to offer him a shoe collaboration at 25. Chose Asics Gel-Lyte IIIs from his youth, designing three colorways. Produced 252 pairs of each which, helped along by a demand-spiking feature in The Wall Street Journal, sold out in a day. This success swiftly led to an Adidas collaboration.
+
+Left David Z. in 2010 to create his own footwear store. Built the first store with his Dad, sleeping in it for five straight days during development. It had two spaces: a rustic room with brown shoes and boots, and a neon room for sneakers. It also had a courtyard where like-minded people began to mingle. The first Kith-branded products were exclusive collaborations but, within a year, customers were asking for Kith-only products. The first came in 2012—cargo pants.
+
+Today, the business is split 50/50 between products and storytelling. When it launched its collection with Giorgio Armani (Armani’s first-ever collaboration) this Fall, Kith enlisted Martin Scorsese, Pierce Brosnan, and LaKeith Stanfield to debut the products through short films and classy portraits.
+
+Takes its name from ‘Kith and Kin’, which means friends and family. Values Kith Treats (selling ice creams in stores) as highly as the Armani collaborations. “Nothing is done for business purposes. We create for the sake of what people will love…and we cater to both ends of the spectrum with the same intent, creativity, and purpose.”
+
+Sean Feeney
+
+Co-founder, Grovehouse Hospitality
+
+The most important ingredient is the one that’s left out.
+
+5,000
+
+people on Lilia’s waitlist
+
+41
+
+Misi’s The New York Times restaurant rank
+
+THE BIG PICTURE
+
+Owns nine restaurants in New York. Lilia and Misi have three stars from The New York Times. Lilia won a James Beard Award. Waitlists are thousands long for both.
+
+Won a StarChefs Rising Stars Restaurateur Award in 2019.
+
+Launched Misipasta, a company that sells Lilia’s and Misi’s ingredients and hospitality to cook and entertain at home.
+
+Fini, his pizzerias, invest 3% of their revenue in local neighborhoods.
+
+Managing Partner of Hometown BBQ and Red Hook Tavern in Brooklyn.
+
+THE KEY DETAILS
+
+Bond trader in New York for 16 years. Struck up a friendship with acclaimed chef, Missy Robbins, when she moved into his apartment building, and convinced her to open a restaurant together.
+
+Combined his role as a credit trader with building Grovehouse. For almost three years, he’d let the pastry chef in at 4:45am. Be at his Anchorage desk for 5:30am, before catching the 5pm L train home, to put his daughters to bed. Then, a night working the floor at his restaurants.
+
+Attributes success to his position as an outsider—applying his finance background to rethink standard restaurant practices.
+
+Inspired by Missy’s minimalist culinary approach—her dishes use no more than four ingredients—Sean drew up a simple business model. Targeting 20% EBITDA (the average NYC restaurant did 8% at the time), he negotiated a novel, more-aligned arrangement with his landlord to pay a percentage of sales on the restaurant’s lease. In its first year, Lilia doubled its sales target of $3.5 million. During Covid, it paid no rent.
+
+Surveyed 500 guests and team members, and analyzed restaurant data, to create the Perfect Turn, which has become the hospitality formula for all of his restaurants. It precisely defines the ideal dining timeline and breaks the experience into three phases: hello (first 15 minutes), dining (unrushed middle), and goodbye (final 20 minutes). Using systems like Resi, management tracks cover times and server performance, identifying top staff for different table sizes to deliver the perfect balance between art (guest experience) and commerce (operational efficiency).
+
+Opened three pizzerias under the name Fini in 2022. Two are in Brooklyn, the third is in Amagansett, New York. Each aims to improve its neighborhood, with 3% of revenue reinvested in local communities. Fini has put 75 trash cans on Brooklyn sidewalks. Customers play their part in keeping the streets clean too, by buying additional trash cans off the menu.
+
+Tobi Lütke
+
+Co-founder and CEO, Shopify
+
+The great privilege of my life is that I get to make a product for the most inspiring group imaginable: people who put themselves out there and build things that otherwise wouldn’t exist.
+
+$1 trillion
+
+lifetime GMV
+
+675 million
+
+Shopify end-users in 2023
+
+THE BIG PICTURE
+
+Shopify is an all-in-one commerce platform to start, run, and grow a business. It powers over 10% of e-commerce in the US and 6% in Western Europe.
+
+Over four million merchants in 175 countries use its software to run their online and offline businesses.
+
+In 2023, it made $7.1 billion in revenue and ended the year with a market capitalization of $100 billion.
+
+Brands like Mattel, Kith, Nestlé, Heinz, MrBeast, Spanx, Glossier, Allbirds, and Gymshark sell through Shopify.
+
+THE KEY DETAILS
+
+Built custom e-commerce software for his snowboard shop, Snowdevil. Realizing other entrepreneurs valued the software more than snowboards, he pivoted to develop Shopify, offering the user-friendly e-commerce platform to other online stores.
+
+Shopify culturally co-evolved with Ruby (a programming community focused on developer happiness) and Rails (focused on individual developer productivity). This cultural terroir was a key input to Shopify’s mission: giving small business owners agency and mastery over their software tools, and therefore, true ownership over their online stores.
+
+Wrote Liquid —Shopify’s online store templating engine—on a long flight from Ottawa to RubyConf in San Diego. Key to making Shopify really work, Liquid solved a critical puzzle in the history of web platforms: how to be in-the-code customizable like open source, yet hosted safely in the cloud, and instantly provisionable like SaaS.
+
+First went to Silicon Valley in 2008, knowing nobody, but got A-list investor intros through his Ruby on Rails credentials. VCs weren’t convinced of Shopify’s TAM, but liked Tobi as a CEO and urged him to keep the job, rather than hire a professional.
+
+Turned down his Silicon Valley term sheets, which stipulated he relocate. Instead, he leveraged his Ottawa headquarters, and became the desirable employer for talented software engineers in Canada.
+
+Spends as much time as possible in the minutiae of the product. And deliberately hires other founders and founding teams at an aggressive cadence in order to continually inject founder energy into the company, particularly in its executive team.
+
+Practices ‘Chaos Monkeys’ routinely with Shopify: randomly shutting down servers, deleting meetings, closing offices (pre-Covid), and even asking people to use their mouse with their non-dominant hand for a day.

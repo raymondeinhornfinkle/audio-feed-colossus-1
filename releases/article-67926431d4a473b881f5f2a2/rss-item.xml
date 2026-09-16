@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Is Space Investable? (Colossus)</title>
+  <description>An audio reading of Is Space Investable? from Colossus.</description>
+  <link>https://colossus.com/article/is-space-investable/</link>
+  <pubDate>Wed, 16 Sep 2026 16:12:02 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:67926431d4a473b881f5f2a26256e0226826da07b7c2df380aa1dffb65275826</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-67926431d4a473b881f5f2a2/article.mp3" length="58453143" type="audio/mpeg" />
+  <itunes:author>Donald Lee-Brown</itunes:author>
+  <itunes:duration>01:00:53</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

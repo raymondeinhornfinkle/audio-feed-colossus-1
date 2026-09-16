@@ -1,0 +1,335 @@
+The Man With the Hot Hand
+
+The dizzying rise, brief fall, and white-hot resurgence of Abstract’s 34-year-old founder, Ramtin Naimi
+
+By Dom Cooke.
+
+The scar catches the dying light first—a crescent beneath Ramtin Naimi’s left eye that vanishes when he smiles, which he does often these days. From the terrace of his Tiburon home, the 34-year-old venture capitalist commands a view that stretches across the entire Bay Area: San Francisco glittering in the center, the Golden Gate Bridge suspended to the right, Berkeley and Oakland pooling to the left. Container ships drift beneath the bridge like bath toys while planes climb from SFO and small yachts chase the last breeze.
+
+“It might be the nicest view in the world,” Naimi tells me, sipping a glass of Napa red, which his wife Lizzy notes as a rare indulgence. He’s dressed in his standard uniform: black Saint Laurent cap, t-shirt, and jeans; minus the white Vans he kicked off after arriving home.
+
+The Transamerica Pyramid rises from San Francisco’s skyline like a pin, marking the neighborhood where Naimi runs Abstract, his $1.8 billion venture firm. From this vantage point, success appears inevitable. But tonight, his gaze drifts past the pyramid toward Van Ness Avenue, where 11 years earlier a very different version of Naimi sat in a bankruptcy lawyer’s waiting room, surrounded by fluorescent lighting and the particular desperation that smells of instant coffee and broken dreams.
+
+The journey between those two points—from insolvency to influence—reads like fiction, the kind of story editors reject as implausibly neat. Yet here sits the evidence: a man who parlayed supernatural hustle, pattern recognition, and an immigrant’s refusal to accept limitations into one of the Valley’s most successful seed firms, backed by Stanley Druckenmiller, Bill Ackman, Kevin Warsh, and Michael Ovitz.
+
+“I’ve been discounted by so many people in my life,” Naimi says, and the scar under his eye seems to deepen in the fading light.
+
+Money lessons in the Naimi household arrived with the subtlety of a Persian carpet seller. “America revolves around money and you need to figure out a way to make it,” his father repeated like a family motto.
+
+His parents had been childhood neighbors in Tehran before the Iranian Revolution scattered them across continents. They found each other again in Los Angeles as young adults and married in 1984. By the time Naimi was born in November 1990, they were living the classic immigrant story: small business owners grinding their way toward the American Dream.
+
+His father cycled between restaurants and dry cleaners, arriving home past midnight only to rise again at 6am, stress permanently etched into his face. CNBC played constantly in their household, his father monitoring markets that had nothing to do with his businesses.
+
+When Naimi turned 12, his mother announced they were moving to San Francisco to be near her sister. Naimi, his older brother, and mother crashed with his aunt’s family for three months while his father liquidated everything in LA. The family then settled in Tiburon, first in a cramped one-bedroom apartment, then a two-bed, and finally a modest starter home.
+
+His mother prioritized neighborhood over house size. “We were the tiniest fish in the biggest pond. I had friends whose fathers were the CEO of Visa or the CEO of Blue Shield and lived in these extravagant homes. I knew these things existed, and I knew the path to them wasn’t being a doctor or a lawyer,” Naimi explains.
+
+In high school, Naimi discovered a gift for seeing systems. His first entrepreneurial venture emerged from observing an inefficiency in Marin County’s social hierarchy: the divide between girls whose parents threw elaborate Sweet Sixteen parties and those whose parents couldn’t. His solution was financing celebrations for anyone who wanted one.
+
+Naimi would rent venues, hire DJs, arrange insurance, and recruit security from local gyms: “roided-out meatheads” who worked for $50 a night. The birthday girl got her party with her name on the banner and DJ shout-outs. Naimi got to charge admission and invite kids from every high school in Marin County, whether they knew the birthday princess or not.
+
+His first party nearly bankrupted him. He’d spent so much on production that his parents worried he’d lose his savings. But within 10 minutes of opening, his pencil box overflowed with cash. He had to run to the bathroom for a garbage bag.
+
+To float his party empire, Naimi worked weekends at West Elm, the furniture store. He would spot customers who’d rented Zipcars—clearly intent on taking furniture home—and aggressively upsell them using the store’s progressive bonus structure. “Somebody would come in wanting to buy a sectional,” he recalls. “I’d ask, ‘Do you want the pillows? The coffee table? The rug?’ They’d say no, just the sectional. So I would take off all the accessories just to show them what it would look like at home.” He ended up with the highest average ticket sales at the store.
+
+But Naimi’s real education was happening in front of a screen, where his father’s CNBC obsession had metastasized into something more dangerous. At 13, he convinced his parents to lend him $2,000 to learn stock trading. When $2,000 proved insufficient for meaningful equity positions, he migrated to derivatives that could multiply his buying power.
+
+The timing was fortuitous in the way that only hindsight reveals. As the 2008 global financial crisis unfolded during his senior year of high school, Naimi was trading out-of-the-money options against triple-leveraged ETFs tracking the banking sector. These instruments swung 10–30% daily based on Federal Reserve announcements or news about Lehman Brothers’ impending collapse. In the weeks surrounding Lehman’s bankruptcy, he made several hundred thousand dollars.
+
+The success proved intoxicating. Instead of college, Naimi launched a hedge fund straight out of high school. He obtained his Series 65 license and began raising capital from the network he’d built around a local financial advisor’s office in Tiburon. In total, he raised $3 million from 45 investors. He was the largest LP in his own fund, having poured his $500,000 of trading profits into it.
+
+In January 2009, aged 19, he launched the fund at the nadir of the financial crisis. He now concedes the absurdity: a 19-year-old kid ripping options all day long, trading iron condors and selling naked puts on levered ETFs and volatile tech stocks.
+
+The fund produced 59% annualized returns over three years—no small feat for a self-taught teenager. But the emotional cost was brutal. Naimi lived chained to his six trading screens, taking only two vacations in four years, both cut short by panic attacks when separated from his terminal. There were months when the fund dropped 27%; others when it rose 28%.
+
+The transition away from his screens was catalyzed by growing curiosity about the technology industry buzzing around him in the Bay Area. He cold-emailed VCs, angel investors, and founders, trying to understand what was happening in Silicon Valley. Most ignored him, but a few took meetings, including Stuart Peterson, who ran ARTIS Capital.
+
+“He showed me the scale of private companies, how many were staying private longer, and how much alpha was getting picked up in private markets,” Naimi remembers. More importantly, Peterson identified something about Naimi’s personality that he hadn’t recognized himself: “My personality is much more suited to being out hustling and meeting founders and learning about new technologies than sitting by myself for 15 hours a day.”
+
+He wound down the fund in 2013 with $1.5 million in the bank and quickly stumbled into a significant problem: his lucrative detour had severed him from the credentialing system that governed Silicon Valley access. He had returns but no relationships; quantitative skills but no understanding of how venture capital actually worked.
+
+Davidov and Naimi in the entranceway to Abstract’s Jackson Street office.
+
+The rejections came wrapped in encouragement and condescension. “Hey, listen, your background’s not that relevant to venture capital,” became a familiar refrain. “Maybe you should start a company.”
+
+Naimi spent months trying to penetrate an ecosystem that prided itself on meritocracy. “Rinky-dink hedge fund manager,” as one person characterized him, didn’t fit the template of Stanford computer science degrees, Harvard MBAs, successful startup exits, or family money.
+
+If starting a company was the price of admission, he’d pay it. In 2014, during the marketplace lending boom, he identified what seemed like an obvious market inefficiency. Companies like Lending Club and Prosper were growing rapidly, issuing loans with three- to seven-year maturity periods. But unlike banks, which traded debt instruments as liquid assets, peer-to-peer lending offered no secondary market.
+
+Naimi built Lenders Exchange to allow debt investors to trade their positions before maturity. He self-funded the company, assembled a team, and worked through the complex regulatory framework required to operate a trading platform.
+
+Fourteen months later, when he finally had a product ready for external financing, the sector collapsed. Lending Club’s stock plummeted 85% from its IPO peak. Sequoia began writing down its Prosper investment to zero. The category became untouchable.
+
+“I had spent my entire net worth building a supplemental product to a collapsed industry,” Naimi says. The failure wiped him out completely, but worse was the debt he’d accumulated keeping the business alive. Credit cards ballooned to $300,000 as he tried to bridge toward a fundraising round that never came.
+
+The emotional devastation matched the financial ruin. His parents, who had watched their youngest son make millions, now watched him sink into insolvency. The Persian immigrant values that had driven his early success cut him deeply. Money mattered in their household, and he had lost all of his. His mother never criticized him directly, but her heartbreak was visible. His father was “livid,” but later acknowledged Naimi’s resilience: “99 out of 100 people just would have gone into a hole for the next six months,” he reassured him. “You were grinding the next day.”
+
+The bankruptcy lawyer’s office on Van Ness Avenue represented everything Naimi had spent his life trying to avoid: fluorescent lighting, plastic chairs, worn carpet that reeked of stasis. Everyone looked resigned to circumstances beyond their control.
+
+He was flat broke when he Googled “bankruptcy lawyer San Francisco” and clicked the first result. The rumpled lawyer matched his surroundings perfectly. Naimi explained his story. The lawyer listened, then smiled with unexpected warmth.
+
+I had spent my entire net worth building a supplemental product to a collapsed industry.
+
+–Ramtin Naimi
+
+“I’m not the lawyer for you,” he said. “I do Chapter 7 bankruptcies. Chapter 7 is for people who are down on their luck and not getting back up.” He reached for his phone. “Let me call Brent. He’s the person you need to see. You need to file Chapter 13, not Chapter 7. You’re going to start making money again quickly. I know you will. You just need to restructure your debts.”
+
+The lawyer surveyed his waiting room, then looked back at Naimi with something approaching respect: “You’re not like these guys.”
+
+An hour later, he was in a much nicer law firm, explaining the same story to Brent, who wore a proper suit and worked from an office with actual artwork on the walls. Chapter 13 turned out to be straightforward. Within two years, Naimi had cleared every debt.
+
+But sitting in that waiting room, surrounded by people whose circumstances felt permanent, Naimi faced the possibility that his confidence had been misplaced, that his early success had been luck rather than skill.
+
+The unexpected faith from a grizzled lawyer righted him. The near two-year saga that had emptied his bank account had also carved something permanent into his character: a chip on his shoulder that would prove more valuable than any credential.
+
+One of the VCs who had passed on his marketplace lending company was Arjan Schütte, Founder of Core Innovation Capital. Naimi was interviewing for account manager roles at any startup he could find (and getting rejected) when Schütte offered him a modest role at Core: part intern, part associate. Naimi grabbed it like the lifeline it was.
+
+“He had a very strong style and a Rain Man-like memory for numbers,” Schütte recalls. “I remember being struck by an unusual outlier talent, and he just needed a home somewhere.” For Naimi, it is still the kindest thing anyone has ever done for him. The salary was minimal and he was mostly left to his own devices, but the credential was invaluable. After years of rejection, he finally had a venture capital business card.
+
+Core was a fintech-focused firm doing Series A investments. It didn’t take long for Naimi to realize that wasn’t his calling. He wanted to be a generalist seed-stage investor, catching companies at their earliest and most malleable stage. But the traditional path—working at a venture firm for several years before being granted check-writing authority—didn’t suit his timeline or temperament.
+
+As he absorbed what he could from Core, he began reverse-engineering his path to seed investing. He meticulously researched power law outcomes—companies worth more than $5 billion—and made a counterintuitive discovery: multi-stage venture firms were better at seed investing than dedicated seed funds.
+
+“At the time, if you eliminated Uber and Roblox, whose seed rounds were led by First Round Capital, you couldn’t point to a single power law outcome within a venture timeline where the seed round was led by a seed-stage venture firm,” he explains.
+
+The pattern suggested that seed funds claiming proprietary deal flow were, in Naimi’s characteristically blunt assessment, “full of shit.” How could a three-person seed fund have better coverage than a 50-person multi-stage firm?
+
+Instead of competing with these giants, Naimi decided to align with them. He chose to become a seed investor that treated multi-stage firms as partners rather than competitors, accepting smaller ownership stakes in exchange for access to higher-quality deals. It was a radically different approach that required abandoning the traditional seed fund playbook.
+
+But first, he needed deal flow. He analyzed the backgrounds of founders backed by top-tier VCs, identifying patterns in education, work experience, and career trajectories. He built a LinkedIn scraper to track roughly 7,000 people who fit the profile.
+
+“Anytime one of them changed their job title to founder, I got a push notification,” he explains.
+
+Nine times out of ten, the change happened before they raised funding. Naimi discovered that “an unfunded seed stage founder is the easiest person in the world to get a meeting with.” But meetings didn’t equal investments. He needed capital, and banks weren’t lining up to fund a recently bankrupt 25-year-old.
+
+The breakthrough came via AngelList. Naval Ravikant’s platform allowed anyone to raise SPVs for individual deals—no permission required, just quality deal flow. When Naimi posted his first opportunity, Ripple, he raised $470,000 within four hours.
+
+“I was like, holy shit, what was that? This is incredible. I can’t believe this actually works.” The economics made it even sweeter: He would earn 15% carry on every SPV he syndicated through the platform.
+
+Naimi sobered up quickly when forwarded emails began arriving, accusing him of hijacking the deal. An experienced AngelList investor alleged that he had been raising his own Ripple allocation when Naimi’s SPV went live. They contacted Ripple’s CEO Brad Garlinghouse and Schütte at Core, claiming the young investor had misrepresented his allocation and had “no right” to syndicate the deal. Naimi’s stomach dropped. He worried about being fired from Core and offered to retract the SPV.
+
+Salvation came from Garlinghouse himself. Ripple’s CEO validated Naimi’s allocation and praised his transparency, providing crucial backing when his credibility hung in the balance.
+
+Naimi then went turbo.
+
+Gil Penchina, a legendary angel investor, helped him navigate the platform’s mechanics and lent credibility to his efforts. “Gil had a big following on AngelList. He let me market my first few SPVs to his LP base as a way to get me on the platform,” Naimi recalls.
+
+Lee Jacobs, who managed syndicate partnerships at AngelList, watched with amazement: “At first it was almost unbelievable. Every week, this random dude would send lists of 15 companies backed by tier-one firms. He wasn’t a founder, and hadn’t worked at a tech company; it came out of nowhere.” But the deal flow proved real, and Naimi quickly became one of the platform’s top investors.
+
+For six months, Naimi represented roughly one third of AngelList’s total volume. Between August 2016 and June 2017, while technically employed by Core, he invested in 47 seed-stage companies either via an SPV raised on AngelList, or as an angel. Two of them—Solana and Ripple—went on to have coin market caps worth more than $100 billion each. A third, Rippling, is now valued around $17 billion. He also caught early rounds of future unicorns like Clay, Cherry, Material Security, and NewFront. His SPV investments have already returned just under $100 million to investors.
+
+Word of Naimi spread quickly through Silicon Valley’s network. By early 2017, everyone wanted to hire him. By August, when he had momentum doing his own thing, he was declining those offers and fielding proposals from VCs wanting to become LPs in a fund he didn’t yet have. He wasn’t convinced the approach would scale to a full fund, but when the conversation evolved to buying equity in his management company, the equation became too attractive to ignore.
+
+In the deal that emerged, Marc Andreessen, Chris Dixon, David Sacks, Keith Rabois, Michael Ovitz, Kevin Hartz, Bill Ackman, Stanley Druckenmiller, and Kevin Warsh bought 20% of his management company, Abstract, for $10 million in upfront cash. Naimi was 26 years old with a theoretically worthless company that had maybe $10 million in total assets under management.
+
+“It was a group that I’d only read about and would have given the equity to for free if they’d asked for it,” Naimi says. “But if they were willing to pay for it, then that made it even better.” The deal included a seven-year sunset provision, whereby the investors earned economics on everything Abstract did in that window. By the end of 2024, Naimi owned 100% of his firm again.
+
+This is the single most important person you’ll meet, whether you succeed or fail. Ramtin is the key to the kingdom you want.
+
+–George Sivulka, Hebbia
+
+The consortium came together through a web of introductions: Cyan Banister, whom Naimi knew from AngelList, introduced him to Hartz; Hartz made introductions to Rabois and Dixon; Dixon brought in his partner Andreessen; Andreessen suggested Naimi meet his mentor, Ovitz; Ovitz connected him to Ackman, Warsh, Druckenmiller, and Sacks.
+
+Hartz, who founded Xoom and Eventbrite, remembers thinking: “If you were this good not knowing anybody, I wonder how much better you’ll get if you know all the right people.” Ackman, founder of hedge fund Pershing Square, was drawn to a familiar story. “I was once a 26-year-old trying to raise money,” he told me. “Ramtin seemed smart and had a lot of energy. He was very entrepreneurial. I liked his strategy and the way he was building his business.”
+
+For his part, Ovitz said, “I got an instantaneous sense that this was a guy to develop and mentor. I went out on a limb with him, bringing quite a few large investors to the table, which I rarely do without really knowing somebody. But it turned out I was right.”
+
+Naimi remembers his first meeting with Ovitz differently. He arrived at The Battery restaurant in San Francisco so nervous he could barely think straight, overwhelmed by the aura of the man who’d built CAA from nothing and negotiated deals for Sony, Steven Spielberg, and countless others.
+
+The Hollywood legend settled into his chair, took a deep breath, and delivered a line that almost broke Naimi’s composure: “To what do I owe the pleasure?”
+
+“What do I say to that?” Naimi thought, scrambling for an answer that wouldn’t sound ridiculous.
+
+Midway through the conversation, they stumbled upon the topic of cars. Ovitz mentioned he’d dabbled in collecting vintage cars but that storage was a pain, so he’d never taken it seriously. He’d once been offered a collection of 12 classic Ferraris from an estate sale.
+
+“Guess what I could have bought the collection for?” Ovitz asked.
+
+Naimi clarified what year and which specific cars were included. Eleven were standard classic Ferraris. One was a 250 GTO—among the world’s most valuable.
+
+Naimi calculated rapidly. “I don’t know, they probably wanted $18 million.”
+
+“That is spot on!” Ovitz replied, extending his fist for a bump.
+
+“From there, we were just kind of buddies,” Naimi recalls.
+
+Eight years later, their relationship has deepened into something closer to family than business. Ovitz describes Naimi as his “non-biological son” and marvels at his intensity. “Everything he gets into,” Ovitz told me, “he approaches with the same vigor, but it’s not the kind of intensity that’s a turn-off. He’s grown into one of the best investors out there.”
+
+Naimi counts Ovitz as one of his best friends. The pair, separated in age by 44 years, talk every day in conversations that range far beyond venture capital.
+
+“We talk about art, for example,” Ovitz says. “He wanted to collect art, and I got him started. I’ve gotten a lot of guys started but most of them don’t follow through. Ramtin is building a very impressive collection. He has worked hard to learn. He listens well.”
+
+Both Ovitz and Stuart Peterson—Naimi’s original mentor who introduced him to venture capital—possess world-class collections. “Every time I visit them, I just try to learn a little bit more about what’s in their house,” Naimi says. “They could both spend two, three hours walking you around their home and talking about what they have and how they got it and the story behind it, the history behind it, the significance of it.”
+
+Naimi now owns works by Christopher Wool, George Condo, Mark Grotjahn, Larry Bell, and other masters. He approaches art collecting with the same systematic intensity he brings to venture investing: studying markets, building dealer relationships, and hunting for pieces before they become widely recognized. Abstract’s office is littered with striking art, although Naimi classifies them as “pieces that won’t make me mad when someone bumps into them.”
+
+Naimi’s other best friend (the third being his wife, Lizzy) is Hartz, who works a block away on his own early stage venture firm, A*. In addition to being a close friend, he serves as a tactical sounding board and deal-making partner. Naimi calls him “Kevie” and talks to him four hours a week.
+
+That Naimi has cultivated close relationships with people who could have easily dismissed him as just another ambitious upstart seeking their stamp of approval says as much about his personality as his capabilities as an investor.
+
+The $10 million in upfront cash from selling equity in his management company solved Naimi’s immediate financial problems and gave him the resources and network to build Abstract into a real venture capital firm.
+
+He made his first hire in 2017, recruiting Alex Davidov from Core Innovation Capital as a Founding General Partner. Where Naimi was the front-facing relationship builder and deal sourcer, Davidov would be the operational backbone that could systematize Abstract’s approach and scale its capabilities. “Alex and I are polar opposites,” Naimi explains. “I’m an eternal optimist and he’s kind of a default skeptic, which I think is a healthy balance to have.”
+
+Both have trading backgrounds—Naimi from his hedge fund years, Davidov from four years at Bridgewater Associates—which give them a shared framework for thinking about venture capital as a methodical problem rather than a collection of isolated bets.
+
+Their first fund targeted $100 million. Most advisors suggested starting smaller, but Naimi was determined to make a statement. “I wanted it to be significant enough that people had to pay attention to us,” he says. “It wasn’t just going to be another $20 million seed fund. It was going to be a $100 million seed fund.”
+
+The same individual investors who’d bought equity in his management company became anchor LPs, providing roughly half the capital. The remainder came from another set of individuals: Joshua Kushner of Thrive, Matt Cohler of Benchmark, Neil Mehta of Greenoaks, Chase Coleman of Tiger Global, Santo Politi of Spark. Four institutional LPs participated. Naimi also attracted operators like Jerry Yang from Yahoo and Frederic Kerrest from Okta.
+
+The final close came down to the calendar deadline. The terms they’d set with investors gave them exactly one year from first close to complete the fundraise. On Christmas Eve 2019, Naimi was visiting family when his phone rang. An Israeli family office wanted to commit the final $2 million. “We nailed $100 million on calendar day,” he says with satisfaction.
+
+Abstract’s first fund systematized and scaled Naimi’s SPV approach: Identify companies before the multi-stage firms find them, then introduce those companies to the right partners at tier-one firms.
+
+We are the best firm in the world at getting founders from seed to Series A.
+
+–Ramtin Naimi
+
+But the strategy required reimagining traditional venture capital portfolio construction. Abstract’s model focused on “relative ownership” rather than absolute ownership: If he could get 5% ownership in deals where Andreessen Horowitz got 15%, he might have one-third their ownership, but out of a fund that was one-fifteenth the size, his LPs got 5x more exposure to those companies than they would as investors in Andreessen’s fund.
+
+Naimi executed this strategy perfectly 22 times in the early days: tier-one co-lead, 15% for them, 5% for Abstract. But the division of labor chafed. “I was doing all the work and only getting 5%,” he recalls. The solution was to start leading deals himself while still keeping the tier-one firms involved as co-leads at slightly reduced ownership levels—typically around 10%, which he discovered was the threshold below which top firms would walk away from seed deals.
+
+The first four deals he led raised Series A rounds from Benchmark, Sequoia, and Andreessen Horowitz. It was immediate validation that the companies he was identifying and leading at seed were not adverse selection. They were genuinely high-quality opportunities that top firms wanted to back at later stages.
+
+Since that initial $100 million fund in 2018, Abstract has raised capital at an accelerating pace: $270 million in 2021, $300 million in 2023, and $500 million in 2025. The firm manages $1.8 billion in assets today, including $600 million in realized and unrealized gains, making it one of the largest seed investors in the world.
+
+Half of Abstract’s funds rank in the top decile for their vintage; the other half in the top quartile. The portfolio includes seed and early-stage investments in breakout companies like Neon (bought for $1 billion), Replit, Krea, xAI, Partiful, Hebbia AI, Garner Health, Crusoe AI, and Polymarket.
+
+As the firm has grown, its value proposition has sharpened around a single metric: “We are the best firm in the world at getting founders from seed to Series A,” Naimi says before launching into the data that shows how Abstract’s portfolio companies graduate to Series A at twice the market rate, with median valuations 75% higher than comparable deals. They’re 10 times more likely to raise from tier-one firms. By Series B, they raise 1.75 times more capital for the same ownership sold—meaning founders keep more of their companies.
+
+This evolution from follower to orchestrator has happened steadily. In Fund I, Abstract led perhaps 20% of its deals, mostly co-investing alongside established firms. By Fund III, it was leading 80–90% of investments.
+
+For six years, it was just Naimi and Davidov on the investment team. But in 2023, as Abstract closed its largest fund yet, Naimi began recruiting in his own image: Hire one exceptional 26-year-old every year, give them meaningful responsibility immediately, and review their hustle after three years.
+
+David Kwon came first, through a connection at Coatue. He’d cut his teeth in growth investing at Stripes and Greycroft. Andrei Kozyrev arrived next, in 2024, through a connection at Sequoia. He brings a technical computer science background and experience from Scale AI.
+
+The office itself reflects the firm’s evolution from scrappy upstart to established player. Abstract occupies the top floor of a converted warehouse on Jackson Street, across from Jony Ive’s LoveFrom headquarters. The building is owned by Stuart Peterson, who operates out of the fourth floor—a piece of real estate poetry that places the apprentice above his mentor. The space itself reflects the influence of Lizzy Naimi, the firm’s unofficial brand officer, and appears a tranquil oasis of walnut and limestone.
+
+But beneath the polished surface runs a culture of almost manic urgency. At 10:30am, Naimi opens his sugar-free Red Bull. The four-person investment team meets every morning at 11—not weekly like most firms—to review every deal in the pipeline. Everyone works from the office five days a week. Response times are measured in minutes, not hours.
+
+“If a founder intro comes through at 9pm and you’re not asleep, I want you to make sure the meeting gets scheduled,” Naimi instructs his team. “Because if you don’t respond until the next morning, it won’t get scheduled until the following day.”
+
+The culture reflects Naimi’s belief that venture capital is ultimately a service business where execution excellence creates sustainable competitive advantages. When Abstract competes with larger, more established firms, speed is a differentiating factor—even when it seems there’s nothing to do.
+
+At HF0’s mid-June demo day, 50 investors packed into the startup accelerator’s house on Fulton Street to watch 10 founders pitch for seed funding. Only one company had already closed its round: Max AI. That Naimi had funded the business weeks earlier surprised no one.
+
+That’s what I mean about having a shark on your cap table. The good kind, one who knows how to swim alongside apex predators without getting eaten.
+
+–Victor Perez, Krea
+
+But Naimi has learned that founders are also increasingly choosing seed funds based on operational support, and he doesn’t care to lose for that reason.
+
+His solution differs from the traditional model where junior staff handle seed companies while senior resources go to later-stage investments. Instead, Naimi has hired what he calls “coaches”—senior specialists that founders will listen to.
+
+Caroline Stevenson, who scaled Dropbox from 20 to 2,000 employees, handles talent advisory. Anthony Heckman, who built unitQ’s first few million in revenue when “no one had heard of them,” leads go-to-market strategy. The full Abstract team now numbers 11, each person carefully selected for a specific role in the machine Naimi and Davidov have built.
+
+“His team is super sharp,” says Scott Morton, the former SpaceX engineer who founded Revel. “They had very good technical questions, and Caroline has been helpful in thinking through recruiting strategies.” Victor Perez, Co-founder of AI company Krea, credits Heckman with enterprise guidance: “He’s been back-channeling with customers to help us close deals. After our Series B, we had huge inbound but no enterprise experience—Anthony filled that gap.”
+
+The investment team: Kozyrev, Kwon, Davidov, and Naimi.
+
+The most common criticism of Naimi and Abstract is that they are mere “signal chasers” who follow the lead of tier-one firms rather than develop their own independent judgement. That Abstract’s portfolio is large, roughly 200 companies across its funds (not counting Naimi’s early SPV investments), only adds fuel to the murmurs that it is an index investor, not an active manager.
+
+The criticism clearly irritates Naimi, though he acknowledges its partial truth in Abstract’s early days. The systematic approach to identifying founders and deals did rely heavily on pattern-matching to successful outcomes. But times have changed, and Naimi is now the heat that other firms cozy up to.
+
+“Ramtin is uniquely effective at helping founders with their subsequent rounds,” says David Sacks, Co-founder of Craft Ventures. “Abstract is one of our first calls when we see deals that are too early for us. He has built an elite early-stage firm.”
+
+The transformation is proven by Naimi’s founders.
+
+October, 2020: George Sivulka was eating microwave meals in a closet when the texts started coming.
+
+The 22-year-old had dropped out of his Stanford PhD program to build Hebbia, an AI company that barely existed beyond a concept and a tiny pre-seed round from Floodgate. He was sleeping on the floor of a master bedroom closet in East Palo Alto, surviving on Trader Joe’s microwave meals, when Naimi began his pursuit. What happened next depends on memory and perspective.
+
+“He messaged me every day for a week and I ignored him,” Sivulka recalls. “I couldn’t work out how he had even found me. Finally he texted, ‘I hear you’re sleeping on the floor, let me take you to a nice restaurant. Meet me at Kokkari in Jackson Square.’”
+
+Naimi tells it this way: He had spotted the Floodgate announcement and noticed Kevin Hartz was an angel. A quick text to Hartz yielded an introduction. From there, he took Sivulka to dinner at Kokkari and made his pitch over expensive Greek food. “I put in a preemptive term sheet to lead George’s seed round. And I thought I had it in the bag.”
+
+That’s when the daily texting began. Not to get Sivulka’s attention, but to keep it, “because the longer he took, the more I realized that there was somebody else around the table.”
+
+Suddenly Naimi found himself competing against one of the Valley’s most respected investors. “I wasn’t quite in a position in my career to go head-to-head with Index’s Mike Volpi yet, but I still fought hard.” He finally lured Sivulka out for another fancy dinner, this time at La Mar on San Francisco’s Embarcadero, where he was told: “I think we’re gonna go with Volpi, but we’ll get you in one way or another.”
+
+Naimi got the second-largest check. Volpi won the deal. But five years later, with Hebbia valued around $700 million after its Series B, Naimi has been cut a bigger check in every subsequent round, becoming one of Sivulka’s closest confidants. When asked to give references about Naimi to other founders, he tells them: “This is the single most important person you’ll meet, whether you succeed or fail. Ramtin is the key to the kingdom you want.”
+
+October, 2022: Shreya Murthy, Co-founder of New York-based Partiful, sat across from Naimi while on a trip to San Francisco, walking him through her company’s metrics. The event planning app had solid traction, but his assessment was direct: “Your metrics are really strong, but no one wants to invest in consumer right now. Just keep executing. Let’s wait for the market to improve.”
+
+The next day, a Friday, Murthy called and told Naimi she had just received a verbal offer for their Series A.
+
+“I have never seen a more visceral metaphor of a shark that smelled blood in the water when I told him we got that verbal offer,” Murthy recalls. “Ramtin just did a 180. He’s like, ‘Okay, we’re doing it. Here’s what’s about to happen.'”
+
+Naimi mapped every relevant investor in Silicon Valley, identified the specific partner at each firm who should meet Murthy, and personally made introductions to senior GPs rather than letting her work through junior associates. More importantly, he created information asymmetry by controlling the flow of data between Murthy and potential investors.
+
+“I would have a meeting with someone he connected me to or someone I knew,” Murthy explains. “And then I would call or text him after the meeting to debrief. Meanwhile, he was debriefing with the person I met. And then we were debriefing together.”
+
+The intelligence gathering allowed Naimi to provide tactical advice. Before Murthy’s lunch meeting that Tuesday, he called to warn her: “I just had breakfast with the person you’re meeting at 1pm. Just so you know, he’s been burned by a bunch of consumer stuff. He’s really bearish on the space right now.” She went into the pitch with nothing to lose.
+
+Naimi called as she was heading to the airport that afternoon. “Where are you right now?” he asked. She was three blocks from her Uber pickup in the Mission District of San Francisco. “Can you push out your flight?”
+
+“No, I have jury duty tomorrow,” she said.
+
+“I just got off the phone with the person you met. He loved you and has cleared his schedule for the rest of the day so he can spend more time with you. Where are you right now exactly?”
+
+“I’m three blocks from Dandelion, waiting for my Uber.”
+
+“Just cancel your Uber and hold tight.”
+
+Five minutes later, a GP whose name would be recognized by anyone in Silicon Valley—an LP in Naimi’s fund—personally picked up Murthy in his Tesla and drove her to SFO, continuing their conversation during the 20-minute ride to the airport.
+
+Partiful’s Series A ultimately attracted six term sheets, with the final valuation 67% higher than the initial verbal offer. “We were in name-our-terms territory,” Murthy says. “We could have gotten over double what our first offer was.”
+
+Before that week, Murthy had spoken to Naimi a dozen times since he’d invested in their seed round. During the Series A, they talked and texted about 100 times a day and have stayed close ever since. It’s a common pattern with Naimi. Founders talk about how fast and frank he is initially, but once they’ve been through one of his fundraising odysseys, they talk about Naimi in tones of trust, fun, and admiration.
+
+When his wife was in the delivery room with their third child, Naimi helped Murthy negotiate a critical deal. “Before you get to know him, he’s not going to feel like your best friend,” Murthy says. “But as soon as you start winning with him, he’ll become one of your favorite people to get dinner with.”
+
+November, 2023: On a Monday morning, Thanksgiving week, Naimi’s phone was buzzing off his charcoal-black desk.
+
+Victor Perez sounded panicked. His AI company Krea had just released a real-time image generation product that had gone viral. Their waitlist exploded from zero to 300,000 people in a week. Their burn rate jumped tenfold. They needed GPUs and money, fast. An investor had handed them a pre-emptive term sheet at a $60 million valuation, expiring Friday.
+
+“These investors aren’t well-known, but they’re nice and the offer’s fair,” Perez told Naimi, who’d invested in their seed round. “We’re going to take it. Who’s going to give us a term sheet this week? We don’t even have a deck or a data room.”
+
+Naimi asked for bullet points on their business. Perez and his co-founder Diego Rodriguez emailed at 4am Tuesday. By the time they woke up, Naimi had arranged 15 meetings with top-tier investors.
+
+“Over the next two days, we met with Marc Andreessen, Founders Fund, Sequoia, Benchmark, Lightspeed, Menlo Ventures … everybody,” Perez recalls. “This was Thanksgiving week!”
+
+They called Naimi after every meeting. By Tuesday night, Andreessen Horowitz had made a verbal offer. On Wednesday, Marc Andreessen flew from Malibu to close the deal over dinner at Selby’s in Palo Alto. Thanksgiving morning, they signed at a $135 million valuation—more than double the original offer.
+
+“That’s what I mean about having a shark on your cap table,” Perez says. “The good kind, one who knows how to swim alongside apex predators without getting eaten.”
+
+Anish Acharya, General Partner at Andreessen Horowitz, was at each of those meetings. “Ramtin’s got a knack for being around all the most important deals,” he told me. “Whenever Ramtin says something is important, we take it incredibly seriously.” Acharya also explained that “Krea’s founders were largely unreachable by investors in Silicon Valley until Naimi made introductions to what’s now seen as one of the top consumer AI companies in the world.”
+
+The daily meeting.
+
+The sun has nearly set over San Francisco Bay, painting the water in shades of copper and gold. Behind him, Naimi’s concrete-and-glass house glows from within. He first glimpsed it at 18, trailing his mother through Marin County’s Designer Showcase—their annual ritual of touring architectural showpieces they couldn’t afford.
+
+“I thought it was fucking cool,” he recalls. The house stuck with him, and when he finally had enough liquidity to dream seriously, he asked his realtor to call if it ever became available.
+
+In 2021, just as he prepared to break ground on a Presidio Heights construction project, he got the call. The owner—a European biotech investor who used the house for board meetings—wanted out of California. He needed five months to move his belongings to Europe.
+
+“Make him an offer today,” Naimi said. “What he paid in 2016. He can have the full five months.”
+
+“That’s offensive,” the realtor said.
+
+“We have five months to negotiate,” Naimi replied.
+
+The offer was accepted the next day.
+
+His parents’ journey from that cramped one-bedroom apartment to watching their son muscle his way to this view represents the American Dream in its purest form. “My dad tells everyone about me now,” Naimi says. “I’ll meet new friends of his who already know my whole story. My mom just says ‘evil eye’—she’s worried about jealousy.”
+
+The whispers don’t just emanate from his proud father. Scott Morton had never heard of Abstract when Naimi first reached out. But he kept hearing the same phrase: “Ramtin’s got the hot hand in San Francisco.” That’s how Silicon Valley anoints its own—through whispered endorsements that carry more weight than an MBA.
+
+In Persian culture, Naimi explains, only two things truly matter: family and money. Success without family is hollow; family without financial security is precarious. Watching his two children play in the distance while Lizzy tends their newest addition, it’s hard to argue he hasn’t mastered both equations.
+
+Yet those who’ve bet on him carry different scorecards.
+
+“What I think is most impressive is he’s just as much a scrappy, determined, street fighter,” says Kevin Warsh, a Partner at Stanley Druckenmiller’s Duquesne Family Office and former Federal Reserve Governor who backed Naimi when he was nobody. “In investing, people tend to lose those rare qualities with success. But, so far, Ramtin is the same guy I met when he was 26.”
+
+Bill Ackman offers a different kind of pressure: “The problem with venture is it takes a decade before you really know. So I would say the rubber will start meeting the road very soon.”
+
+Eight years in, with $1.8 billion in assets under management and a portfolio studded with unicorns, that timeline feels both daunting and liberating. But if Naimi feels the weight of approaching judgment, he doesn’t show it. Instead, he thinks about his brother, who recently sold a majority stake in his vertical SaaS company for just under $30 million.
+
+“He just cashed out,” Naimi says, still perplexed. “I was asking him, ‘Why didn’t you stick at it for longer? If you just doubled again, it’d be worth $60 million!’” Where his brother saw an exit, Naimi saw an inflection point.
+
+“I actually think we’ve tempered how large we could have been by now,” he says. “I think a lot of our LPs appreciate that. Our latest $500 million fund was basically oversubscribed before we started raising it.”
+
+“Sequoia was founded in the early seventies; it’s more than 50 years old today. Benchmark in the mid-nineties—30 years ago. Abstract is eight, but I’m 34. By the time I’m 54, Abstract could be a 28-year-old brand: One of the defining venture capital firms of Silicon Valley.”
+
+He watches lights flicker across San Francisco. “Five years ago, that was a pipe dream. Now, if I squint really hard, I can actually see a world where it becomes real.”
+
+Dom Cooke is the managing editor of Colossus.

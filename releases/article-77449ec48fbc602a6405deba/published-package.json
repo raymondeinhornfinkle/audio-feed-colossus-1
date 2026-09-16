@@ -1,0 +1,180 @@
+{
+  "article_id": "77449ec48fbc602a6405deba3e063d471e77dcd7af74e959765714583c7d13fe",
+  "guid": "urn:article-reader:77449ec48fbc602a6405deba3e063d471e77dcd7af74e959765714583c7d13fe",
+  "release_name": "article-77449ec48fbc602a6405deba",
+  "article_title": "The Patriot",
+  "publication": "Colossus",
+  "title": "The Patriot (Colossus)",
+  "author": "Jeremy Stern",
+  "source_url": "https://colossus.com/article/the-patriot-shyam-sankar-palantir/",
+  "duration_seconds": 5076.45,
+  "file_size": 81224715,
+  "media_sha256": "10205dd1e0f7f6371e5a389090f952964fa698b7ad0d0c7361e5d0cff10c4904",
+  "transcript_sha256": "5d0dc6ead3304d29fa33e0705f6d1b0cdfd5484289189ab2a709d404c93f3ce7",
+  "extraction_report_sha256": "b1aa6562466533d04609e173c7ed11c8462c9265c09c0ff272a12dd1afad0a2e",
+  "audio_manifest_sha256": "485e0c4787313839c98e678f4e57928f1cdbd8900c62a82b50d5b78116ad6bba",
+  "audio_run_sha256": "283adff5d5e1f88ba8c7f6264afa6ca7cf7fb41995333ad20c9519ce9bbd2071",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 23,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "ee56bcbf6e16ae8aa13a4d19fc47ba4e70227f5a9e69042532e309f30f1ded66",
+      "audio_sha256": "2f1680377f283dcd19d1bafdae51e6f30b1a7a07a8c89e1e3dd51aac9090bfad",
+      "pcm_frames": 5505240
+    },
+    {
+      "index": 2,
+      "text_sha256": "6b38937d21e854a6f053235c7dae908046ab89b0755c3c20ab83ecdb375acfcc",
+      "audio_sha256": "7cafdf28029783e9ebd6dba9fb93eaabfa543b996f80c3f083b1cb84f42f4db4",
+      "pcm_frames": 5806800
+    },
+    {
+      "index": 3,
+      "text_sha256": "f5555d5aff60dbe8363c8a12017236c884be15df02d27278a87f2e92cfc3c6be",
+      "audio_sha256": "40f61ba96facb6fe50d542005dfce8b28f8a7879f13d8b36f2dc5a34b40244e0",
+      "pcm_frames": 5080440
+    },
+    {
+      "index": 4,
+      "text_sha256": "6c29ed54e58d0b6b199e75ea917a6bcaaf20c602966d6a8e32082291b0a0a597",
+      "audio_sha256": "ad377f2e6ff08801cfbf28bb3bc5178614492a2420904c5717dda9fb9163125d",
+      "pcm_frames": 5175360
+    },
+    {
+      "index": 5,
+      "text_sha256": "2147bf062f25e561158e7aadaf021a25ebc418929a19147b8d4612030e341b66",
+      "audio_sha256": "48c65da5e27645f33cded337640b495d2916e6d8f8a4fdc77c79c96ee05f20f8",
+      "pcm_frames": 5162640
+    },
+    {
+      "index": 6,
+      "text_sha256": "878942c162f41f90d51053dd9766868ebe43571f93c09ffa61ae047dec2fa134",
+      "audio_sha256": "4c1897103f1658bc2a08cd7ccfcdfaf661a4b7237a3574a1305048e97c573d9b",
+      "pcm_frames": 4914840
+    },
+    {
+      "index": 7,
+      "text_sha256": "931d68a92cb7b3c4b843be6b09a11496907ca22d114be8934e63202f1bbe83c7",
+      "audio_sha256": "326fe29e787dd9ca972edec6f2c28705b7080608a6d6e7e77a80eb55f1c4995a",
+      "pcm_frames": 4543320
+    },
+    {
+      "index": 8,
+      "text_sha256": "2cf2075607daf2b2b8cbfae3081ed3ad1f56a72ad77d54ca1fa911671a2671fc",
+      "audio_sha256": "c432395b274aad74f1da63e19145a2560e89eb1a2d67302973a40ece2f5f3efa",
+      "pcm_frames": 4910520
+    },
+    {
+      "index": 9,
+      "text_sha256": "199677dd6f899eabc7ded75031f6722841497c417408f38a9ae3e82c49dd0454",
+      "audio_sha256": "1bb5a49536122af99b156af3ae91460672b8c9e53a8a513837e78d393c389610",
+      "pcm_frames": 4714680
+    },
+    {
+      "index": 10,
+      "text_sha256": "fc06102e9b41b569396cce0aabd9e57f06e88920f647c8cbcdd36ef5364588e3",
+      "audio_sha256": "608140cce21d6a57d7a821c56c4aee2ae3d4f140bce8f6949cfc95a1a6228922",
+      "pcm_frames": 5833080
+    },
+    {
+      "index": 11,
+      "text_sha256": "69957fb1407ba717205b2625e680001e7b8b8fa848cb55934d3e9dfb4b791734",
+      "audio_sha256": "6622094be5da38eb596a6e00e1457d148042615cb1ced5cb210426bfb690cd65",
+      "pcm_frames": 5355000
+    },
+    {
+      "index": 12,
+      "text_sha256": "1249c7a273fe8e64e102949482920682dbaa99ebff6520d54f976ef1cad34abf",
+      "audio_sha256": "e94705f5743f3868f42cb14bf5494ea448b2d3bda75869abc40b86a936d69eaa",
+      "pcm_frames": 5908920
+    },
+    {
+      "index": 13,
+      "text_sha256": "5f1baa3b56f3c4ac11737d8da6a200b6f3d9036843262e77acc6fa4d35cabb24",
+      "audio_sha256": "ab7f27d64c211e1252a8300b0b9e239f794b0bbc74288f92ab2dce218aab0fe0",
+      "pcm_frames": 5226720
+    },
+    {
+      "index": 14,
+      "text_sha256": "f3cb2761964b8cdf8d8de3dc9399ce0317cdae447ad66315e57647bee25df968",
+      "audio_sha256": "b3a9f8e3fc19cbe2b150548283ae7c657a04b2a42fb3458c2db0b4dddeab67e3",
+      "pcm_frames": 5365680
+    },
+    {
+      "index": 15,
+      "text_sha256": "8e75c00276d2eac76c36d7c61ac9797d971bf23cca170ba2719c8b3cf0c85c74",
+      "audio_sha256": "c0794a57614eb74843062d20a554d0992592a7257f9d1086a646e4e3f38d741d",
+      "pcm_frames": 5579880
+    },
+    {
+      "index": 16,
+      "text_sha256": "72de0cc422c7940cc690eface86be5352c1645fb0afcea88367f237046b6114a",
+      "audio_sha256": "6d74981dde5b37a97b69c277ad73c43a6681b673f607aad82fd6371ee6e4f99e",
+      "pcm_frames": 6175200
+    },
+    {
+      "index": 17,
+      "text_sha256": "7d8beb934fb4c0bd5ce93c6e86b3bc08dd200dee53aa31d4f6445ddbbbb97907",
+      "audio_sha256": "b8a5eb7c36aba0cf35855c61e6d512d7c84bfecc1ace6c52f78b45f015538b67",
+      "pcm_frames": 5651400
+    },
+    {
+      "index": 18,
+      "text_sha256": "6a8b9979195672d25631b4e66fae6a54300436758983a849d08f958d9b61ecaa",
+      "audio_sha256": "8bf23c00130a9b67a6ae0059d978e228b7089bea5a90bca31619b30bbf47568d",
+      "pcm_frames": 5586000
+    },
+    {
+      "index": 19,
+      "text_sha256": "6de62f7821a39647374a74aca6fcb9dd6a7943fa7d0f9dafc1eebbcbecfcb9b5",
+      "audio_sha256": "3dceb4c846e75db6222c4cd59cf95c150ab3def329fb653ff87c03c3f19f346f",
+      "pcm_frames": 5890200
+    },
+    {
+      "index": 20,
+      "text_sha256": "721001fa890bf7cd25ce2da816743e06c4a4fbf032aa544d403cbb9f68ce3659",
+      "audio_sha256": "1f72ee5c8f881b14a2da77a898f78f00230792001545eb4f2386536088db640a",
+      "pcm_frames": 4411200
+    },
+    {
+      "index": 21,
+      "text_sha256": "f7496554d5fbbcc1a1e0fc63e842d8d13aed85450fbc1f74102e9666e23677c8",
+      "audio_sha256": "afa9ff989ad97ba9812e45e286fb839da69b2858fb8cb45580413465ca52bd3b",
+      "pcm_frames": 5105280
+    },
+    {
+      "index": 22,
+      "text_sha256": "2bc2a73ddd9efe8d481c47d40fc1f06dd224c2877c1d6c67a51298e9cec1a0cf",
+      "audio_sha256": "cab6df9d64bc647f1847ddb442de693e074b240c3d46742b03c037b9085cc5fe",
+      "pcm_frames": 5178600
+    },
+    {
+      "index": 23,
+      "text_sha256": "4c5e171a45ccedb3e44bc4038d80790feeb77dce018e5e067949fa92af553371",
+      "audio_sha256": "cac1c5213bb384c2d22422cbaa45c1529992ab3ce6b1a0e4d6aaf0480ed3931b",
+      "pcm_frames": 4753800
+    }
+  ],
+  "pcm_sha256": "2d7dd6e6d1ad72c60635b2cc73bf193ef1e5f4cc7ea0d037674b68833d4853de",
+  "pcm_frames": 121834800,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-77449ec48fbc602a6405deba/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-77449ec48fbc602a6405deba/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-77449ec48fbc602a6405deba/rss-item.xml",
+  "released_at": "2026-09-16T16:12:50.598125+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

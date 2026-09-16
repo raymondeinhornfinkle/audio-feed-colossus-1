@@ -1,0 +1,90 @@
+{
+  "article_id": "aca41ac35fcccbb09cd48b10babeb069ae934f33994a4ca602638c0a7e76a9b0",
+  "guid": "urn:article-reader:aca41ac35fcccbb09cd48b10babeb069ae934f33994a4ca602638c0a7e76a9b0",
+  "release_name": "article-aca41ac35fcccbb09cd48b10",
+  "article_title": "We Have Learned Nothing",
+  "publication": "Colossus",
+  "title": "We Have Learned Nothing (Colossus)",
+  "author": "Jerry Neumann",
+  "source_url": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+  "duration_seconds": 1619.63,
+  "file_size": 25915670,
+  "media_sha256": "27491c74eb8ac2d89702f2d9fe39a666c8abeb7896ce3e1f58981c95867fbf9b",
+  "transcript_sha256": "cc1bfc18017797ca59468f19729c3bf51c9b26c2ddd1147affea1c81d63e3f13",
+  "extraction_report_sha256": "cc1353d0088bdaeb6cd361b8b8e1db2c650f7623ee657080101a093a2dec9063",
+  "audio_manifest_sha256": "adee8cf923fec62ff326d0e94b531f43164493730a6acf4bdd8409e73ea00354",
+  "audio_run_sha256": "28a5cfb5a66ba6eae226a5205151252d937bf11bc80e4f320cad35407b1784c9",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 8,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "e3569c955fd22ce7b5e18bc50de0c32156c3a1ac9c8e2a7f77523e288fb3dd27",
+      "audio_sha256": "fe47538958aec43775605293423dcd99a9379920c46f0cf3ffa38a27eace68f9",
+      "pcm_frames": 5752200
+    },
+    {
+      "index": 2,
+      "text_sha256": "488b5fdbfc3c33b9f0a32c6664d014ee467ae5130b57d418ce732091200c5094",
+      "audio_sha256": "57cd5dbf17921665c314daa0d1b3f43d669542c88e712c7aaa552092c4afb5e4",
+      "pcm_frames": 5001120
+    },
+    {
+      "index": 3,
+      "text_sha256": "5e7cd97b42adf71bfcad68878c1bf0857aedb4794e7fb52c79fb4edb4441bbf4",
+      "audio_sha256": "4c9f4b0fb0d379971c101ab7ce815e086726fdce1fc373e6044a65e6d03bf662",
+      "pcm_frames": 5551200
+    },
+    {
+      "index": 4,
+      "text_sha256": "7de2e7c40374070a687dd8d551e5bb035a16c36d7300c9ee06406dd572478fe7",
+      "audio_sha256": "ea2d11a3cc7a2b25f6c325ad0580d2b4333e30135dd4841e5e33b075edfb17ec",
+      "pcm_frames": 5323440
+    },
+    {
+      "index": 5,
+      "text_sha256": "163891051d059547d51fa993784d018b66ad57835f3098a3e89794e0319ebaaa",
+      "audio_sha256": "179fa39224cf187641b8f9e8f67a561c2745379f408ff6a3c690e58442947e76",
+      "pcm_frames": 5179320
+    },
+    {
+      "index": 6,
+      "text_sha256": "b11f4a21a6b6ef8ca2973e71d6074b242065b494059b0a31e8ced8098526d8f3",
+      "audio_sha256": "d6a6c2e97eb9dc80331555dca6254daa766bc169dd9a7ff9668ccef4230b1577",
+      "pcm_frames": 5558520
+    },
+    {
+      "index": 7,
+      "text_sha256": "f4a62059631ebe06719b7deff0ba3886d2e41bf26d67ec77a5b56f14551340f4",
+      "audio_sha256": "d58e648045c1095b69bb20ec5ec77202be9df51d1236a16981f66a768218efe0",
+      "pcm_frames": 5287560
+    },
+    {
+      "index": 8,
+      "text_sha256": "13916f016cdad5b7e908bb7bc7ed14232c7aef77eef49a1775fccb7e59cfca0a",
+      "audio_sha256": "99139f5d08e0a2895b8954c9b37fe731870b3142a377dc365d01e542ed368d55",
+      "pcm_frames": 1217760
+    }
+  ],
+  "pcm_sha256": "410e9adb7ccdb4f75d9f3cdd1877a0119b4932229c4368ece195c095947a1677",
+  "pcm_frames": 38871120,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-aca41ac35fcccbb09cd48b10/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-aca41ac35fcccbb09cd48b10/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-aca41ac35fcccbb09cd48b10/rss-item.xml",
+  "released_at": "2026-09-16T16:12:11.607704+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

@@ -1,0 +1,175 @@
+A Foundation Model in Your Pocket
+
+Eben Upton built Raspberry Pi to get more kids into computer science. It’s now the third most popular computer in history, a $1.5 billion industrial business, and used everywhere from outer space to the AI frontier.
+
+By Terran Mott.
+
+Raspberry Pi is quietly ahead of the Silicon Valley zeitgeist. It is a computer company that exists to make people more creative programmers. It solved the automation challenges to reshore manufacturing over a decade ago. It has spent years making slightly sub-frontier technology more cost-effective to use. And it has built an ardent community around a rather bare metal platform.
+
+The company’s credit card-sized computers are the third most popular in history, after the PC and the Mac. Over 60mn were sold before the company’s IPO in 2024. The line ranges from the $205 Pi 5, equivalent to a decent desktop, to the $10 Pi Zero, which still has enough juice to add intelligence to your hardware product or teach you Python. For another $100 or so, you can equip a Pi computer with a neural network accelerator hefty enough to run small LLMs, all in the palm of your hand.
+
+I first encountered Raspberry Pi in grad school, when an administrative blip got me into a mechatronics seminar I had no prerequisites for. The sole, semester-long goal was to build all the low-level software for a little Raspberry Pi 4-powered remote control car, which took a lot of thinking one byte at a time. The project seemed unfathomably, impossibly complicated at the beginning, and like a total miracle at the end. Nothing has given me the same sense of self-efficacy before or since. I wish this experience on everyone, whether you find it in embedded programming or not. And while there are far easier ways to get started on a Pi, I do think my experience is a faithful representation of how the company wants its computers to make people feel.
+
+Raspberry Pi did not set out to make its computers so ubiquitous; instead, they were created to resuscitate the experience of young people in computer science. When founder Eben Upton became a director of studies at the University of Cambridge in 2004, computer science was the easiest subject to get into, and applicants were dwindling. He grew convinced that students weren’t eager to become computer scientists or electrical engineers because they weren’t growing up with good programmable computers anymore. Children had no analog to Upton’s own formative experiences tinkering with an Acorn microcomputer hooked up to his family’s TV in the 1980s.
+
+Founder Eben Upton shows two Raspberry Pi computers at an event in Cambridge, England in 2017.
+
+Upton established the Raspberry Pi Foundation in 2008 on the bet that the right intervention was the computer itself. In 2012, he incorporated Raspberry Pi Ltd. as a commercial subsidiary of the foundation and launched the first Raspberry Pi. It cost only $25 and booted right to a Linux desktop, just as his old Acorn booted right to Basic. The initial goal was to work locally and eventually boost Cambridge computer science applications, but the first Pi sold 100k units on launch day and one million inside of two years. The foundation now provides millions of people’s first experience with programming, in over 100 countries. Assuming a budget of 2% per capita disposable income, a Pi computer is affordable for a median household in 156 countries, only a third of which can afford a traditional desktop PC by the same metric.
+
+Because Upton wanted children to learn on the real thing, as he had, his compact, cost-effective computers proliferated in industry, often demanded by engineers who first used them as students. Raspberry Pi is an $800mn company today that earns 80% of revenue from industrial applications. Pi computers power all digital displays at Heathrow Airport and in Schindler elevators, run many restaurant Point-of-Sale terminals, monitor power stations, have helped operate the International Space Station since 2015, and are now housing plenty of OpenClaws. The foundation’s education work is supported through its status as a shareholder; it has not relied on direct aid from the company since 2021.
+
+Raspberry Pi designs its own chips, develops its own hardware drivers, maintains its own operating system, and runs its own production facility in partnership with Sony. The very first Raspberry Pis were briefly made in China, but manufacturing quickly moved to the small town of Pencoed in Wales, not 20 minutes from where Upton, now 48, was born.
+
+In March, I caught up with Upton, who gave Colossus an inside look at Raspberry Pi’s factory in the Welsh countryside. I hope you catch something that surprises you in these photos, and that you enjoy Upton’s perspective on the endless journey of manufacturing automation, teaching children to program in the era of agents, and putting better foundation models in your pocket.
+
+Terran Mott: In the past, you’ve referenced former Google CEO Eric Schmidt’s 2011 MacTaggart lecture, in which he gives two challenges to the UK: to do a better job bringing art and science together in education, and to get better at growing big companies. That maps onto Raspberry Pi pretty well. Along those axes, where are you most satisfied and unsatisfied with what you’ve done so far?
+
+Eben Upton: I’m glad that we’ve managed to make progress towards solving the computer science recruitment problem. We’ve done that in a bunch of ways. One of them is by making hardware available to people to learn. It was originally a very anarchistic vision: We had a diagnosis that there’s a missing thing, a computer, and a belief that simply making it for a certain audience would be enough.
+
+But of course, we then realized that if we can make money, we could fund a charity to actually do more conventional work in this area: teacher training, curriculum development clubs. We also realized that the formal parts of the curriculum development and teacher training are really important from a universality of availability point of view. If you just do the clubs, and certainly if you just do the hardware, then you only tend to get boys. Making sure that there’s a good curriculum, an obligation to teach this stuff in schools, and teachers who can teach it are a really important part of getting girls too. So that’s what I’m satisfied with.
+
+What am I not satisfied with? I’m never satisfied with the engineering. Raspberry Pi today is about 150 times the performance and basically the same real cost as when we made the first one in 2012. On the other hand, there are always things you’d change about it. Engineering is just full of regret, always.
+
+Tell me more about your dissatisfaction with the engineering. What part of the entire Raspberry Pi system, from chip to firmware, would you most love to make twice as good?
+
+You always wish you had more performance. When I have a Raspberry Pi N, I always wish I had a Raspberry Pi N+1.The delta between generations of Raspberry Pi is generally 2x to 4x the performance. We’ve kept up with the last gasps of Moore’s Law. I think it helped that we were a bit of a laggard. The first Raspberry Pi was behind the curve, so it’s a combination of the curve still existing and us catching up with it.
+
+The interesting thing is how quantitative changes sometimes generate qualitative changes. Raspberry Pi 5 and Raspberry Pi 1 are kind of the same. They have the same subsystems in the software, the same connectors. The only time we’ve ever actually made a qualitative change to the platform is adding Wi-Fi and Bluetooth in generation 3.
+
+At certain points during the evolution of Raspberry Pi, a 2x performance increase has turned Raspberry Pi into something else. That was particularly true as we went from generation 4 to 5. Raspberry Pi 4 is an adequate desktop computer if you’re prepared to make some compromises. Raspberry Pi 5, for most users, is indistinguishable from the real thing. My eight-year-old daughter has a Pi 5. She doesn’t know it’s not a real computer—because it is a real computer.
+
+It’s a bit hard to predict where the tipping points are, as you pour more performance into the platform. I will be interested to see how much performance we are able to get out of Raspberry Pi 6, and whether that performance merely makes the platform more attractive, or if it turns the platform into something else.
+
+Individual circuit boards for the Raspberry Pi 5 come in a panel of nine.
+
+Racks of Raspberry Pi 5 computers, each as powerful as a typical desktop.
+
+The original vision of Raspberry Pi was largely a bet on giving people the right tools, and waiting for them to grow up. It’s the idea that people should learn to program on the same thing real engineers use in their professional lives. How do Raspberry Pi’s educational and industrial businesses connect today?
+
+Having a ladder where the other end is actually connected to something is nice. Languages like Python are a true platform, where print (“hello world”) is very simple, and yet where professional software engineers build huge systems in it every single day. Raspberry Pi is like Python; it’s a ladder where the bottom rung is very near the floor and the top rung is in the industry.
+
+There’s a short loop, which is three to four years, as engineers who are enthusiastic about Raspberry Pi take it into work with them. That short loop got us our start in industrial and embedded applications. Then, there’s this long loop, which is people coming out of college and feeling that Raspberry Pi is just what computers are. If you were at school and all the computing you learned was with Raspberry Pis, you’re going to feel about us the way that people feel about Microsoft or IBM. I was talking with a guy at Tesla the other day, and he said of all their new electrical engineering and computer science grads, the only thing they really have in common is they’ve used Raspberry Pis. They’re really, really ubiquitous. That is a currency.
+
+If you go and look in the engineering workforce, there’s a 10-year hole roughly around ages 28–38. There’s not a lot of 30-something embedded engineers. That’s the hole we perceived when we started the company. We’re now in a place where computer science went from being the easiest subject to get into at Cambridge to the hardest. It’s a huge swing, and Raspberry Pi was part of that. It was a long-term bet, and it’s a closed loop now. And it’s what powered the industrial adoption of Raspberry Pi.
+
+That intersection is very capitalist. We need to build new Raspberry Pis, and that means we need money to fund our operations. If we want to raise money, we’ve got to be able to offer a return to our investors. So it’s very capitalist, and it’s in service of doing engineering and in service of the mission.
+
+Another key part of Raspberry Pi’s origin story is the idea of giving people computers over consoles. Can you share more about that principle? I’m especially curious how you map it onto today, where the abstractions between a novice programmer and their hardware have gotten deeper, because AI enables us to program in natural language.
+
+You have to give people general-purpose tools because if not, then you only have scope for bounded creativity. Even if you have some scope, you can only do the kind of creativity that the provider of the platform thinks that you can do.
+
+People often make heroic efforts to break out of these spaces. I had an employee once in my first startup; people used to call him “calculator boy” because he’d learned to program on a Casio calculator. And we had somebody here, one of my architects, who learned to program on a Nintendo DS, where he typed his programs using the stylus.
+
+Game consoles are a very extreme example of this. They’re actually designed not to be general purpose because the economics of the industry requires you to make it impossible. If you don’t make it impossible, then you can’t maintain your platform monopoly and you can’t recover the money you lost on selling the console. An iPhone is a sort of middle ground. You can have a programming experience on it if you get an app which will give you a programming experience. But it’s not a general-purpose computer.
+
+Although we’re heavily associated with education, commercially, we are largely an industrial embedded electronics company. Most of our volume goes into those markets. The more you provide people there with general-purpose platforms, the more you open yourself up to the serendipity. Quite a common situation with Raspberry Pi is that it ends up being used for whatever this year’s thing is. People buy Raspberry Pis and use them to build Bitcoin mining farms, to build drones. Whatever the current buzzy thing is, Raspberry Pi tends to be at the heart of it.
+
+Final boards are checked by a technician, who fixes any spots that need a little extra solder.
+
+The selective soldering process involves heating boards in an oven-like machine.
+
+If you made a coding agent for kids, how would you approach making it more like a general-purpose computer, not a game console?
+
+Kids learn to program when programming is meaningful to them. And for it to be meaningful, it has to be solving problems they care about solving. And quite often, those problems require primitives which aren’t there. So the challenge with kids is that they don’t have the underpinnings of programming. They can struggle with understanding what computers can actually do, because they’re simultaneously incredibly powerful and incredibly dumb, even in this era. Being able to recognize a banana is a perfectly plausible thing for a child to ask for, but was fundamentally almost impossible for a computer to do until very recently.
+
+Whatever I would build would have to be more inclined to develop that understanding, compared to the current production tools for grown-ups. By default, I probably would advocate for saying don’t give kids AI coding tools—just do regular programming. The downsides are bigger than the upsides. Spend your time teaching them programming, and then they will be better users of the AI tools.
+
+I’m a believer in Claude Code, and tools like it. I’ve got a bunch of Claude Code agents running in the background on my laptop right now, doing stuff that is very valuable. One thing I worry about is that these tools can be subtly misleading and demoralizing if you don’t know what you’re doing. I can write 100,000 lines of code in a day using Claude Code, but I won’t really understand what I’ve built. Therefore, my ability to then take that thing and evolve it gets progressively more degraded.
+
+There are some exciting things around the edges, like asset generation. Kids love to make games. One of the limitations I had when I was a child trying to make games was that I didn’t know any graphic artists or musicians. To a first approximation, you can make a lot more progress with that now.
+
+Where do you want generative AI support on Raspberry Pi to go in the next five years?
+
+I think we’ll push the performance up and I think the models will come down to us. I’m quite excited about it. That happens in all these model generations, whether it’s convolutional neural networks for image classification or whether it’s LLMs. They start off being huge, dense, high-precision networks. The frontier models will always gallop off ahead and consume all of the processing power and all of the DRAM in the world. Then, people realize that you can get 99% of the performance for 1% of the cost.
+
+In five years time, I suspect I’ll be able to get current Sonnet-class performance in my pocket. I use Opus 4.6 for everything, but Sonnet performance in your pocket is going to be great. Maybe the other tools will have galloped on a long way by then. Maybe they won’t. I suspect we’re at the moment where the underlying basic technology has mostly run its course in terms of new development. What we’re seeing now are the secondary waves of innovation, which are really important because they’re the thing which will generate economic value. This means working out how to take the LLM realization and plumb it into actual problems.
+
+That feels like the role that Raspberry Pi has always played: not on the bleeding edge of performance, but something you can have in your pocket.
+
+Enough—that’s all the performance anyone needs. This is Clayton Christensen’s Technology A, Technology B at work. The incumbent technology races off up and to the right far faster than people need. Then, Technology B comes along and it’s terrible compared to Technology A, but it’s good enough to meet customer requirements.
+
+Raspberry Pi has always tried to be Technology B. We have products like Raspberry Pi Zero, a $10 product, which is intended to run along behind and beat up other Raspberry Pis as we go up and to the right. When I say I wish I had a Raspberry Pi 6, I’m expressing a very Technology A point of view. In practice, I condition myself to say what I really wish for is the current technology at half the price, not twice the performance at the current price. If I force myself to think this way, it pays dividends for the company.
+
+Racks of computers awaiting testing. The facility runs over 60 fully automated test jigs that assess each board’s connections, with pass rates at 99%. The test jigs themselves are controlled by other Raspberry Pis.
+
+After testing is finished, the computers are packaged and shipped to over 75 countries.
+
+Tell me more about the manufacturing of Raspberry Pi. At the very beginning, you manufactured in China briefly, and then you reshored shortly afterwards to Wales. What was that process like?
+
+The thing you’ve got to remember with Raspberry Pi is that it was so fast and so scalable at the start, we didn’t really have an organization. We sold a million computers before we hired our first employee. We were all just volunteers, and I was a volunteer who nominally had a CEO hat on.
+
+May 2011, we tell everyone we’re going to do it. February 2012, we launch a product. In between, I tried very hard to find UK manufacturers, but I couldn’t find one who would do it at all, or at least for the price. We ended up with a Chinese manufacturer. I was entirely at arm’s length. I just wrote a big check and waited and waited, and nothing happened. And then, suddenly, Raspberry Pis started arriving from China, and they mostly worked.
+
+Then, we were approached by Sony’s team in Wales. They pitched us anonymously. I got the email on February 29, 2012, at four in the afternoon. It was the same day we launched the first Raspberry Pi, seven hours after our launch went live. God, you worry sometimes that Brits are not aggressive enough. Seven hours!
+
+When we found out who it was, it was an interesting moment. It would never have occurred to me that Sony would build stuff for you. Amazon will sell you books, and then sell you slices of the system they built to sell books: the marketplace, logistics, cloud compute. Sony has never been like that.
+
+The busy interior of Raspberry Pi’s manufacturing facility.
+
+To an outsider, Raspberry Pi’s manufacturing line today might look very computery and homogeneous. Help me see it through your eyes. When you’re there, what stands out to you?
+
+Our Welsh factory has definitely gone through a phase of learning from the Japanese, and now sometimes teaches the Japanese new capabilities. Designing a production process is a journey. You can’t just sit there and try to think of the best process. You have to go on a journey, and you have to do new things.
+
+We’ve gone through a number of different phases as our scale has grown. Early on, we had some elements of robotics assembly, and you’d have people assemble the larger components of the board. Often middle-aged women returning to work after their children go to school. It’s quite a large source of skilled labor for this kind of role.
+
+Then we moved to cobots, a kind of robot with very dextrous arms that’s able to work with the little hooked legs of the USB connectors and other components. Instead of six people, you have five robots and one person. The person’s there to fix the mistakes because robots aren’t perfect. For a long time, these robots were the emblem of our willingness to invest in automation, the sort of thing that allows you to be competitive with East Asian manufacturers.
+
+The funny thing is that the current process hardly uses the robots at all. We’ve been able to redesign the USB connectors so they can be placed by the Cartesian pick-and-place machines. For a long time, these robots were such an important part of the way we thought about the world. And now, they are on their way towards obsolescence.
+
+Raspberry Pi uses a fleet of robots to place some of the components on each circuit board. In recent years, the company has moved away from using these robots, after it redesigned several components to be placed by the Cartesian pick-and-place machines instead.
+
+Can you tell me about the culture and the people who work there?
+
+There are about 700 people working there, of whom a little over half are Raspberry Pi people in one way or another. I think there’s a Japanese element—this sense of very long-term investments in people. What they’ve done over 20 or 30 years is work really hard to redeploy people who are displaced by automation.
+
+They’ve worked hard to develop a culture where people understand that they’re not always successful, but they will do their best to find new and hopefully better work for you. The alternative is not that you keep your job. The alternative is that they become uncompetitive and then everyone is gone. It’s incredibly laudable, and I think it’s a very sensible long-term way of thinking about it. You see people go through a path from being assembly line workers to being automation designers and production engineering staff. It is very common for people to stay there a long time.
+
+I’m sure that reshoring manufacturing is quite complicated in practice. You’ve lived it for the last 10 years. What perspective would you share with others working on similar problems today?
+
+Some people advocate for reshoring on a basis of national security and resilience. I think a lot of that is going on in Silicon Valley at the moment. That’s good, and we are very involved in those discussions in Britain. Sometimes people advocate for reshoring because it’s going to make lots of nice middle-class jobs. It isn’t. The way you make it work is automation, so it’s better than nothing, but the idea that we’re going to have 1950s-style mass manufacturing employment by reshoring isn’t correct. Some people advocate for company-specific profitability reasons. And I absolutely make more money because I build in the UK than I would if I built in China.
+
+And if it’s in the UK, your engineers are much more inclined to go to the factory and ask, “What do you hate about building Raspberry Pi?” What will generate the next Raspberry Pi process innovation is the fact that people, including me, go down to the factory and ask that. And we’ve done that for 12, 14 years now. The accumulation of all the little tweaks to the product to make it more manufacturable is where a lot of the price and performance advantages of the platform come from.
+
+My mother’s family is Welsh; I was born near the factory in Pontypool. Wales has had a really challenging time. South Wales has Rust Belt-shaped problems right now. The opportunity to support one of the remaining large manufacturing employers feels good. It’s obviously a smaller employee base now, but still a very important part of the local economy.
+
+The manufacturing facility in Pencoed, Wales. It’s about 20 minutes from where founder Eben Upton was born.
+
+Did you enjoy the IPO process? What did you do on the day of?
+
+It was brilliant, but the IPO was hard. It wasn’t stressful or traumatic, it was just really hard work for about six months. I would do it again. It feels like a shame, when you do these things and you learn some skills, to only use the skills once.
+
+We’re a small company and so we were able to get everybody into the stock exchange, which was nice. We pressed the button and fired off the confetti cannon. The button’s not connected to capital markets—it’s actually only connected to the confetti canon. If you don’t press it, the market still opens.
+
+We drank a lot of champagne and did some interviews and then went back up to Cambridge and chilled out. I had a hangover in the early afternoon, because you drink a lot of champagne at eight in the morning. The next day, I went to the office and I started to grow my business again, which was the best day of the year. I did enjoy the IPO, but being able to get in the office and get back to the thing I love; that was a luxury.
+
+I noticed that a lot of media coverage of your IPO described Raspberry Pi as a hobbyist company, despite the majority of revenue coming from industrial customers. Do you think investors often still misunderstand Raspberry Pi?
+
+I will be fighting that until the day I die! Liz, my wife and co-founder, did such a good job of building the brand in education, even though it’s 20% of our business now. It’s a high-quality problem. The main problem most companies have is that nobody’s heard of you. If people are a bit confused about what you do, that’s a luxury problem.
+
+I think as people get close to us, they come to understand the business and the brand and the engineering ethos a little bit better. But there is still this, “Hey, the hobbyist company is a billion-dollar company, why is that?” It’s because every screen at Heathrow has the hobbyist company’s computer in it, and rinse and repeat 10 million times.
+
+Raspberry Pi co-founders Eben and Liz Upton on the day of Raspberry Pi’s IPO on the London Stock Exchange, June 11, 2024.
+
+Your wife Liz was Raspberry Pi’s CMO for many years. What have you learned from her?
+
+You meet somebody, you fall in love with them, you think you found out everything that they can do.Then the world changes, and some aspect of their experiences and natural capabilities means that there is now something which wasn’t a thing, which is now their thing.
+
+She’d been a journalist, both employed and freelance, and she’d done some food writing. There are so many people who do it badly for free, that doing it well for money is really hard. It’s really hard to build a career in that space. It’s like resistance training. You learn about yourself, you get a bunch of grit. And then you take all those hard-won skills and apply them.
+
+She invented a very social model of community building and community-based marketing for these specialist products. It was a good moment because Twitter was taking off, so there was a unified space where our audience was quite concentrated.
+
+That combination of a moment in time, the skills she brought to it, and her natural proclivities meant that it just took off with a bang. Sometimes people have a moment, and sometimes you discover what the payoff was for all the hard stuff you did.
+
+I know “Pi” alludes to Python and “Raspberry” is a play on Apple. Why raspberries? Was there a runner-up fruit?
+
+Yes, we call Apple “the other fruit company.” Raspberry is special because raspberry is the rudest fruit. Originally, we were framing our product as a successor to the BBC Micro. And at the time, there was talk of some people at MIT making a successor to the Apple 2. There was a sense of, “Hey, let’s blow a raspberry at that idea.”
+
+What’s your favorite business book?
+
+Grinding it Out, which is Ray Kroc’s autobiography about him founding McDonald’s. There’s a Michael Keaton movie fictionalization of it, which is brilliant. I could watch Michael Keaton play faded, middle-aged guys all day long.
+
+Grinding it Out talks about the massive scale of McDonald’s, at a point where McDonald’s was about to scale. It’s a good reminder that even when things are massive, sometimes they’re only a 10th of the way along the road to being what they could be.
+
+A nice bit in it is that when you’re working hard and you’re doing something quite intense, it can be hard to sleep. And Ray Kroc talks about being at franchisee events, out dining and drinking with people, and thinking, I’ve got to be up in the morning and do a keynote, how do I get to sleep? My brain is just buzzing. So every time he thinks of something lying in bed, he writes it on a blackboard in his mind and then rubs it off. It’s kind of a Cognitive Behavioral Therapy thing; he visualizes rubbing this thought off the blackboard. And it’s brilliant. I used to have all sorts of worries about sleeping. Now I’m like, just write all the stuff on the blackboard, and rub it off.
+
+Terran Mott is a research analyst at Positive Sum.

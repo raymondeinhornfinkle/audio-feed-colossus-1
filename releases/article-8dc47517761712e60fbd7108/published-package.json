@@ -1,0 +1,102 @@
+{
+  "article_id": "8dc47517761712e60fbd71082cee5c341420033ae932ed6e954e1ead4aedbfa0",
+  "guid": "urn:article-reader:8dc47517761712e60fbd71082cee5c341420033ae932ed6e954e1ead4aedbfa0",
+  "release_name": "article-8dc47517761712e60fbd7108",
+  "article_title": "AI Will Not Make You Rich",
+  "publication": "Colossus",
+  "title": "AI Will Not Make You Rich (Colossus)",
+  "author": "Jerry Neumann",
+  "source_url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+  "duration_seconds": 2146.07,
+  "file_size": 34338713,
+  "media_sha256": "8aca205d53ee9cbeadabc0da2ee8d64e4e9a73c888e6eb245897a2611fd0f936",
+  "transcript_sha256": "a742c2d51ebb3400af30e7de2f75e10a00d47fb930410ab6c0692e5aa3d5367c",
+  "extraction_report_sha256": "4cadb3e5cb7eedf0e0a23fa941e268e2ed2e2af228c467c4bde664b666046cd3",
+  "audio_manifest_sha256": "6b789836d715439aba944be7aac6b4ca76b787052959287d1f63218648d84376",
+  "audio_run_sha256": "c10810b34aabe5485e24cddcf3831a994f545ecdede4d5e51bbc9914b769d497",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 10,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "82ff839f461c598e591efa81624a630cd283520f0b55058b8f5233db39987b91",
+      "audio_sha256": "458fd02a4eb4a03fffe50d4193d2b9056530b720730b3e716a134c71c6710670",
+      "pcm_frames": 5871600
+    },
+    {
+      "index": 2,
+      "text_sha256": "a3ef979fce5ba5044afb56cd90845ee3692bd99e38de357b16377a9d08077fe3",
+      "audio_sha256": "1bb1e740d1ae5211044c5f8325e752596119a66c2683cd1db8bb282beae9bbcb",
+      "pcm_frames": 5475600
+    },
+    {
+      "index": 3,
+      "text_sha256": "d9baa634d25ea8dfdc6149a6ee02b959e24e77a8367e1a51b74af7877730470b",
+      "audio_sha256": "527e3e79d4882f8286268ab1403511bc8adc33c780c38c0b833f3e1237caa895",
+      "pcm_frames": 5823960
+    },
+    {
+      "index": 4,
+      "text_sha256": "18c6d013feba469d5ca480ad136393068eb629a6d7bd483b59e756d57bab3fbe",
+      "audio_sha256": "c48aa5b278ca5fe84dd2510a1cfd6fe318bea90064aa10bfb0adc647d2890906",
+      "pcm_frames": 6054840
+    },
+    {
+      "index": 5,
+      "text_sha256": "69516367cbc9049cdc60b7649352825bd3555f8f680f906b6f3d3f148018ec60",
+      "audio_sha256": "69d9fa11d3b0e8a4fb153f2a46278d2bf49d1b74bee572a749f6453542ed35ad",
+      "pcm_frames": 5584680
+    },
+    {
+      "index": 6,
+      "text_sha256": "51a5529236011c08f058cdec9cc9cd812e1c1bf068abaebeac11482abe9ad895",
+      "audio_sha256": "dd00a8945de5c1778f08a371ffa655584fba1b6f9c2d3edd917a5eb4c4f6baa2",
+      "pcm_frames": 5564040
+    },
+    {
+      "index": 7,
+      "text_sha256": "465383f81dbf4ba46cb9737050410bff1b1a71be50c6cf8a35a46fa88c71634d",
+      "audio_sha256": "8474c3a47a0d5ede07b2b5f7bd9d50e6ed1d9b6bd2abd83ffcd945e0f2269718",
+      "pcm_frames": 5648280
+    },
+    {
+      "index": 8,
+      "text_sha256": "f104e5232ab19a10031e6ee21e86999741d1aed4b50145e9e471fb76a29105ca",
+      "audio_sha256": "9ecbd06b9363bb196298e7c335f73f911b7f8cf382872d8c71c6f875e503966f",
+      "pcm_frames": 5109120
+    },
+    {
+      "index": 9,
+      "text_sha256": "cd7f84099e91b790ac742408b174d18ecfc888a6dc80395acb6b3dc482f6523a",
+      "audio_sha256": "0ca78c68574399610dae0062b3751dc00776124cb3758e92f45460b61ec0b541",
+      "pcm_frames": 5237520
+    },
+    {
+      "index": 10,
+      "text_sha256": "e032a12fbcd49a7e1361930e311ea426f58ba538afaa04527841da28e339a80c",
+      "audio_sha256": "ce6b97c7d080402c8b5be8ae245ea9279b8ea22b8959fd805cbfae8c494a0a36",
+      "pcm_frames": 1136040
+    }
+  ],
+  "pcm_sha256": "27c0aced1b1f728b16f4ca4b65f66342fd993e614fb428a5cb5b0f3f27ca8901",
+  "pcm_frames": 51505680,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-8dc47517761712e60fbd7108/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-8dc47517761712e60fbd7108/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-8dc47517761712e60fbd7108/rss-item.xml",
+  "released_at": "2026-09-16T16:11:13.755757+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

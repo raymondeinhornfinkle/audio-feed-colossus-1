@@ -1,0 +1,265 @@
+Paradigm Shifts
+
+Inside one of crypto’s most trusted institutions with Co-founder and Managing Partner Matt Huang
+
+By Dom Cooke.
+
+“Sometimes I feel like I’m running the X-Men Academy,” says Matt Huang, describing his $12 billion crypto investment firm Paradigm as a place for brilliant mutants who possess unusual powers.
+
+Take Charlie Noyes, the firm’s first hire. A 19-year-old MIT dropout who couldn’t operate a calendar, he rolled into his first 10am meeting five hours late, completely unapologetic; he’s now a general partner. Or Georgios Konstantopoulos, Paradigm’s CTO, who transformed from a World of Warcraft addict into one of crypto’s most prolific engineers. Or the developer known only by his X handle, transmissions11, whom Paradigm discovered on a Discord server while the anon was still in high school.
+
+“They create an absurd amount of chaos sometimes and you want to pull your hair out,” Huang says. “But then you see what they can do and it’s like, holy crap. Nobody else in the world could do that.”
+
+On the chilly morning I visited Paradigm in San Francisco, two of Huang’s team were working on a mechanism that could reshape how hundreds of billions in digital dollars move through the financial system. In a penthouse conference room, curved like the whispering gallery of a cathedral, Partner Dan Robinson tapped his Paradigm-green Nike Air Force 1s on the floor while explaining their latest breakthrough at the speed of a high-frequency trade. Research Partner Dave White, in hexagonal spectacles and a scraggly beard, was hunched over his laptop, pausing occasionally to discuss equations behind the idea he invented. Huang listened intently, his athletic frame still in a plain black Japanese sweater, his manner carrying the quiet authority of someone who’s always been ahead of the curve.
+
+“Everything he touched was good,” says Doug Leone, who ran Sequoia during Huang’s time there from 2014 to 2018. “He’s super smart and incredibly humble. It’s tough not to meet Matt and come away with the impression that he is super special.”
+
+Through two large arched windows high above San Francisco’s Union Square, traditional finance’s concrete towers loom to the east, while the startup sprawl of SoMa spreads south. It’s a fitting view for a firm bridging traditional finance and bleeding-edge technology—and for Huang, whose career has been defined by spotting revolutionary potential.
+
+In 2012, while on a week-long vacation to Beijing, he visited a startup operating from two apartment units. The Founder, Zhang Yiming, was building a personalized news app—an idea Huang thought was destined to fail. But sitting at an old Ikea table near a dusty refrigerator, watching Yiming speak through a translator, Huang noticed something that transcended language: “I remember having this very deep sense that this is an extremely competent, obsessed, aggressive person who was somehow balanced and wouldn’t blow himself up. He had extreme clarity on what he was trying to build and an aggressive take-over-the-world ambition.” Yiming was the most impressive person he’d ever spent time with—so impressive that Huang had to invest. That company became ByteDance, creator of TikTok, and Huang’s share of it has turned into a nine-or-ten-figure sum—he doesn’t keep spreadsheets, so he can’t tell you exactly.
+
+That instinct for spotting talent is central to Paradigm, which began in 2018 when Coinbase Co-founder, Fred Ehrsam, approached Huang at Sequoia Capital with a vision for a different kind of investment company. They started as equal partners, but Ehrsam has since stepped back to split his time between crypto and his new brain-computer interface startup, recognizing that Huang was, in his words, “born and bred to run Paradigm.”
+
+The son of one of the world’s most accomplished financial theorists and a pioneering computer science professor, Huang grew up at the nexus of math, economics, and technology. In six years, his firm has grown from managing $400 million to over $12 billion by making early, concentrated bets on foundational crypto projects, while also building significant parts of crypto’s core infrastructure. Paradigm’s researchers—who double as investors—develop foundational innovations, then open-source them for the entire industry to use. It’s an unusual approach for a financial firm, but Paradigm isn’t a typical investment company. It’s more like a research lab crossed with an engineering outfit, wrapped in the sophistication of a West Coast Wall Street.
+
+He’s super smart and incredibly humble. It’s tough not to meet Matt and come away with the impression that he is super special.
+
+–Doug Leone, Sequoia Capital
+
+Back in the penthouse conference room, Robinson and White are working on ‘bullseye liquidity’, a breakthrough that could transform how stablecoins—digital tokens pegged to the US dollar—are traded. Stablecoins have become a crucial part of crypto’s financial plumbing, yet the infrastructure for trading them remains primitive, with each pair requiring its own pool of capital. Their innovation would unite these fragmented markets in a single efficient system. Though it could give Paradigm’s portfolio companies, like Uniswap and Noble, a significant edge, they plan to publish the research openly on their blog. “If someone else implemented this and it made things better for crypto overall, we’d be fine with that,” Robinson says.
+
+White pauses his work with OpenAI’s o1 Pro, where he’s verifying mathematical proofs, to refine a point about n-dimensional space. On the screen, Robinson projects a visualization of the math that looks like a quarter slice of Captain America’s shield. Huang mostly listens—he always prefers to listen—but when he does speak, it’s clear he’s fully absorbed the complexity of what they’re presenting.
+
+Years ago, when they were kids, Robinson recalls, their friend group would debate endlessly until Matt spoke. “He didn’t say much,” Robinson says, “but we always ended up doing what he suggested.” Those who know Huang best describe someone whose quiet demeanor masks extraordinary capabilities. “The insight per minute with Matt is very high, even if there are many minutes where he says nothing,” observes Stripe Co-founder Patrick Collison, who added Huang to his board in 2021. His attention to detail extends to everything he touches—from the speed of Paradigm’s website to the obscure Japanese streetwear he favors, to the people he hires. “He has a high bar for excellence,” says Coinbase CEO Brian Armstrong. “There’s no tolerance for mediocrity.”
+
+Yet beneath this intensity lies a disarming humility. As Leone puts it: “He has a good sense of humor but it’s hidden because there’s so much goodness in the man that you can’t help but put your serious game on.” Perhaps most telling is that these insights come from others—Huang is the type of person whose greatest achievements are whispered about rather than trumpeted, whose impact is felt more than advertised. Collison adds: “Not every great investor or great leader is a great person. In all the integrity checks of ‘could this person be a godfather to your kid,’ he passes emphatically with flying colors.”
+
+This combination of technical excellence and quiet integrity has helped establish Paradigm as one of crypto’s most important institutions. In an industry that’s grown from zero to $3 trillion through waves of speculation and collapse, the firm’s open-source tools now power 90% of smart contract development. Its innovations help hundreds of billions in digital dollars move more efficiently. And its investments have earned the trust of the world’s most sophisticated investors, including Harvard, Stanford, Sequoia and Yale.
+
+Waking up
+
+One of Matt Huang’s earliest memories places him alone on the streets of Tokyo, a nine-year-old navigating the world’s largest city. Each morning, he would thread his way through narrow side streets and across bustling thoroughfares on an hour-long round trip to school. This early independence shaped his worldview. “Once you have an N equals two,” he said of comparing Tokyo to New York, “that changes how you relate to everything.”
+
+The family had moved to Japan in 1997 when his father, Chi-fu Huang, was tasked with establishing the Asia office of Long-Term Capital Management (LTCM). Before the move, the elder Huang had run LTCM’s Asian trading operation from Greenwich, working 4pm to 3am to match market hours. The only son among four sisters in Taiwan, Chi-fu’s parents had invested their modest savings to send him to America alone. From there, he worked his way to an economics professorship at MIT, then to Goldman Sachs where he built and led Fixed Income Derivatives Research, and finally to LTCM—a firm staffed with Nobel laureates that represented the perfect fusion of academic theory and market practice.
+
+Huang’s mother, Marina Chen, had carved her own path in academia after immigrating from Taiwan. At Caltech, she pioneered parallel computing research under legendary technologist Carver Mead, developing techniques still used in modern processors. Despite her position as one of Yale’s first female computer science professors, seemingly destined for a distinguished academic career, Chen chose to leave academia to raise their three boys, channeling her intellectual intensity into their education.
+
+Dinner at the Huang household ran like an investment committee. Each evening, the boys would hear the garage door opening and scramble to complete their father’s assigned readings—carefully selected, age-adjusted articles ranging from economic principles to Scientific American. At dinner, they were expected to field questions about their allocated topics. Each brother developed different coping mechanisms to their parents’ intensity. According to Matt, the eldest, his instinct was to push back.
+
+Their Tokyo chapter ended abruptly in 1998 when LTCM’s models failed during the Russian financial crisis. The collapse wiped out the Huang family’s savings. Yet Chi-fu Huang emerged from the wreckage to found Platinum Grove Asset Management in 1999 with his LTCM colleague, Nobel Prize-winner Myron Scholes. The firm grew from $45 million to $6 billion in less than nine years, becoming one of the world’s largest fixed-income hedge funds leading into the 2008 financial crisis. This pattern—seeing opportunity in chaos, building something new from system-wide collapse—would become familiar to his son.
+
+The New York suburb of Scarsdale became Huang’s fourth home in 11 years after Tokyo. As one of only three Asian students in his predominantly Jewish school, these constant relocations and cultural adaptations honed his ability to read social dynamics and connect with diverse personalities.
+
+In class, Huang couldn’t sit still. His restlessness led to expulsion from Chinese weekend school after repeatedly disrupting other students. “Uncontrollable,” his parents would later describe him at his wedding. Yet when engaged on his own terms, he displayed an ability to focus. With his “uncool, but academically inclined” circle of friends, Huang directed amateur films, debated libertarian philosophy, and mastered games. His approach to StarCraft—competing semi-professionally on international servers—foreshadowed the attention to detail that would become his signature, extending even to his current obsession with handstands.
+
+Everything changed when he discovered mathematics. The math club revealed a natural affinity for the subject, and while he wasn’t a top competitor in national contests, it showed his parents their uncontrollable son could excel at school when appropriately challenged. Poker and chess became other outlets for his analytical mind.
+
+The reformed student worked his way to MIT where, in 2006, he found himself among “one of the highest concentrations of strange people on the planet.” He studied mathematics and, at one point, took a semester off to play online poker, working eight tables simultaneously. But the defining moment (besides meeting his future wife) came when a close friend, Albert Ni, announced he was dropping out to join a small startup called Dropbox, as its sixth employee. For someone raised to become a PhD, dropping out of a BSc seemed unthinkable. Yet Ni wasn’t failing—he was one of the most capable people Huang knew, making a deliberate choice to build something new. It led him to read all of Paul Graham’s essays, through which Huang discovered Silicon Valley and the temptation of ultimate rebellion: forging his own path.
+
+With his roommates, Huang applied to Y Combinator in his final year of MIT, initially facing rejection. Graham told them: “We love you guys. We couldn’t hate your idea more.” Six months later, with a working prototype, they got in. The MIT graduates drove cross-country to San Francisco in six days. At YC, they built what Huang now calls “a terrible idea”—a TV guide website for the streaming era called Hotspots. This “failed startup” chapter that lasted two years nonetheless gave him deep empathy for founders and led to an acquisition by Twitter, where he observed a “terribly run” company during its pre-IPO period.
+
+By 2012, Huang was ready to carve a new path. In his mind, Silicon Valley had become too obvious; the consumer space too predictable for interesting work and compelling returns. During a week-long vacation from Twitter, with thoughts of founding a tech company in China, he visited Beijing to meet six founders. One was Zhang Yiming, who was building what seemed like another doomed consumer app. Yiming spoke through a translator, but Huang found himself captivated by the founder’s nonverbal cues—his gestures, expressions, and intensity painting a picture he didn’t need words to understand. Huang left the apartment thinking, “I’ve got to figure out some way to back this person.”
+
+He wrote a check into ByteDance at $20 million and $30 million valuations, marking his largest personal investment at the time. With ByteDance now worth $300 billion, his investment has multiplied roughly 10,000x—turning an illustrative $50,000 into $500 million. He still holds most of his position, and while he’s “increasingly zen about it,” he admits “it definitely messes with your head that it’s probably the best investment I’ll ever make.” That same year, in San Francisco, he made seed investments in YC companies Instacart, Benchling, PlanGrid, and Amplitude—all now billion-dollar companies.
+
+In 2014, when a Sequoia recruiter’s email appeared in his inbox while at Twitter, Huang initially dismissed it as spam. Despite his impressive track record, he had no intention of becoming an investor. But curiosity prevailed, and his interview assignment—a one-pager on a company Sequoia should invest in—led him to write about Coinbase, then just seven employees.
+
+At Sequoia, Huang found what he calls “the highest-standards place I’ve ever experienced.” When Facebook acquired WhatsApp for $19 billion on his second day, partners gathered briefly in the lobby. Champagne was poured but left untouched. Within five minutes, everyone had returned to work. Eleven-figure exits faded into the shadows of the firm’s legendary portfolio that includes trillion-dollar businesses like Apple, Google, and Nvidia. The culture demanded excellence in ways that elevated his already considerable ambition.
+
+“You start to see how far the axes extend, what a great founder looks like,” Huang says of his four years there. “Without being exposed to that, your whole perception of what’s possible is missing the dynamic range of the top end.” Sequoia also showed him that excellence takes many forms. Working alongside investors with widely different styles but consistency in key dimensions gave him confidence to develop his own approach: “The realization that I can do it my own way was very liberating.”
+
+Sequoia, for its part, got something valuable in return. “Sequoia US was getting its ass kicked by Sequoia China in their poker tournament every year,” Leone remembers. “And he went and he won it for Sequoia US. We brought back the Don Valentine crazy-colored jacket thanks to Matt Huang.” You won’t hear this story from Huang, who never boasts about his achievements. Like many things about him, you have to learn it from others, or know exactly what to ask.
+
+Leaving home
+
+Huang first encountered Bitcoin in 2010 while at MIT, immediately drawn to its elegant fusion of mathematics, economics, computer science, and game theory.
+
+“I internalized it as just a really beautiful idea,” Huang recalls. But in those early days, it seemed more of an intellectual curiosity than an investment opportunity. It wasn’t until 2012 that he bought some Bitcoin on Mt. Gox, the dominant exchange at the time, and rode his first major bubble. “You almost need to lose money the first time,” he reflects. “Then you kind of give up on it, write it off as dead. And when you see it come back and it’s not dead, then you start to wonder.”
+
+At Sequoia, Huang found few colleagues who shared his growing conviction about crypto’s importance. The firm was supportive of his interest—he led several crypto investments on its behalf—but he increasingly sought conversation partners outside its walls. He began attending monthly dinners in San Francisco with six to eight other crypto-curious investors, exploring ideas at the frontier of the emerging technology.
+
+It was during this period in 2017 that Fred Ehrsam, who had recently stepped down as President of Coinbase, wrote a blog post arguing that crypto was the metaverse. Huang, still at Sequoia, reached out to discuss the idea. “I know I’m not going to build a company around this,” Ehrsam thought, “but it would be hilarious to pitch Sequoia on the idea for fun.”
+
+What began as an intellectual exercise evolved into a 40-email thread between the two, diving deep into crypto’s possibilities. Their backgrounds were perfectly complementary: Ehrsam had co-founded and operated crypto’s most important company, while Huang brought elite investing experience.
+
+“Nothing felt quite right until I met Matt,” says Ehrsam, who had explored starting a crypto-focused fund with several other potential partners. Over six months, they methodically explored working together, testing alignment on everything from investment philosophy to fund structure. They were particularly focused on ensuring true partnership—everything would be split 50/50, a principle that “drove some people nuts” but felt essential to both of them.
+
+Leaving Sequoia was wrenching for Huang. It was the first place where he truly felt he belonged: “It felt like somewhere I could retire from, if they would have me.” Multiple sources reported that legendary investor Michael Moritz called Huang “the only regrettable loss in Sequoia’s history.” Leone said, “he was the first person in my career that had left Sequoia under his own volition.” But Huang had become convinced that crypto would be one of the most important technological trends of the coming decades. “When he told me he thought it was the opportunity of a lifetime, it was very easy. Follow your dreams, go after it,” Leone said, with a tinge of regret. “I am very mad at myself because he had been talking about Bitcoin and I usually have a good sniffer. If I were really smart, I would have followed that and created an opportunity for him to do the fund within Sequoia.”
+
+Inverting the status quo: Huang and Ehrsam
+
+Huang and Ehrsam founded Paradigm in June 2018 with two theses: first, that crypto would be one of the most important technical and economic shifts of the coming decades; and second, that the space lacked the kind of investor they themselves would have wanted as entrepreneurs—one that was deeply ‘crypto-native’.
+
+Graham Duncan, Founder of East Rock Capital and an advisor to Paradigm, whom Huang credits as the most helpful person to the firm in its early days, was struck by their conviction from the outset. “They were consistently planning for what could happen from a size perspective in a way that seemed almost absurd to me,” Duncan said. “It blew my mind, but it was not cockiness at all. Their time horizon was just so different, and what they planned for ended up happening.”
+
+They raised their first fund in late 2018, securing $400 million from elite institutions including Harvard, Stanford, and Yale—the universities’ first significant crypto investments—as well as Sequoia. The fund structure was novel: open-ended with no fixed timeline for returning capital, allowing them to hold both public crypto assets and private investments. Then they made an even bolder move: rather than calling capital gradually like most venture firms, they quickly asked for the full $400 million and began averaging into Bitcoin and Ethereum, with those positions comprising about 90% of the fund to begin with. The average purchase price for Bitcoin was around $4,000 to $5,000 a coin—a massive bet that the crypto winter, which had sent Bitcoin down over 70% in 2018, would eventually thaw.
+
+Their first three hires embodied different aspects of their vision. Charlie Noyes, whom Huang met in a Telegram chat discussing Bitcoin Cash forks, became their first employee. “From his messages, I thought he was a 40-year-old with a beard, very cynical and craggy,” Huang remembers. “When he showed up to dinner, I was really surprised he was 19.”
+
+Noyes had been immersed in crypto from age 12 when he discovered Bitcoin through gaming circles. He’d already published research papers on crypto applications and won Intel’s science competition twice, before dropping out of school to attend MIT, and then dropping out of there to join Paradigm. His initial adjustment to office life was rocky—he thought “opining on pitch decks over email and coming to the office once a week” was normal. When he showed up late on his first day, Huang sat him down to explain professional expectations. The patience paid off.
+
+Today, Noyes is 25 and already one of Paradigm’s general partners. Huang likens him to an artist, capable of making large intuitive leaps by condensing vast amounts of disparate information and coming out the other side with a crystal-clear investment thesis. Like when he identified MEV as a pivotal blockchain issue in 2020 and became the lead investor in Flashbots, whose infrastructure now touches nearly every transaction on Ethereum and has established critical market rules for the $450 billion ecosystem.
+
+Dan Robinson, Huang’s middle school friend and “the smartest person I knew growing up,” embodied the technical depth needed to advance crypto’s frontier. After Harvard Law School left him disillusioned, Robinson switched to programming and explored crypto while working at Stellar, a blockchain company. Huang and Ehrsam crafted a unique role split between investing, research, and helping portfolio companies build. What began as a compromise became the template for Paradigm’s research-driven approach, with Robinson going on to invent key mechanisms for Uniswap, crypto’s leading decentralized exchange.
+
+She’s been Matt and Fred’s third partner, totally building the firm.
+
+–Graham Duncan, East Rock Capital
+
+Paradigm’s Managing Partners: Huang and Palmedo
+
+Alana Palmedo, joining four weeks into Paradigm’s existence when it still rented office space by the week, brought the institutional rigor needed to bridge crypto and traditional finance. Though not “deeply into crypto,” her experience managing complex operations at Boston University’s endowment and Bill Gates’ investment office during the 2008 financial crisis proved invaluable. Initially skeptical, she was won over by Huang and Ehrsam’s thoughtful approach to building an institutional-grade firm and her value investor’s intuition that with Bitcoin down so far, “this must be the low.”
+
+“She’s been Matt and Fred’s third partner, totally building the firm,” says Duncan, who helped interview Palmedo. She initially managed everything from trade settlements to finance to compliance before recruiting specialists for each function, freeing the investment team to focus on deals. Now, as managing partner, she has architected Paradigm’s high-performance culture, where radical transparency and daily self-reflection are expected from everyone, regardless of role. “Every single person must be in the top 1% of their domain,” Palmedo insists.
+
+By mid-2019, with crypto prices beginning to recover but most investors still wary of the sector, Paradigm went back to market. Its initial investor base committed an additional $360 million. The timing was characteristic of Huang’s approach: raising capital when others were skeptical, from partners who shared their conviction that crypto would fundamentally reshape finance.
+
+Though crypto has yet to fulfill its transformative promise, Paradigm’s investments have already yielded exceptional returns. According to public filings, its first flagship fund grew from $760 million to $8.3 billion by the end of 2024. Speaking with sources close to the company, Paradigm has also returned all of its Limited Partners’ initial capital, paying out more than $1 billion from the fund to date.
+
+The long view
+
+In spite of Paradigm’s early success, it’s hard not to wonder why Huang, someone for whom money ceased to be a concern long ago and who seemingly had the perfect job at Sequoia, would bother with the wild world of crypto at all.
+
+Brian Armstrong, CEO and Co-founder of Coinbase, pondered a similar question—”Who leaves a job like that at Sequoia, right?”—before answering, “He’s a silent killer. Our industry needs more people like him who have high integrity and are in it for the long term and the right reasons. He had such conviction to go off the beaten path.”
+
+For Huang, the answer is simple: “I suppose I’ve always had somewhat of a skepticism towards authority, and so when I see authority exerting itself, it does make me wonder: is this the way we want the world to work?”
+
+“Everyone in the US looks at China and says, that looks dystopian,” he says. “I don’t think they fully realize the same thing is happening in the West.”
+
+Take the Obama administration’s Operation Choke Point, in which the US Department of Justice sought to restrict certain industries’ access to banking services. Operation Choke Point 1.0, which lasted from 2013–2017, targeted industries deemed ‘high-risk’ like payday lenders and firearms dealers. Under the Biden administration, Operation Choke Point 2.0 focused on ‘debanking’ crypto. Even individuals like Uniswap Founder Hayden Adams and Gemini Co-founder Tyler Winklevoss found their personal bank accounts suddenly closed without explanation.
+
+Huang sees crypto evolving in three critical stages: first as money, then as a financial system, and finally as an internet platform. Each phase builds upon and enables the next. “Money is upstream of a lot of the rest of crypto,” he explains. “Buying your first Bitcoin or setting up your first wallet is often the first step towards using other crypto applications. It’s like getting your AOL account and connecting to the internet for the first time.”
+
+The money stage has already produced staggering results. Bitcoin has grown from a whitepaper in 2008 to an asset worth nearly $2 trillion today, making it the most valuable startup created since it was published. Remarkably, nation-states—even the US—are beginning to adopt it.
+
+Institutions that scoffed at the industry in 2018 (like BlackRock’s CEO Larry Fink, who called Bitcoin “an index of money laundering”) now embrace the technology. In 2024, BlackRock’s Bitcoin ETF gathered $50 billion in just 11 months—the fastest-growing ETF launch in history. Traditional portfolio models are also shifting, with Fidelity now recommending 1–3% crypto exposure. The classic 60/40 portfolio is becoming ‘59/39/2’ as institutions carve out dedicated allocations to crypto assets.
+
+The second stage—building an entirely new financial system—is accelerating. While traditional finance operates through layers of intermediaries, crypto can enable near-instant transactions, 24/7 markets, and novel financial instruments, all built on permissionless rails. The rise of stablecoins—blockchain-based digital currencies pegged to stable assets like US dollars—demonstrates this potential, growing from $500 million to over $200 billion in circulation since Paradigm’s founding.
+
+The third stage—as an internet platform—remains the most nascent and least legible. Unlike today’s internet where platforms control user data and online assets, crypto could enable true digital ownership and direct user-to-user interactions without intermediaries. High transaction costs have held back everyday applications like social media and gaming, but Huang sees this changing as new scaling technologies drive costs down dramatically. The same infrastructure that today supports NFTs and meme coins will eventually enable more serious applications, much like YouTube evolved from cat videos to become one of the world’s most important platforms.
+
+Huang, Ehrsam, and Palmedo outside the penthouse floor of their office in San Francisco
+
+Of course, like every new technology, crypto also has a dark side. Scams and hacks are common, meme coins promote short-term thinking over building what’s truly needed, token prices are volatile, projects implode, and the whole thing often looks more like a casino than the future of finance.
+
+Yet Huang takes the long view. Like the early internet attracting brilliant researchers alongside scammers and fraudsters, crypto’s open frontier enables both innovation and bad behavior. Each new wave, including speculative bubbles that can look irrational from the outside, brings in fresh talent and capital to build critical infrastructure.
+
+Stablecoins are a perfect example. The 2017 ICO (Initial Coin Offering) bubble brought mainstream attention to crypto and minted a new generation of crypto-rich investors. Some of that capital flowed into developing stablecoins, leading to dramatic improvements in their infrastructure. On Ethereum, the cost to send USDC (a popular dollar-pegged stablecoin) has fallen from $12 in 2021 to $1 today. On Coinbase’s popular Layer 2 network Base, the same transaction costs less than a cent. In turn, circulation has grown exponentially, up 400-fold since the bubble popped, and real-world use cases have emerged.
+
+SpaceX uses stablecoins to repatriate revenue from emerging markets, converting local currencies to digital dollars that transfer instantly. Scale AI pays its global network of data labelers through stablecoin rails, eliminating cross-border friction and costs. Corporate treasury teams at companies like Ramp have found another advantage: while savings accounts pay a fraction of a percent interest, stablecoins backed by Treasury bills can capture most of the yield that banks typically keep for themselves.
+
+The numbers confirm the narrative. Transaction volumes have grown 120% annually for five straight years. In 2024, stablecoins processed $5.6 trillion in payments, nearly half of Visa’s $13.2 trillion. This momentum led Stripe to acquire Bridge, a stablecoin payments platform, in October 2024. “Stablecoins are room-temperature superconductors for financial services,” wrote Stripe Co-founder Patrick Collison.”Thanks to stablecoins, businesses around the world will benefit from significant speed, coverage, and cost improvements in the coming years.”
+
+Matt’s disposition is distinctive. He’s calm, rigorous, and patient—uniquely well-suited traits to any complicated technology whose consequence is back-weighted, like crypto.”
+
+–Patrick Collison, Stripe
+
+This adoption mirrors crypto’s broader evolution: Bitcoin launched in 2009, reaching its first million users in 2011. Ethereum followed in 2015, hitting the same milestone in 2017. Then came stablecoins in 2019, DeFi in 2021, NFTs in 2022, and social applications in 2023.
+
+Detractors often highlight the lack of impact crypto has had on day-to-day business. Huang believes stablecoins are the next killer app but also distinguishes between ‘single-player’ technologies like AI that provide immediate utility, and ‘multiplayer’ technologies like crypto that require coordinated adoption. “It’s like adopting a new language or settling a new city,” he explains. “It’s useless if you do it alone.” He points to email as an instructive parallel. Early critics called it “technologically intriguing but economically naive,” much like crypto skepticism today.
+
+When speaking with Huang, it’s notable how poised he is on crypto as a whole. Patrick Collison, who added Huang to Stripe’s board both for his crypto expertise and his broader business acumen, said, “Matt’s disposition is distinctive. He’s calm, rigorous, and patient—uniquely well-suited traits to any complicated technology whose consequence is back-weighted, like crypto.”
+
+What sets him apart is his ability to hold both sides of the investment thesis. “He can handle bear cases, which are typically much more specific than the bull case,” says Collison. “And then he understands the possibilities of technology to see how small nascent things can become a very big deal in the future.”
+
+Recently, artificial intelligence has emerged as tech’s new frontier, with clear and immediate applications that have captured the world’s imagination. Huang and his team at Paradigm even considered expanding their focus to include AI. But they have maintained their commitment to cryptocurrency, with Huang explaining: “AI is going to be fine with or without us. Crypto is a very important technology that needs to coexist with AI, but there aren’t a lot of great champions. We believe it’s important for us to work on it, to make sure that it actually succeeds.”
+
+Invention
+
+That commitment to ensuring crypto’s success has led Paradigm to develop an unusual approach to investing. While most venture firms wait to back winners, Paradigm helps create the conditions that make winning possible. This means doing more than analyzing trends or writing checks—it’s solving fundamental technical problems that expand what the entire industry can achieve.
+
+The firm’s research-driven style emerged almost by accident. When Huang hired his middle school friend and best man, Dan Robinson, it wasn’t obvious how a former lawyer turned self-taught programmer would fit into an investment firm. “We wanted Dan on the team because he was the smartest person I knew,” Huang says, “but he wasn’t the most commercial, and we weren’t sure how he’d input into the investment process.” Mostly as a concession to bring him on board, they created a novel role that included time for Robinson to work on open-source projects, which they mutually termed “exploratory research.”
+
+“It turns out that particular genre is an incredibly important thing to do in crypto,” Robinson explains. “Most investment research is about gathering and analyzing existing information. We’re trying to invent new things.” The research team’s breakthroughs often come from exploring theoretical questions before companies even recognize they need answers, like bullseye liquidity.
+
+What makes crypto somewhat unique is how mathematical mechanisms can create enormous leverage. A traditional exchange might need thousands of servers and hundreds of employees to match buyers and sellers. But when Vitalik Buterin proposed a simple equation (x*y=k) on Reddit in 2016, he created the foundation for trillion-dollar markets to run autonomously on a blockchain. The challenge was that this elegant solution, while computationally efficient, wasted massive amounts of capital by spreading liquidity across all possible prices.
+
+Robinson knew Hayden Adams, who had built Buterin’s concept into Uniswap, from the early Ethereum research community. Within weeks of joining Paradigm, he wrote a memo on Uniswap, which led to a seed investment, and began actively working on improvements. His contributions to Uniswap v2 enabled trading between any Ethereum-based tokens, helping the protocol expand from $2 billion in volume to over $1 trillion.
+
+But Robinson and Adams spent most of 2019 searching for an even more fundamental breakthrough. Through mathematical exploration, the team discovered a way to efficiently concentrate liquidity within specific price ranges—allowing traders to focus capital where it was actually needed. This innovation became Uniswap v3, improving capital efficiency by up to 4,000x. A $5 million position could now provide the same trading depth as $2 billion spread across all possible prices. By October 2022, Uniswap was valued at $1.7 billion.
+
+When they go up against other firms, Paradigm can actually help you build a crypto company. They have experts on staff in protocol design, security, legal, even policy.”
+
+–Brian Armstrong, Coinbase
+
+This pattern of research leading to breakthrough products repeats across Paradigm’s portfolio. Last year, when Blur approached the firm about adding margin trading, the team faced a fundamental challenge: how do you safely lend against illiquid NFTs whose values are hard to determine? The research team spent four months developing an entirely new lending protocol called Blend. “If you can solve lending against NFTs,” Robinson notes, “you can potentially solve lending against any illiquid asset.” Within months of launch, Blend had created and dominated an entirely new category of lending.
+
+Unlike traditional venture firms that separate technical resources from investment decisions, Paradigm’s researchers are core to every investment. They attend every pitch meeting and help make every decision. This integration means they often identify opportunities others miss because they’re already working on similar technical challenges. When algorithmic stablecoins like Terra became popular, Paradigm stayed away—years of trying to design better stablecoin mechanisms had taught the firm that these projects hadn’t solved the fundamental problems.
+
+This deep technical work creates a powerful competitive advantage in sourcing and closing deals, as well as hiring talent. “When they go up against other firms,” Coinbase’s Armstrong explains, “Paradigm can actually help you build a crypto company. They have experts on staff in protocol design, security, legal, even policy.”
+
+“The biggest part of our process is figuring out what’s actually the most important problem,” Robinson explains. This requires staying close to crypto’s rapidly evolving frontier. “The internet has these very short generations,” Huang notes, drawing a parallel to Sherlock Holmes’s network of street urchins who provided vital intelligence from London’s streets. “Even two years can make a difference in understanding crypto’s culture.”
+
+This insight led to the Paradigm Fellowship, which identifies exceptional young developers while they’re still in school. The program grew partly from the firm’s experience with transmissions11, who the team discovered on Discord while he was still in high school. When he once dialed into a pitch meeting from a school assembly, it crystallized both the challenge and opportunity of working with crypto’s next generation of innovators.
+
+Sketching their next breakthrough: Konstantopoulos, Noyes, and Robinson
+
+Crypto crypto crypto
+
+On the last Thursday of May 2023, reporters at crypto news firm The Block made a discovery that sparked industry-wide controversy. Using the Internet Archive’s Wayback Machine, they noticed Paradigm had quietly removed all mentions of ‘crypto’ from its homepage and social media, rebranding as a ‘research-driven technology investment firm’. The apparent revelation—despite the fact that the change was a month old—prompted immediate backlash. In an industry where loyalty runs deep and apostasy is harshly punished, it felt like betrayal.
+
+“We don’t want to work for you anymore,” tweeted one portfolio company, referencing both the rebranding and Paradigm’s investment in FTX, which “became a scar on our entire industry”. The criticism stung but was characteristic of crypto’s brutal honesty. Paradigm not only restored the word ‘crypto’ but doubled down, adding flashing neon tickers to the homepage that read: ‘crypto crypto crypto’.
+
+The reality behind the change was more mundane. Two researchers on the team had complained that potential AI collaborators weren’t returning their emails after seeing ‘crypto’ on Paradigm’s homepage. “We thought, okay, all the crypto people already know us, they never go to our homepage. They go to our blog, and every portfolio company and blog post is about crypto. So what’s the big deal?” Huang explains. “In hindsight, it was clearly a mistake. People take the website as a collective statement about what you’re proud of.” (Patrick Collison, for one, notes that the Paradigm website is “probably the fastest you have used this year.”)
+
+The episode revealed deeper tensions, however. By November 2022, Bitcoin had plunged 75% from its peak in 2021 to below $16,000. Ethereum was down 80%. That same month, ChatGPT launched, sparking an AI boom that made crypto seem like yesterday’s frontier. Major venture firms were already pivoting their attention and capital toward AI.
+
+For Paradigm, the website controversy capped a humbling period. Just 18 months earlier, the firm seemed untouchable. Its Bitcoin position had multiplied 15x. One of its earliest investments, Coinbase, had gone public at an $85 billion valuation. It had raised a $2.5 billion venture fund. Yet the euphoria of 2021 would test even crypto’s most disciplined investors.
+
+Fred Ehrsam recognized the warning signs. In March 2021, he sent a letter to portfolio companies titled ‘Surviving Crypto Cycles’. After noting that prices had doubled in just two months, with Bitcoin crossing $1 trillion and “pixelated crypto art regularly selling for millions,” he warned that “Senators even have lasers for eyes! Euphoria abounds.” Drawing on his Coinbase experience, where a third of employees left during the 2014–2017 downturn, he outlined specific preparations: stress test systems for 10–100x usage spikes, consider fundraising while capital is available, and caution new hires about crypto’s brutal cycles.
+
+Down years are easier than up years. Signal to noise is very high and okay, prices are down, but with a long-term perspective, that doesn’t bother us.”
+
+–Matt Huang, Paradigm
+
+His warning proved prophetic but insufficient. “We made a lot of mistakes during that period,” Huang reflects. “When you over-focus on a rival, you become more like the rival.” He explains how watching competitor a16z raise massive funds made them question whether they needed to match that scale. Paradigm grew from 18 to 62 people. “We definitely let the quality bar slip,” he admits. “I remember instances of making that compromise, feeling like if we don’t do this, or hire that person, we’re going to fall behind. In hindsight, those were all wrong decisions.”
+
+Huang is not one for spreadsheets and doesn’t remember the firm’s largest peak-to-trough drawdown, but one moment is etched into his memory: FTX. Paradigm had invested $278 million in the exchange, making it one of the largest investments in the firm’s history. By 2022, FTX had become crypto’s public face, with founder Sam Bankman-Fried speaking at conferences, testifying before Congress, and appearing on magazine covers. That October, he gave the keynote at Paradigm’s LP meeting. Weeks later, FTX collapsed amid charges of fraud and revelations that customer funds had been misappropriated.
+
+The investment failure was total, but the betrayal cut deeper. During due diligence, Paradigm had identified the key risk: the relationship between FTX and Bankman-Fried’s trading firm, Alameda Research. The team asked direct questions and received false assurances. When Huang later testified in court during Bankman-Fried’s criminal trial, the experience solidified an important lesson about founder alignment.
+
+“It was pretty clear, even at the time, that he didn’t share our vision for making crypto better,” Huang says. “For him, it was a way to make a ton of money and then give it away.” The disconnect became apparent around policy discussions, where Bankman-Fried advocated for compromises that Paradigm believed would damage crypto’s core promise.
+
+FTX wasn’t Paradigm’s only misstep. The firm had co-led OpenSea’s $300 million Series C at a $13.3 billion valuation at the peak of the NFT craze. Since then, the NFT marketplace’s trading volume has dropped 98%. BlockFi, another portfolio company, went bankrupt due to FTX exposure.
+
+“In venture capital, there are going to be investments that don’t turn out the way you hope,” Huang says. “That’s always an opportunity to reflect, and we’ve done a lot of that.” He maintains that bearish periods actually provide clearer signals than bull markets. “Down years are easier than up years. Signal to noise is very high and okay, prices are down, but with a long-term perspective, that doesn’t bother us.”
+
+The firm emerged from this period smaller but more focused. The investing and research team, which had grown to 20 people in 2021, was cut back to 11. Standards tightened and an explicit filter was added to new investments: the founder must align with Paradigm’s mission to advance the frontier of crypto.
+
+The website episode proved instructive in another way. The swift negative reaction showed how much the crypto community had come to view Paradigm as more than just another investment company. It was a standard bearer for the industry.
+
+Writing the future
+
+A miniature electric guitar rests behind Georgios Konstantopoulos’s desk, occasionally deployed during impromptu meetings. The image of the firm’s Chief Technology Officer breaking into riffs when discussing blockchain architectures captures something essential about his approach: technical virtuosity combined with an intuitive feel for what works.
+
+In 2019, Konstantopoulos was a sought-after researcher and software engineer, known in crypto circles for his development skills. His technical work was so thorough that Paradigm’s portfolio companies kept mentioning his name.
+
+When Huang first met him at a conference, Konstantopoulos was weighing whether to expand his consulting practice or join a startup. But Huang, with his characteristic ability to spot unconventional talent, saw a different path. He proposed creating a role similar to Robinson’s, where Konstantopoulos could combine technical research with investment evaluation.
+
+The role evolved in unexpected ways. In 2020, while helping portfolio company Optimism implement its research, he noticed how many projects struggled with the same fundamental problems. The challenges weren’t in the ideas, but in the tools needed to build them. Rather than support companies one at a time, Konstantopoulos wondered if he could build open-source infrastructure that would advance the entire industry.
+
+Things people tell you are hard usually aren’t. They’re only hard because you don’t have agency over your tools.
+
+–Georgios Konstantopoulos, Paradigm
+
+That philosophy led to Foundry, his first major contribution. Konstantopoulos spent a weekend building a tool that made writing secure, smart contracts dramatically simpler. Think of it like spell-check for blockchain code—except instead of catching typos, it prevents multimillion-dollar bugs. Within months, it had become the industry standard, and now has 90% market penetration and over $100 billion in smart contracts secured (so far).
+
+But Foundry’s success highlighted a deeper challenge. Ethereum, the platform powering most of crypto’s innovation, ran on inefficient software that made scaling impossible. It was like trying to stream 4K video over a dial-up connection. Konstantopoulos proposed an audacious solution: rebuilding Ethereum’s core node software from scratch.
+
+“You’re crazy,” his team said. “This will take five years.” But Konstantopoulos had earned their trust, and he understood their capabilities better than anyone through his unique hiring approach. Rather than traditional interviews, he found his engineers through their contributions to open-source projects. “The code doesn’t lie,” he says. “I want to see how people think through real problems.”
+
+The resulting project, Reth, took just 18 months to complete. While its function seems simple—downloading transactions, executing them locally, and writing them to a database—its impact has been profound. By optimizing this fundamental process, Reth runs 80% smaller and 10 times faster than alternatives. Major platforms like Coinbase’s Base, WorldCoin, and Optimism (last valued at $1.65 billion in 2022) already rely on its superior performance (it launched in June 2024).
+
+These technical contributions create a virtuous cycle. Paradigm’s researchers identify problems while evaluating investments. They build open-source solutions that become industry standards. These tools attract the best developers, who either join portfolio companies or become founders themselves or, in some instances, join Paradigm.
+
+The strategy culminated last October in Ithaca, spun out from Paradigm with a $20 million investment. As CEO (while maintaining his Paradigm CTO role), Konstantopoulos aims to commercialize what his team has built. “What other teams need 20–30 engineers, seed funding, and two years for,” he notes, “we can do in weeks.”
+
+His confidence comes from having built every layer of the stack, from low-level cryptography to user interfaces with Reth and Foundry in between. “Things people tell you are hard usually aren’t,” he argues. “They’re only hard because you don’t have agency over your tools.” This philosophy of radical self-reliance—building whatever tools the industry needs—has transformed Paradigm’s role in crypto.
+
+As for his own transformation, Konstantopoulos describes it in characteristically Greek terms: “Matt is the only mentor I haven’t been able to eclipse.” Most mentors are eventually outgrown, but in Huang, Konstantopoulos found a leader who evolves alongside his team. While most engineers of his caliber would have left to start their own companies, he and others stay at Paradigm because Huang keeps growing with them. “They push me to be a better version of myself every day.” Huang says, “I don’t want to be eclipsed.”
+
+On the back of Huang’s MacBook, a telling detail appears: three stickers form a perfectly aligned row, with the logos of Foundry and Reth flanking Paradigm’s mark. It’s both a reflection of his careful attention to detail and a window into his evolving vision for venture capital. “What if Sequoia had not just backed Google, but had founded Google?” he increasingly wonders. The question points to a future where the line between investor and builder blurs.
+
+In Konstantopoulos’s journey from gaming addict to architect of crypto’s core infrastructure is the fulfillment of Huang and Ehrsam’s original thesis: that crypto required a different kind of investor. Not just brilliant misfits who could evaluate technology, but builders whose code could shape the future of finance. In an industry inherently hostile to central authority, Paradigm has become one of crypto’s most trusted institutions by focusing on creation rather than control. Huang and his team aren’t just investing in the future—line by line, they’re writing it.
+
+Dom Cooke is the managing editor of Colossus

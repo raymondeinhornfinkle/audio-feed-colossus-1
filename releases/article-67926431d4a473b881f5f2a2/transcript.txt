@@ -1,0 +1,305 @@
+Is Space Investable?
+
+Positive Sum Research
+
+By Donald Lee-Brown.
+
+SpaceX is a $200bn company[1], making it the second most valuable private company in the world. Launch costs have dropped by nearly 45x since the days of the space shuttle. Over the past decade, thousands of satellites have been launched into low Earth orbit. Some $78.5bn of investment has been poured into companies building space infrastructure—satellites, rockets, payloads—since 2015[2]. Private investment is on track to exceed government space-related R&D for the first time in history[3]. Space, it seems, is open for business.
+
+However, investors with long memories will ask: haven’t we been here before? After years of breathless investor enthusiasm, Iridium’s 1999 entry onto the list of 20 largest bankruptcies in US history. The eerily Starlink-esque Teledesic’s quiet exit in 2002. Globalstar’s 2002 Chapter 11 after over $4bn in debt and equity investment. A precipitous decline in space venture funding following the dot-com bubble, and a decade-long recovery.
+
+How should today’s capital allocators evaluate the current market, and gauge whether or not history will repeat itself? Is space investable?
+
+Our answer to the latter question is mostly no. On the one hand, the trends that have led to the current wave of development are longstanding and set to continue, and markets representing trillions of dollars are seeing startup activity as space becomes more accessible. On the other hand, there’s ample evidence that investors and founders alike tend to underestimate the challenges in building a space business. While there are specific opportunities we’re interested in, and a broader set we’re keeping tabs on, we think the markets that have received the most attention won’t make great investments right now.
+
+Our conclusions are based on our own analysis, as well as interviews with founders, other investors, and industry experts. Here’s how we organized our findings:
+
+Section 1. Identifies the trends that have, over the past 60 years, led to today’s dramatic increase in commercial space development.
+
+Section 2. Enumerates the markets that bring a $4.3tn TAM expansion story into view.
+
+Section 3. Evaluates the investability of today’s space economy.
+
+Section 1. The four most important trends in commercial space.
+
+Summary
+
+1. Launch costs have fallen 200x since the 1960s. 2. LEO has become the primary commercial orbit. 3. Total venture investment in space has increased by almost 20x since 2016. 4. Space startups that have gone public have dramatically underperformed the market.
+
+While the history of early space activities mostly focuses on publicly funded human spaceflight and the moon race, commercial use of space has always centered on the development, launch, and operation of satellites. Throughout the 1960s and ‘70s, public and private interests alike built and operated dozens of satellites for commercial purposes, primarily in three verticals: communication, navigation, and imaging. These use cases still form the core of the commercial space market today.
+
+Public funding played a leading role during the early days. The first television broadcast satellites were built by a public-private partnership led by Bell, AT&T, and NASA, and placed into orbit via a modified USAF ballistic missile in 1962, less than five years after Sputnik launched. Syncom 3, a NASA satellite, demonstrated the commercial opportunities in space to the entire United States in 1964, when it was used to live broadcast the Tokyo Olympics across the nation[4].
+
+During these early years, one of the primary barriers to more widespread utilization of space for private purposes was access to orbit. Governments (US, Soviet) and space agencies (NASA) controlled launch facilities. Available launch vehicles were adapted from nuclear-tipped ballistic missile systems optimized for conflict, not cost. The first communication satellites, Telstar-1 and Telstar-2, each weighing ~77kg, cost nearly $400,000/kg in 2024 dollars to place into low Earth orbit (LEO), almost 200x more than what SpaceX charges for space on a Falcon 9.
+
+As demand for launch nevertheless continued to increase through the 1980s, dedicated commercial launch vehicles were developed that both increased access to orbit and lowered the cost to reach it. Arianespace, founded in 1980 by a consortium of European nations, explicitly developed its Ariane rocket family to serve commercial needs, and lowered launch cost per kg by 10x, in part by allowing multiple satellites to be launched on the same rocket. By 1984, Arianespace controlled nearly 50% of the commercial satellite market[5].
+
+By 1990, there were over 50 commercial satellites in operation, nearly all in the distant geosynchronous Earth orbit (GEO), operated by businesses that still exist today: Viasat, EchoStar (DISH), Hughes (DirecTV), Sirius. Each satellite was a major capital investment. The all-in cost for a typical GEO satellite into the early 2000s could be up to $600mn, in large part driven by the cost to launch equipment totaling thousands of kilograms.
+
+Near the turn of the millennium, as technology miniaturized and the internet created exploding demand for low-latency communication, investors and technology companies turned their sights to LEO. Billions of dollars were invested by companies like Motorola into creating constellations—systems of many orbiting satellites— each built and launched at a fraction of the cost compared to a GEO satellite. These constellations promised global connectivity, and commercial space startups grabbed headline news slots.
+
+These projects almost universally failed, some in spectacular fashion, as cost overruns, lengthy development cycles, and increasingly capable cellular networks cratered once-attractive unit economics. Investors soured on space. Combined with the dot-com crash, investment in space infrastructure fell dramatically in the early 2000s. Government space budgets were cut as the Cold War wound down. By 2001, global launch revenues had declined by 41%.[14]
+
+However, as the industry retrenched, the seeds of today’s resurgence were sown. The US government, in particular, flattened regulatory barriers and enacted policies intended to shift spending to private enterprises[6]. Cold War restrictions on imaging were lifted, and NASA dangled tens of billions of dollars’ worth of International Space Station resupply contracts in front of both traditional players like Boeing, as well as upstarts like SpaceX.[7]
+
+Today, annual venture investment in space is nearly 20x higher than even a decade ago. Launch costs have fallen by an order of magnitude since the early 2000s, largely driven by SpaceX. Mega-constellations of tens of thousands of satellites in LEO provide high-speed internet at prices competitive with broadband. Startups are trying to move firmly terrestrial industries— mining, manufacturing, datacenters—to orbit.
+
+What led to this point? From even this abridged history, it’s possible to identify four important trends that have persisted through the past 60+ years of commercial space development and multiple industry cycles. Some have received significant public attention over the past few decades; others have not. Given their longstanding nature, understanding these trends and projecting them into the future informs our investment outlook. In this section, we cover:
+
+Dramatically falling launch costs and increasing commercial access to space.
+
+A change in focus to LEO and subsequent deployment of increasingly large constellations of satellites.
+
+A market shift towards commercial revenues and private investment.
+
+A consistent gap between early investor expectations and company performance.
+
+1. Falling launch costs
+
+Figure 1 Cost to reach LEO (in $/kg, Western launch vehicles) has dropped from ~$400,000/kg during the first era of commercial space to ~$1,500/kg, with further reductions to <$1,000/kg likely in the near future. Source: [8], Positive Sum analysis. Images: [9], [10], [11], [12], [38], [14], [15].
+
+Perhaps the most well-known trend is the commoditization and commercialization of launch. The entire history of commercial spaceflight is one of declining launch costs and increasing access to orbit, capped by SpaceX’s push from $5,000–10,000/kg to LEO down to sub-1,000/kg in just two decades. The story of how they did this is remarkable in its own right, but also helps explain the broader 200x decline in cost since the 1960s.
+
+‘Fly, fail, fix’
+
+Space Exploration Technologies—more commonly known as SpaceX—was founded in 2002, during the nadir of the post-1990s collapse in private space funding. With the quirky mission to reach Mars and a $100mn initial investment from Elon Musk, SpaceX aimed to dramatically lower the cost to reach orbit through a combination of ecosystem control, rocket reuse, and a risk-embracing ‘ship fast’ development philosophy, similar to that of consumer software startups.
+
+A private rocket company founded by a young entrepreneur known primarily for his successes in the SaaS world certainly garnered its share of skeptics, but the approach worked. In the early 2000s, the roster of contemporary launch vehicles included the Ariane 5 and Delta IV—both running around $10,000/kg (or slightly less) to LEO. As early as 2003, SpaceX predicted that its Falcon 5 (later to become the Falcon 9) could deliver satellites to orbit at an unheard-of sub-$3,000/kg price point.[16]
+
+By the early 2010s, SpaceX, now numbering over 1,500 employees, had almost hit its projections, with early iterations of its Falcon 9 capable of carrying over 13,000kg to LEO for less than $60mn. At under $5,000/kg, SpaceX had cut the cost of reaching orbit by over 50% while still leaving itself room to experiment with its rocket return technology, which would lower costs further. Its innovation was rewarded with market share. By 2014, SpaceX controlled nearly 20% of the commercial satellite launch market. By 2017, this had grown to nearly 50%;[17] in 2023, two thirds of all commercial satellite launches were on SpaceX rockets.[18]
+
+In the 2010s, SpaceX also started reliably returning its first-stage boosters to Earth in controlled fashion for reuse. While the first few attempts ended in fireworks, by 2022 SpaceX had reused one of its Falcon 9 boosters 12 times. Each successful return of just the first stage means up to 60% reduction in launch cost, compared to building a new rocket.
+
+SpaceX’s execution speed was impressive, particularly when set against the slow pace of the commercial launch industry in the decades prior. However, an oft-overlooked facet of SpaceX’s journey to market dominance is just how capital efficient the company was while getting there. A 2011 NASA study determined that SpaceX had spent approximately $440mn getting to its first Falcon 9 launch.[19] The same study indicated that had NASA developed Falcon 9 itself using its established cost-plus-fee structure, it would have cost at least $1.3bn. Meanwhile, SpaceX was earning nearly $133mn on average for each resupply mission to the International Space Station, on a rocket it typically charged ~$60mn for. This money was then poured into additional development, resulting in a sequence of ever-more-capable rockets and industry firsts:
+
+Falcon Full Thrust (2015) dropped LEO launch costs below $3,000/kg; at this point SpaceX had already started capturing the commercial launch market and was valued at $10bn in an equity round.
+
+Starlink, SpaceX’s modern version of the old ‘90s era Teledesic LEO satellite internet constellation, started placing satellites into orbit in 2019.
+
+Starship, the name for SpaceX’s super heavy-lift upper stage, and Super Heavy Booster, with payload capacity of 100,000kg to LEO, had its first successful test flight in 2024. Starship could lower LEO launch costs well below $1,000/kg, and is sufficiently powerful enough to launch significant payloads to Mars.
+
+One of the primary drivers of SpaceX’s success was a radically different approach to designing and flying rockets. Contemporary launch vehicles in the early 2000s were the products of large, prime-managed contracts and legions of subcontractors. A major differentiator for SpaceX was its willingness to vertically integrate its rocket supply chain. This allowed the company to reduce its component costs by up to 3–5x, by reclaiming subcontractor margins and vendor management overhead.[19] While in-housing design and production of high performance aerospace equipment might seem a daunting task for a startup, SpaceX did this while operating with significantly smaller headcount than a comparable NASA-managed program.
+
+This ability was unprecedented—the aerospace (and, by extension, space) supply chain is relatively brittle, with the knowledge and equipment to build many of the parts required for rocket assembly concentrated in just a handful of machine shops. In 2015, SpaceX lost a rocket due to externally sourced bolts that became brittle when exposed to cryogenic temperatures.[20] These bolts were supplied by a single shop and manufactured on specialized equipment; only a handful of individuals in the entire world had direct experience machining these parts. SpaceX’s solution to the problem was to move production of the offending part in-house, rather than searching for an alternate source.
+
+Ecosystem control didn’t just help SpaceX cut costs, it also helped SpaceX move faster than any other rocket company. In 2012, SpaceX’s Chief of Propulsion Tom Mueller noted that vendors often submitted proposals with lengthy development schedules—on the order of one to two years. SpaceX could develop identical parts itself within just a few months.[21] As a result, SpaceX would aggressively move parts in-house, particularly if they were expensive or the company was not satisfied with the vendor. In-house rocket component production also reduced delays due to exogenous reasons—ULA’s Atlas V program was thrown into jeopardy in 2014 when Russia annexed Crimea, due to reliance on Russian rocket engines.
+
+Figure 2 The estimated cost to SpaceX for a Falcon 9 is nearly a factor of five lower than if the same rocket had been developed and operated under a traditional public/private arrangement, principally due to rocket reuse, more efficient R&D, greater ecosystem control, and lower dependence on external vendors. Source: Positive Sum analysis. Images: [22], [23], [24].
+
+SpaceX’s success has spawned a number of commercial competitors seeking to capture their own slices of the growing launch market. Many of these competitors have attempted to innovate further in order to lower launch costs. Starting in the 2010s, Relativity Space (3D-printed rockets), Blue Origin (reusable rockets), Astra (daily launches), Firefly (24-hour payload integration), and more have collectively raised billions of dollars in private and public financing. Meanwhile, legacy players like Arianespace and governments like China and Russia are pouring public dollars into the space, as older, more expensive, or unavailable rockets are being retired.
+
+Figure 3 As launch costs have fallen, the volume of launches has risen faster than launch revenues. SpaceX controls nearly two thirds of the global commercial launch market as of 2023. Source: [25], [26], [27], Positive Sum analysis.
+
+Today, launch costs appear set to continue to fall, thanks to a new generation of vehicles and increasing competition. SpaceX’s super heavy-lift vehicle, Starship, will likely drop costs to LEO below $1,000/kg for the first time in history, and potentially even below $500/kg. Elon Musk has even floated the idea that $100/kg prices may be coming, though it’s difficult to imagine SpaceX lowering costs so drastically while they remain in firm control of the launch market.[28]
+
+This control—and the pricing power that comes with it—is likely to face competition in the near future. Arianespace successfully launched its next-generation Ariane 6 rocket in July 2024.[29] Blue Origin, SpaceX’s closest competitor, will likely begin significant commercial launches of its New Glenn rocket in 2025.[30] Rocket Lab’s Neutron (expected 2025) and Relativity Space’s Terran (expected 2026) also promise to increase global LEO lift capacity at SpaceX-like costs.[31] Stoke Space raised $100mn in late 2023 to fund its reusable launch vehicle ambitions.[32] China and Russia are developing new vehicles—Chinese startups in particular, like Space Pioneer and Deep Blue Aerospace, have raised hundreds of millions of dollars in venture funding.[33]
+
+Falling launch costs will continue to create demand growth. As early as 2005, economic studies found evidence for price elasticity in LEO launch.[34] As launch costs have fallen, the volume of launches has significantly increased, with 212 launches in 2023 alone, more than 2.5x in 10 years. This rapidly growing market creates innovation pressure across launch providers—next-gen launch vehicles from Arianespace, Blue Origin, and others adopt many of the same technologies that SpaceX has pioneered. Higher launch volumes also unlock economies of scale, particularly around rocket manufacturing, reuse, and launch facilities.
+
+The best evidence for future launch demand growth is found in the large number of satellites required by upcoming LEO mega-constellations. In fact, a 2023 McKinsey study estimated a base case of 27,000 satellites in orbit by the end of 2030—4x growth from today[35]. Crucially, the vast majority of these satellites will be shorter-lived LEO satellites requiring replacement every five to seven years. This means simply maintaining the number of satellites in orbit in 2030 will create stable demand for launch services above today’s levels. Our estimate is that the commercial space launch market will, in the base case outlined above, likely see low to mid double-digit CAGR over the next decade, growing from $7.2bn (2023) to $24bn annually by 2033.
+
+2. The development of low Earth orbit
+
+Figure 4 More satellites are now being launched into LEO than any other orbit, with a sharp increase in total number of satellites in LEO since 2019, due to Starlink. Source: [26], images: [36], [37], [38].
+
+Thanks to falling launch costs and maturing satellite technology, LEO has become the primary orbit for commercial space. Historically, GEO filled this role, due to the requirements for telecommunications and broadcasting. High launch costs, technology favoring larger satellites, and simplification of ground tracking also contributed to GEO’s development.
+
+LEO offers a distinct set of benefits that today’s space companies are widely leveraging. Smaller, lower powered equipment required for ground communication means satellites can be made smaller and more cheaply. More payload can be lifted to LEO with the same rocket (i.e. same cost), vs. transfer orbit to GEO, and especially direct GEO lift, due to reduced propellant requirements. The proximity to Earth means communication latency is inherently around 8-12x lower than in GEO due to the much lower travel distance involved. This latter point is particularly important for satellite internet, and allows it to be latency-competitive with terrestrial networks.
+
+Simply counting the number of satellites in each orbit is all the evidence one needs to understand how important LEO has become. While the number of active satellites in higher orbits (MEO, GEO) has steadily increased from ~500 in 2000 to around 700 in 2023, the number of active satellites in LEO has increased from around 500 in 2000 to around 9,000 in 2023. The overwhelming majority of these satellites are small, with masses around a few hundred kilograms, with over 1,500 less than 100kg. The majority of this growth is due to the ~5,000 active Starlink satellites, but other constellations— Planet Labs, OneWeb, Globalstar, and more—have still resulted in 17x more satellites placed in LEO, compared with other orbits.
+
+An important facet of LEO development is that to achieve global coverage, many more satellites are needed than GEO. This ‘constellation requirement’ has catalyzed development of small, low-cost satellites that can be manufactured at scale. As the number of satellites placed into orbit has grown, satellites themselves have moved towards commoditization.
+
+Today, a new space startup can rely heavily on COTS hardware and software to put satellites into orbit faster, and at lower cost, than ever before. While Starlink and SpaceX demonstrate the strategic advantages of ecosystem control, for a startup racing to get Object Number One in orbit, there is an unbundled space stack to take advantage of:
+
+Satellite buses, instruments, and components. In addition to legacy players, there are dozens of newer entrants to the market of building satellites and components. Startups like Apex Space, CaesiumAstro, and ExoTerra offer satellite subsystems—propulsion, communication, control—or entire satellite buses for other companies to design around.
+
+Payload hosting. Rather than develop and launch full satellites (bus + payload), companies with smaller payloads can take advantage of payload hosting—hitching a ride on satellite buses from newer companies like D-orbit or legacy operators like Intelsat.
+
+Launch. Modern rockets are capable of launching many small satellites into orbit in a single trip. By filling extra space around a primary payload, or simply packing as many small satellites into a launch vehicle as possible, SpaceX’s Rideshare program and Rocket Lab allow satellite companies to share the cost to reach orbit.
+
+Ground services. An oft-overlooked aspect of satellite management is the importance of ground communication. Third-party services like AWS Ground Station can significantly lower capex requirements, and lengthy development and build timelines, for space startups.
+
+Despite this motion towards COTS hardware and generic services, today’s satellites are capable of performance far exceeding previous generations. By taking advantage of modern hardware and different frequency bands, Starlink offers download speeds 10,000x greater than the first LEO-based consumer telecom satellites of the 1990s—from satellites less than half as massive. Including R&D and launch, the unit cost of a 1990s era Iridium satellite was approximately $75mn; a Starlink satellite costs less than $1mn.
+
+Figure 5 0.5m resolution satellite imagery of a town vs. simulated 5m resolution imagery of the same town. In the higher resolution image, individual buildings, roads, and even cars are able to be detected. Source: [39]
+
+These performance jumps aren’t limited to telecommunications, either. Planet Labs’ Earth imaging covers nearly the entire Earth with 710x more pixels per square kilometer than the early NASA Landsat imagery—with images coming off satellites 160x less massive than Landsat. The original Landsat satellite cost hundreds of millions of dollars; a Planet Labs Dove is around $300,000.
+
+LEO comes with its own challenges, of course, primarily stemming from the added complexity of tracking and managing dozens to thousands of satellites, each orbiting the earth in just over an hour. Ground communication is a challenge, given that a satellite can only ‘see’ a small portion of the Earth’s surface at any given time. Nevertheless, the accelerating development of LEO is only set to continue, with over 500,000 satellites (representing tens of billions of dollars of investment) across dozens of proposed and in-development communications, data, and Earth imaging constellations.[40]
+
+3. Space has become a commercial enterprise
+
+Figure 6 Total global space revenues have increased by 24% since 2016. Government space funding is almost 30% of the total market with 40% growth over the same period. Source: [25], [41], Positive Sum analysis.
+
+The plethora of new space companies, and growth in non-defense opportunities in LEO, mean that today’s space market is driven by commercial dollars. The early days of commercial space were defined by government programs (e.g. NASA) involving the defense contractor chain: primes like Boeing and an assortment of supplier tiers. Particularly in verticals like Earth imaging, virtually the entire end-market was government. Through the ‘80s and ‘90s, as the space-based telecom market developed, market forces started to play a role in development and innovation. This shift accelerated in the years after the Cold War, as governments (particularly the US government) reoriented national space policy towards commercial suppliers, injecting tens of billions of dollars into the industry and deregulating verticals like Earth imaging.
+
+Today, government funding sources (space agencies, defense agencies like the National Reconnaissance Office) represent just over a quarter of global spending on space. The bulk of the $400bn space market in 2023 was in the form of commercial revenue. Most of this revenue went to the GEO-based satellite TV and GPS chips (for mobile devices) segments, but the broadband and Earth imaging segments, while much smaller, are the fastest growing.
+
+Figure 7 Satellite broadband and earth imaging have benefited from technological advancements that have yielded higher-quality products as well as an influx of private investment, and are the fastest growing sectors (by annual revenue) of the space economy. Source: [25], Positive Sum analysis.
+
+As a result of the shift towards commercial revenues, R&D expenditures—historically the provenance of the government-defense contractor-supplier space chain—have increasingly come from new companies. Per a recent analysis of the US market (by far the largest space market) by McKinsey, even as late as 2010 the US government and legacy space players accounted for nearly 95% of R&D spending. By 2020, this had decreased to less than 70%, as space startups directed private financing towards development of new technologies.[3]
+
+To be clear, government spending on space has continued to increase as well—by 15% in 2023 alone to $117bn globally.[42] Governments remain some of the most important space customers, as evidenced by contracts worth more than $100mn recently won by Planet Labs.[43] Geopolitical concerns have meant that as a share of total, government dollars have crept up in recent years from a low in the late 2010s. However, when looking at R&D specifically, private spending is increasing fast. Total venture investment in space infrastructure companies has increased by a factor of nearly 20 since 2016.
+
+Figure 8 Venture investment in space infrastructure like satellites, launch, and components, has increased by nearly 20x and the number of funding rounds each year has increased by a factor of three since 2016. Source: [44]
+
+While total private investment dollars are up, they have been fairly concentrated in terms of both company and stage. Most space enterprises are extremely capital intensive, and require large infusions of capital before even getting to orbit. For example, Rocket Lab raised >$115mn through a Series E before launching its first rocket—and still needs hundreds of millions of dollars before its Falcon 9 competitor can begin commercial operations.[31] Megarounds (that is, greater than $100mn) are somewhat common, weighted towards later funding stages, and growth rounds can approach or exceed $1bn.
+
+In fact, as easily seen in Figure 8 above, only 30% of capital over the past decade has gone towards seed and growth (Series A/B/C) rounds. Over 65% of private space infrastructure (satellites, components, launch) funding in 4Q23 went to just 10 companies, and Blue Origin and SpaceX have received 68% of total space infrastructure funding over the past decade. This capital intensiveness creates challenges for early stage investors— maintaining ownership often demands significant follow-on dollars. Importantly, as discussed below, raising this capital does not guarantee a successful outcome, as much of it must be raised before a company starts earning meaningful revenue.
+
+4. Space is really hard
+
+The trends discussed in the previous section paint a favorable picture of the future of commercial space. But a holdover from previous eras in space remains: creating value in space is almost always a much harder challenge than anticipated. Across the major verticals—launch, Earth imaging, and communications—startups working on major space infrastructure projects often run three to five years late in reaching their operational goals, relative to initial public projections. Indeed, across the 14 companies analyzed in Figure 9, the median time required to get to first commercial launch (rocket or satellite) was five and a half years.
+
+Of course, optimistic timelines are hardly new to early stage investors. However, the time required to get to orbit is marked by little (if any) revenue, even as a space company must invest considerable capital—typically high tens to hundreds of millions of dollars—into R&D and vehicle construction. During this lengthy and expensive development timeframe, the rest of the world hardly sits still, creating risk of product obsolescence by the time operations start. Motorola’s Iridium disaster perfectly showcases these factors.
+
+Motorola’s Iridium bet
+
+In the early 1990s, Motorola publicly unveiled plans detailing a radical departure from the GEO focus of the previous decades. The Iridium constellation (named because the planned number of satellites matched iridium’s atomic number) would involve 77 satellites in LEO, supported by 20 ground stations, providing truly global satellite phone coverage with cell-phone sized handsets. The high quality of service, particularly at high latitudes (polar regions) where GEO satellites orbiting equatorial regions can have difficulty maintaining signal strength, would be a competitive advantage.
+
+By leveraging small LEO satellites, Iridium would control the overall cost of the initiative. Each Iridium satellite would have a mass of just 318kg, a fraction of the mass of a typical GEO communications satellite. The low mass and size of the satellites meant that multiple could be deployed from a single launch, further controlling costs. For around $2.3bn (nominal)[45], or ~$30mn per satellite, Motorola estimated it could capture up to five million subscribers—mostly global business travelers—by the year 2000. Each of these subscribers would be paying $100/month for the service, meaning Iridium would be raking in around $6bn annually. Motorola invested $400mn for a 25% stake in the effort, and a who’s who of international telecom companies and investors poured in additional money.
+
+In 1999, roughly a decade and change after Motorola first conceived of the idea, yet barely a year after commencing service, Iridium filed for Chapter 11 bankruptcy in one of the 20 largest corporate bankruptcy filings in modern history. By this point, an Iridium satellite weighed hundreds of kilograms more than originally projected, and the cost of the entire constellation had ballooned to over $5bn. While service had commenced around the time originally forecasted—a rare feat in the industry—this was likely small consolation to the executives at the company.
+
+That Iridium even made it to market is a lengthy case study on failures in corporate governance, but the underlying issue that led to Iridium’s demise is quite straightforward to understand: the cell phone. Here, its largest backer was in many ways a victim of its own success: Motorola was a leader in the cell phone technology market. In the 12 years since Motorola staff had brainstormed a globe-spanning LEO constellation to empower business travelers to take a call anytime, anywhere, terrestrial cell phone installations had captured the market at far lower cost.
+
+The competition between Iridium and cell phones wasn’t particularly close. Iridium handsets were a large and unwieldy 1lb device, with an equally large and unwieldy price tag of nearly $3,000, not including significant monthly and per-call charges. In contrast, ordinary cell phones had fallen below $1,000 with lower monthly service charges, and offered reliable service in the urban markets that Iridium’s target demographic tended to inhabit. In 1999, Iridium reported a paltry 20,000 subscribers[46]—far short of original projections.
+
+Ultimately, none of the major LEO-based telecom constellations proposed in the ‘90s took off in the way that their backers envisioned. Globalstar lost a full payload of satellites in a failed launch in 1998, and later filed for bankruptcy in 2002. Teledesic halted its ambitious plans after launching a single demonstrator satellite. Orbcomm filed for Chapter 11 in 2000 after Orbital Sciences pulled funding from the project.
+
+Figure 9 Over a sample of 14 startups that successfully launched a commercial vehicle (rocket or satellite) into orbit, the median valuation (relative to the Series A post) increased by a factor of five in the three years leading up to launch, and a factor of 17 in the three years following first commercial launch. This inflection point typically occurs over five years after company founding date. Source: Pitchbook data.
+
+As the example of Iridium shows, space is a risky commercial endeavor. Reflecting this, space companies tend to accrue value much faster after first commercial launch—with a 5x increase in valuation in the three years leading up to commercial launch, and a 17x increase in the three years after.
+
+There is some selection bias here—most companies with orbital ambitions don’t even reach launch. Around 80% of space companies founded in the past two decades have yet to reach the commercial launch milestone. This creates a conundrum for the typical VC operating within the constraints of a seven-year holding period. For the average space investment, the first five to six years of the investment is spent in a high-burn, low (or no) revenue state, during which the valuation of the company grows modestly. Valuation breakouts tend to occur after this point, coincident with improvement in the typical startup business metrics like customer and revenue growth. This means investors are likely to find themselves in the unenviable position of deciding whether or not to continue an investment before they get a strong signal on whether the business is viable.
+
+The calculus is worsened by just how capital intensive these businesses are. In particular, later funding rounds (Series B and later) for space-based businesses can be significantly larger (>50%) than the typical SaaS round size at a similar point in time. This means that the earliest investors should expect significant dilution or high follow-on requirements when exercising pro rata.
+
+Figure 10 Funding histories for Relativity (3D-printed launch) and Capella (radar-based Earth observation). High capital requirements create significant dilution for early investors (and founders). Source: Pitchbook data.
+
+While valuations tend to increase fastest after first commercial launch, even after reaching orbit (or, in the case of some SPACs, well before), companies have struggled to create viable space-based businesses. While private, pre-exit capital has certainly been demonstrably optimistic about space, the actual on-the-ground exit performance of most space companies, assuming they survive to this point, has been lackluster, to say the least.
+
+The Procure Space ETF (UFO), a basket of around 30 companies with heavy exposure to space, is down 32% since inception as of the time of writing. For comparison, the much broader S&P Aerospace & Defense ETF (XAR) is up 44% over the same period. Recent years have seen a spate of SPAC exits; perhaps this already tells the reader all they need to know. Nevertheless, here’s a look at post-SPAC performance for a number of new space companies:
+
+Figure 11 Market performance, relative to the S&P 500, for space SPACs (the overwhelming majority of public exits by space businesses since 2020) since public listing date. Space companies that have gone this route have subsequently performed much worse than even the typical SPAC. Source: [44], Positive Sum analysis
+
+While Earth imaging companies are the largest group represented in the chart, it’s apparent that SPAC performance is lackluster across the industry. Even normalizing for generally dismal post-SPAC stock performance, space companies have underperformed by an extra ~20%. The combined market capitalization as of early 2024 for the companies highlighted stands at just over $4.5bn, less than 3.5x the $1.38bn in total equity investment into these companies.
+
+It’s not just the markets. The reality is that the fundamentals of these companies are poor, and their public market performance more or less matches their business trajectories. A CNBC report in late 2023 found that a basket of 12 space companies that went public via SPAC between 2019 and 2022 missed their pre-SPAC revenue forecast for 2023 by a combined $2.4bn—a whopping 70% miss barely two years later, on average.[47]
+
+Earth imaging, in particular, hasn’t grown at the pace investors anticipated. US government spending on commercial Earth imaging has grown modestly since 2010; the NRO now spends around $500mn per year procuring images from private companies. While purchases by companies have driven up revenues by 45% in the five years ending in 2022, and these purchases now make up the bulk of a $2.9bn market, investors have clearly been disappointed. Planet Labs, which has a 50/50 government to non-government revenue mix, declined 76% after a SPAC in 2021. As of writing, the former unicorn’s market capitalization was just over $650mn, set against the $450mn in venture funding it raised before going public.
+
+Figure 12 Financial metrics for several established Earth imaging and communications players reflect mature businesses that look more like telecom companies than pure software or hardware companies. Values from the most recent FY reporting; market cap is current as of Feb 28, 2024. Maxar was taken private at the end of 2022; values are from the most recent public reporting. Revenue growth is on a YoY basis, ratios are on a diluted basis. Source: public filings, [44].
+
+Moving further away from public market newcomers, mature space businesses are quite different from the software businesses that have defined the last generation of VC-backed winners. Mature space-based businesses land somewhere in between a high margin software business (e.g. Snowflake) and an aerospace company (e.g. Lockheed Martin). From Figure 12, it’s perhaps best to look to traditional telecommunications companies for base rates. These are also high fixed-cost technology infrastructure businesses that enjoy good economies of scale, and similarly benefit from controlling a scarce resource (in both cases, licensed spectrum). In other words, viable businesses. However, evaluating space businesses through this lens helps contextualize the observed gap between pre-exit growth expectations and subsequent company performance.
+
+The reality is, there’s arguably only been one home-run company coming out of the second wave of space investment. This, of course, is SpaceX, with a recent tender offer rumored to value the company at $210bn.[1] This valuation is driven by excitement around its launch business and Starlink, yet rooted in real success—an estimated $9bn revenue across launch and Starlink in 2023,[48] with an impressive step up to $15bn estimated in 2024.
+
+Section 2. New markets on the horizon: a $4.3tn TAM expansion story.
+
+Summary
+
+Falling launch costs and satellite technology improvements promise to unlock markets that have never been to space before.
+
+These markets, taken together, represent a $4.3tn TAM expansion.
+
+Today, investors looking at space should see a mixed bag. On one hand, it’s clear that many space companies have struggled to match their paper valuations in practice. SPACs, true to form, have underperformed, but space-related SPACs have done even worse. The end of ZIRP has created a pullback in fresh capital going into space ventures, particularly in late stage and growth rounds—in 2023 (generally smaller) growth stage investments in space infrastructure claimed 64% more capital than later stage investments.[2]
+
+However, the space industry shows no indication of suffering the same precipitous decline that it did in the wake of Iridium’s failure. Most institutional estimates forecast double-digit CAGR in most verticals: launch, communication, and Earth imaging. New startup funding will be tempered by investor wariness due to the pullback from the 2020–2022 peak as well as the significant underperformance of the sector since that time.
+
+In this scenario, the space economy, by expenditures a $400bn market in 2023,[49] will grow to approximately $1tn by the early 2030s.[25] Much of this value will continue to be concentrated in a small number of entities, particularly in the launch market:
+
+Traditional space companies like ULA, L3Harris, Arianespace, Maxar.
+
+Established space-focused startups like Blue Origin, Relativity Space.
+
+Horizontal moves from large players in other verticals or industries: Amazon, SpaceX.
+
+From our analysis, we believe this linear ‘the same but more’ extrapolation from current trends is likely correct for the next three to five years, but will not hold in the long term. In nearly every single area the pace of change has been accelerating in the past 10 years. To recap the major developments:
+
+There has been a 15x improvement in launch cost since 2010 after several decades of relatively mild decreases, with another order of magnitude decrease possible in the next few years.
+
+Satellites cost 10–100x less to manufacture, yet have performance that far outstrips what was possible in the early 2000s.
+
+More venture capital flowed into space startups by 2015 than the previous 15 years combined. By 2023, private capital going into space had increased by a factor of nearly 20 from 2016 and the number of startups had doubled.
+
+Government investments in space have seen a sustained period of double-digit growth.
+
+Proposed LEO constellations contain more satellites than have ever been launched.
+
+If these accelerants hold, use cases for space that seem impossibly far off—or even farfetched—start to come into view. Falling launch and satellite manufacturing costs lower the threshold to achieve positive unit economics to the point where relatively commoditized industries start to pencil out in space.
+
+Sustained investor interest and government dollars mean that startups have a viable funding path to exploit this. Technical challenges still abound, of course, and some ideas—moon-based commercial activities, for example—are primarily held back by those. Nevertheless, startups in areas as diverse as telecommunications, edge computing, manufacturing, and mining are seeing startup activity.
+
+Taken together, these new markets represent more than a 4.3tn dollar TAM expansion—4x above the base case, without touching on human-centric activities like tourism or interplanetary travel. This TAM expansion will not be fully realized over the next decade; each of the previous commercial space eras unfolded over a period of ~25 years. Currently, the total funding put into these emerging areas is small, representing less than $1bn total, or only around 1% of total space funding over the past decade.
+
+Telecommunications | $1.0tn
+
+Satellite broadband is the fastest growing segment of the space economy with 70% revenue growth in the five years ended 2022. Starlink alone has added 1.3mn US subscribers since launch (60% of its total subscribers) and is on track to bring in a rumored $6.6bn in revenue in 2024[50]. Amazon’s competing Project Kuiper LEO-based high speed internet constellation is expected to begin commercial service in 2025[51].
+
+Datacenter & computing | $200.0bn
+
+The global datacenter market is approximately $200bn with low double-digit CAGR through the next decade. There is already significant interest in moving satellite data processing and transfer to the edge without relying on ground-based infrastructure, particularly for imaging satellites due to the size of raw imaging data.
+
+Servicing & reusing existing space infrastructure | $250.0bn
+
+There are over half a million satellites across proposed LEO constellations, and many thousands of existing satellites in orbit, operated by a variety of organizations. Reusing this ‘orbital infrastructure’ for direct-to-cell service (Skylo) and standing up ground-based tracking and control as a service has the potential to create additional value from existing and planned space investments.
+
+Low-gravity manufacturing | $1.0tn
+
+A subset of the global manufacturing market benefits from the unique aspects of space: low gravity and the presence of vacuum. While commodity manufacturing in space seems very unlikely to happen anytime soon, certain high-value products that can take advantage of these things may be quite viable to manufacture in space, for example: specialized fiber optic cables, semiconductors, and organoids for pharmaceutical research.[52]
+
+Energy | $1.6tn
+
+Space-based solar power (SBSP) offers unique advantages over purely terrestrial solar. The principles behind SBSP are straightforward: either put solar panels into space and transfer the power they generate back to Earth using lasers or microwaves, or put mirrors in space and simply reflect sunlight onto Earth-based solar panels[53].
+
+Resource collection | $250.0bn
+
+Platinum-rich metallic asteroids, while primarily iron and nickel, can contain platinum at much higher concentrations: up to 150–200ppm—13x the best ores on Earth. In other words, a single, modestly sized metallic asteroid could contain more platinum than the entire Earth produces annually.
+
+Section 3. Is space investable?
+
+Summary
+
+Most space companies are not investable, due to the time required to develop and ramp a business, combined with high capital requirements.
+
+Most emerging markets are too nascent for the typical investor to consider and require significant technological progress before viability.
+
+Opportunities for investment today include software for space, space operations, and reuse of existing space assets.
+
+There’s a bull thesis to be made regarding the prospects of the commercial space sector. Launch is 200x cheaper today than it was when the first commercial satellites were launched. More satellites are proposed to be put into orbit over the next ~decade than have ever been launched. LEO-based smallsats can cost well under $1mn and constellations of them are delivering internet service competitive with terrestrial broadband. Venture dollars going into space have increased by nearly 20x since 2016, while government investment in space continues to grow. Over $4tn in TAM is being attacked by today’s space startups.
+
+However, while the long-term macro picture of space is exciting, it doesn’t answer the most important question for investors evaluating the industry today: is space investable?
+
+Our answer is yes, but rarely. The truth is, over the past decade, SpaceX stands alone as the breakout success story, and it is poised for continued dominance and appreciation. An Earth imaging revolution has largely failed to garner the explosive commercial traction early proponents predicted. OneWeb had to be bailed out. Publicly listed companies have performed abysmally, posting an aggregate 70% revenue miss just two to three years after initial listing. This showing has been rewarded with stock performance that has underperformed the S&P 500 by over 100% on average, and a combined market capitalization just 3.5x greater than the total venture equity put in.
+
+Fewer than one in four venture-backed companies even make it to orbit. To get to this point, tens to hundreds of millions—in some cases billions—of dollars of capital are required. The vast majority of this capital must come from external sources, creating the prospect of enormous dilution for the earliest investors. During this period, the company will likely be making no significant revenue, and it is difficult to assess—outside of conviction—whether the business will be successful. There are exceptions; SpaceX’s participation in the NASA COTS program both helped it tap into non-dilutive funding, and served as an early signal of success.
+
+Even when (if) everything goes smoothly, commercial ramp takes time; both the Falcon 9 and Falcon Heavy took around five to six years to reach peak launch volume. A satellite company we talked to recently indicated that its launch provider required the payload (the satellite) to be delivered nine months in advance, to allow time for integration and launch. We’ve heard quotes on the order of 12–18 months for customized satellite hardware. Regulatory (FCC) approval can take 6–12 months.
+
+For the investor, this means that valuation breakouts reflective of an exploding business come late—after commercial launch. Our analysis of 14 space-based businesses from the past two decades indicated that median valuation only increased by a factor of five in the years leading up to first commercial launch, with a 17x increase in the years after. In late 2010, eight years after being founded, SpaceX was valued at $1bn. It was only in 2012, as SpaceX defied historical precedent by delivering cargo to the ISS, that its valuation started to break out ($4bn).
+
+Returning to the question of investability, the crux of our argument essentially boils down to noting that the typical 3+7 software VC timeline and structure, and the decision points it creates for investors, is not particularly in sync with the time and capital space companies need to get off the ground. This may be unsurprising to investors who have spent their careers building funds in sectors like aerospace or defense, but should give pause to transplants.
+
+Investors who can commit to the long haul can sidestep this issue. Specialized deep-tech funds with long horizons come to mind,[54] and perhaps a new breed of venture funds tuned for the longer timescales required for space investments to mature is the way through. And, sitting out until later rounds can move the exit timeline into spec. Ultimately, though, looking at today’s landscape, it’s perhaps unsurprising that some of the biggest space companies of the past decades—SpaceX, Blue Origin, even Iridium—have foundational backers operating outside of the typical VC model.
+
+For the investors who do not have the luxury of time, most of the use cases we’ve identified— namely mining, manufacturing, and energy—each require solutions to several upstream, very significant, technical challenges before becoming viable. It’s difficult to see how a company seeking investment today could overcome these, reach orbit, and ramp a business within a fund horizon, given the baseline expectation of five-plus years to orbit for already proven technologies. In other words, it’s simply too early to invest in these markets.
+
+Where are the opportunities, then? We’re interested in businesses that capitalize on the current and near-future developments in space, yet have ambitions that are realizable within our investment horizon. We’re not interested in launch companies, on-orbit manufacturing, lunar mining, or energy generation; not because we think they won’t make good businesses, but because we think they won’t make good investments.
+
+Companies that can capitalize in the near future on the massive growth in orbital assets and expected future demand growth for such assets is where we’re focused. Here’s where we’re looking:
+
+Software and hardware able to leverage existing space infrastructure. Armada is building Starlink-powered edge datacenters, Skynopy is selling underutilized ground station capacity.
+
+Software and hardware able to service space infrastructure. Momentus appears to have missed the mark, but technologies that extend the life of space assets or increase their capability—via refueling, orbital maintenance/ transfer, safe de-orbit—will become increasingly important as more capital is invested in space infrastructure.
+
+Edge (on-orbit) computing. Companies like OrbitsEdge promising full datacenter capabilities in space are intriguing, but there’s a lot of interesting blocking and tackling in this area: software platforms designed for the challenges around power management in space, lowercost space-rated processing hardware, better data downlink.
+
+Services that improve the operations of space. The unprecedented number of satellites in LEO creates challenges around constellation management and collision avoidance. LeoLabs addresses this via ground-based radar to detect space debris, coupled with software services to constellation operators.
+
+We feel these opportunities are closer to realization today than some of the longer-burn opportunities identified earlier. They are still oriented around emerging areas, but stand to benefit from the exploding growth in the commercial space economy. Thus, they offer the ideal blend of near-term feasibility and return profile that we seek out, and are the areas we are keeping an eye on.
+
+CIO Tear Sheet
+
+Donald Lee-Brown is the director of research at Positive Sum.

@@ -1,0 +1,150 @@
+{
+  "article_id": "990b83d2fcbd50a519554e9d2a11ea4adf2c823953d0c6b9c24a49fc10e9f8a9",
+  "guid": "urn:article-reader:990b83d2fcbd50a519554e9d2a11ea4adf2c823953d0c6b9c24a49fc10e9f8a9",
+  "release_name": "article-990b83d2fcbd50a519554e9d",
+  "article_title": "Sarah’s Wager",
+  "publication": "Colossus",
+  "title": "Sarah’s Wager (Colossus)",
+  "author": "Dom Cooke",
+  "source_url": "https://colossus.com/article/sarah-guo-conviction/",
+  "duration_seconds": 3995.53,
+  "file_size": 63930123,
+  "media_sha256": "05823f787198cb8b85bea11abd8e738fa407c9528e9aad230968d0d2d74f43c1",
+  "transcript_sha256": "5dea3b31219c1ed023787955ce8fc42b9033a24bf1a6f9a3d91e827755f19581",
+  "extraction_report_sha256": "6b2911a4468020c4726f925d30c1086ddd9cebcbfbb30d03b241e0023234c18f",
+  "audio_manifest_sha256": "6b87f63083f60f73b0cca6b6a258b00a596dc609a6028e57132d634740e27102",
+  "audio_run_sha256": "eb30b55d3e1c3f6bd119e899d77b201333dc5f35ad9ba571af12d36563854a23",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 18,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "958c2f86cb2e76e9fdc1e532dfae208ea1874b5200f6b13e8f5399ea7070528a",
+      "audio_sha256": "aa66df6bbcf95dd5f4a6e72ea066d024512f69dde1c8fac63bf41f83e64965c0",
+      "pcm_frames": 4902360
+    },
+    {
+      "index": 2,
+      "text_sha256": "9a23183cab81ea6463e9470c55a6c0af09a1f3100ed3ba18b94dc722f664cbe0",
+      "audio_sha256": "6e5d0ff6fdb32b93768c13ddc5ded4a33a87e6050415c5325df05daad5a90b56",
+      "pcm_frames": 6007080
+    },
+    {
+      "index": 3,
+      "text_sha256": "0a3f678764ec8108b2e9b58f637012b732180b077022d3746758a781dfcaff80",
+      "audio_sha256": "d35dbb1020668361ff00324226386df9fc39102d5a9b3ad66c3587b72e970904",
+      "pcm_frames": 5529720
+    },
+    {
+      "index": 4,
+      "text_sha256": "4af6f1d5a756e712212a333937a5c59e61486f02528b97e79485912c89ffec9e",
+      "audio_sha256": "8f88ca4e1681cde91b1699387d9b73f3a871bcab7ab4bc4b8eb17f5bd640e1e8",
+      "pcm_frames": 5143920
+    },
+    {
+      "index": 5,
+      "text_sha256": "955520cb97f3620edb47cdf2389a086110a61b4b8ba5f3fabc2cba9d45f4e7c5",
+      "audio_sha256": "732d68a89555e97b385b41474f7faf976e3fb79b49c75c74f4ca31a4163a1193",
+      "pcm_frames": 5610120
+    },
+    {
+      "index": 6,
+      "text_sha256": "317858c8d86b2b6b02d6062d7d3111c514e5295121980c3501595546ea0661af",
+      "audio_sha256": "8dae08d3e7fb63c37b5944dc284a96f94ec53c8044a3918af096998bbef422e1",
+      "pcm_frames": 5388960
+    },
+    {
+      "index": 7,
+      "text_sha256": "aca372e121ace55e680583333441fbedff9ad5129326b3c5d56cbc4b25e8a1eb",
+      "audio_sha256": "b7cacddafa57eef2c2b86bc211f0d61c02d3978161d007ed7a8c3cf5e8488e1f",
+      "pcm_frames": 5005920
+    },
+    {
+      "index": 8,
+      "text_sha256": "9166dcbbfb6aaaec48220dd4c0b87b1bc4e1c887136181ee94aca09b6351fb9c",
+      "audio_sha256": "dec9fc2b4f85ce2ed2c0240939b7ec450453117e5a1ce1dd1ada511965e84caf",
+      "pcm_frames": 6079200
+    },
+    {
+      "index": 9,
+      "text_sha256": "ccf419c3efbbcec069ef518775b84c9e6d95a523fa03d64ab272776c5f971dc1",
+      "audio_sha256": "73b91b66c95d554057f6222204f726355f1b2fe4655b3edacf192eef18e2d5e4",
+      "pcm_frames": 4968000
+    },
+    {
+      "index": 10,
+      "text_sha256": "1723e58230ad9154b1fbe0d14019b7a85a5f075e451785bccf86651228faa661",
+      "audio_sha256": "99dd6871a54259234e90f53d304ab41b06d35c09d4a5badefa2c266671b066d3",
+      "pcm_frames": 5594280
+    },
+    {
+      "index": 11,
+      "text_sha256": "efb47485cdc5dbd50bf9b4d3c09019d516637ba0fb091f1c88766c59795d6446",
+      "audio_sha256": "fd729975dd483f71d2a4f411a21cd4712588594816f5ed827c8d730caac322c0",
+      "pcm_frames": 5451240
+    },
+    {
+      "index": 12,
+      "text_sha256": "586a32a93056e7e11db95910459e2b6e101ce0cc9a1fd621d475bcd7d71960da",
+      "audio_sha256": "66c92c924f4b75f1f866b8861b71d3a6a31564c114ee3bc6a2a56d5e20b12190",
+      "pcm_frames": 5934840
+    },
+    {
+      "index": 13,
+      "text_sha256": "ab872a4a0a8df6adcf4b1aa11f1f8ff503b092cf34326975df1ac03aa336f82d",
+      "audio_sha256": "67fcb57884aa5b7cdf8b104248ed188440ea5cd3cd7d498a2ef56138a2f4a9b0",
+      "pcm_frames": 5581200
+    },
+    {
+      "index": 14,
+      "text_sha256": "563b07984d3d7c1c6a2e3f96144e1654450dded33a1be3ac0141833a5e1eac6f",
+      "audio_sha256": "5308ec900c8721a93b2f8cb74a6487fc1b78da9b98dfe51a4d04c04fb3eb33fc",
+      "pcm_frames": 5284680
+    },
+    {
+      "index": 15,
+      "text_sha256": "859affcb8bbe9e13b529c3f79d0413989e490aaa9492d9e7e1afcd20e3e3cd4e",
+      "audio_sha256": "88580afe84d11f14dfcaae8c8143a1bb550835da8070ae6df210221e8d033555",
+      "pcm_frames": 5651040
+    },
+    {
+      "index": 16,
+      "text_sha256": "3f0cde9d1b383228b09b265c2968ac3e7040e65380327e66fc84d24ffdf1988c",
+      "audio_sha256": "06a29371d65e6675529cd86ccd3db96ac355432ba21c7c73f1d3bba2d7be30b3",
+      "pcm_frames": 6091200
+    },
+    {
+      "index": 17,
+      "text_sha256": "944ce5aec8a9b884c4c4e25a46fe8ff8d9f4b5a2b39078b889cc5bf4f699f650",
+      "audio_sha256": "4763dcbf8c41bd04a775a0b4c59c2308792a9befbd3d0b2fe89dc9984c463a2f",
+      "pcm_frames": 5198760
+    },
+    {
+      "index": 18,
+      "text_sha256": "22c20c95268ad419b5c60c5d21638060a47d84546f3dd92b787f118a3f99e5e5",
+      "audio_sha256": "a2efe84941f290bc29af84dece41aa70eb0f758eeec156038c1d310e5580a777",
+      "pcm_frames": 2470200
+    }
+  ],
+  "pcm_sha256": "e93d636c011f6bfaba8ae419852ccb35e659ba4f5fe8a0d473ec4e319dd1360b",
+  "pcm_frames": 95892720,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-990b83d2fcbd50a519554e9d/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-990b83d2fcbd50a519554e9d/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-990b83d2fcbd50a519554e9d/rss-item.xml",
+  "released_at": "2026-09-16T16:19:41.671146+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

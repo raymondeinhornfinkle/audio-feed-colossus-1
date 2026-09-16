@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>The Education of the Broligarchy (Colossus)</title>
+  <description>An audio reading of The Education of the Broligarchy from Colossus.</description>
+  <link>https://colossus.com/article/education-broligarchy-silicon-valley-canon/</link>
+  <pubDate>Wed, 16 Sep 2026 16:14:14 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:dc75cfc2ecf7ddc781044bd6759f1658d7b77c1513d679c0cbe2f88c8c96a759</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dc75cfc2ecf7ddc781044bd6/article.mp3" length="43381150" type="audio/mpeg" />
+  <itunes:author>Blake Smith</itunes:author>
+  <itunes:duration>00:45:11</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

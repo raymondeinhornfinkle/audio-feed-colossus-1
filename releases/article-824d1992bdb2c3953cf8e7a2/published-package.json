@@ -1,0 +1,120 @@
+{
+  "article_id": "824d1992bdb2c3953cf8e7a2ae2c9e94662735521a3c5462ade16702243c178b",
+  "guid": "urn:article-reader:824d1992bdb2c3953cf8e7a2ae2c9e94662735521a3c5462ade16702243c178b",
+  "release_name": "article-824d1992bdb2c3953cf8e7a2",
+  "article_title": "Inside Notion",
+  "publication": "Colossus",
+  "title": "Inside Notion (Colossus)",
+  "author": "Brie Wolfson & Camille Ricketts",
+  "source_url": "https://colossus.com/article/inside-notion/",
+  "duration_seconds": 2947.085,
+  "file_size": 47155103,
+  "media_sha256": "d27590ca3775825e5f606ff7ec799771a9f16e2163fb7db0518426812667299d",
+  "transcript_sha256": "d9af2995548fd15c2d52fe9cee6d72ccbbd4c0798f47d4f063f1cf6cb07a11ba",
+  "extraction_report_sha256": "7cb37dbc803fd064c319b00ff9270dd497e691cc759bb47f7b5d5cf97ae062bc",
+  "audio_manifest_sha256": "902be4442cd818843b34d186bf7886ebab7768c8b5e8b3c80b1d3d0f2e2a6b69",
+  "audio_run_sha256": "86e9d8d707c25839ee79b03cde10fa654c253cc9fd99d87ce8d9738472c1e4c9",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 13,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "befac6e5e5d7d21a9a482dd1d2f6c67624057dd8f4604c29232f6d34820ce721",
+      "audio_sha256": "1c9e7fd9d9d3f6e01e143bd6f1d5b1c049351432694af7db3a98b9f968312207",
+      "pcm_frames": 5739600
+    },
+    {
+      "index": 2,
+      "text_sha256": "b4d2b42c6a443a15e0d673413a7269b2dc087ad3c1f3a41dadfec11f69efbd70",
+      "audio_sha256": "abd2be4e71ac523822b5e6931d0243b4a152d1fbf75f25c9784602babebf81db",
+      "pcm_frames": 5820360
+    },
+    {
+      "index": 3,
+      "text_sha256": "4707bab21e02322d8175506c50442d5a46e23af6c3fb3407c6f756a8b081cba4",
+      "audio_sha256": "883a24b20b56824bd9b764990a0032cccb6fdf2afc082fa599ebb20680c84c1b",
+      "pcm_frames": 5337720
+    },
+    {
+      "index": 4,
+      "text_sha256": "9bab701d4eae765304fdc53be33d9a2a719bbe61c22e46454d613f0abfe703f7",
+      "audio_sha256": "ed842d50360d0a6f0d992cb009a767e9987856d212172cdb8377385e071c4016",
+      "pcm_frames": 5491920
+    },
+    {
+      "index": 5,
+      "text_sha256": "dc4be0e6319ac94db0058a421f46c02b19ee3257d5d1c53434f2fa874400dca5",
+      "audio_sha256": "d22c877a061a01e9c8f92b851265d93da46f98c8a93cd6b94de31dde2c60b57e",
+      "pcm_frames": 4895400
+    },
+    {
+      "index": 6,
+      "text_sha256": "f0af64b923d7ba654efa5aa5f0b05bdc6742cffc88702595c87d3f85c8db42ee",
+      "audio_sha256": "a21b6f202ef0b02429e304650d824cc1d6d6cb9ca321e16cbcfafe2acf381f06",
+      "pcm_frames": 5541120
+    },
+    {
+      "index": 7,
+      "text_sha256": "ecf1bb0d6265fd614ece041481266e126ae2c637d39e7cb972793993bb104bb2",
+      "audio_sha256": "dfc92afeb84d5228b2330674517dac6b7e52679e63fddb6217bb488e3dfc9bf7",
+      "pcm_frames": 5369640
+    },
+    {
+      "index": 8,
+      "text_sha256": "1c8a357dd31abbed36dcd47fa72da6d3a5314c513e6b4f20bf760c76b2df3271",
+      "audio_sha256": "71f30ec5ddfb8126e18b30ba68de7ed0be4f4f755a1dabe5de6f9de963838d31",
+      "pcm_frames": 5541600
+    },
+    {
+      "index": 9,
+      "text_sha256": "210d6f423f48d12139436f87c6c5d3a2e6721c6cc8d66659aca907350c65a866",
+      "audio_sha256": "f405fee4d5cba79d619f3b762f005925041487d9aee8a76ae5658abfa3728417",
+      "pcm_frames": 5853240
+    },
+    {
+      "index": 10,
+      "text_sha256": "e9d4f891b6ae6deee12d8bd56a32cf7146539196d11de46215f32f6286572ee5",
+      "audio_sha256": "c3b3aefe9dc4055825fc4e85ca9d73e9ecd08c1357a3c72c8cb227fd22103f63",
+      "pcm_frames": 5718000
+    },
+    {
+      "index": 11,
+      "text_sha256": "db0da8ee5a858ce80f493a7a08fe6a0cce571befa9747bd16530e2cbd5dc58b4",
+      "audio_sha256": "12f072248c959e5194d38b7317f05a2c84010ae0e8dbac704e6a19b706e22ad1",
+      "pcm_frames": 5619360
+    },
+    {
+      "index": 12,
+      "text_sha256": "d1ccd8e33905ebafc1218b02cb751d6848d5cdf5a41dbef202196174aa457b39",
+      "audio_sha256": "c74f1f4e095fdbb4dee2f26a4cb228becc269a3dacc1c83e0298150e9a6f4e4d",
+      "pcm_frames": 5699520
+    },
+    {
+      "index": 13,
+      "text_sha256": "9c3976ef15f81e1975085944064ec855ddb5c144bf3806ea57d96d129100d720",
+      "audio_sha256": "908a0cbd72143d5fa4384d186a384a704ddd9148b62a2818ce2dc272b8ce4172",
+      "pcm_frames": 4102560
+    }
+  ],
+  "pcm_sha256": "c9962c6b729547ac80d6c62cdeaf1876a4b76f9e0c1586da07e9f90124b8aa7c",
+  "pcm_frames": 70730040,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-824d1992bdb2c3953cf8e7a2/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-824d1992bdb2c3953cf8e7a2/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-824d1992bdb2c3953cf8e7a2/rss-item.xml",
+  "released_at": "2026-09-16T16:16:44.413189+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}
